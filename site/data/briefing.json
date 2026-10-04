@@ -1,0 +1,954 @@
+{
+ "generated_at": "2026-10-04T19:55:21.964239+00:00",
+ "highlights": [
+  "https://www.psypost.org/how-politicians-and-influencers-spread-disinformation-during-the-2024-election/",
+  "https://medicalxpress.com/news/2026-10-health-adults-link-based-grocery.html",
+  "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+  "https://www.theguardian.com/commentisfree/2026/oct/05/making-sense-of-it-sitting-with-uncertainty-can-ultimately-bring-wisdom",
+  "https://www.theguardian.com/commentisfree/2026/oct/04/does-the-word-dumbass-flash-up-when-your-husband-calls-your-phone",
+  "https://www.theguardian.com/society/2026/oct/02/other-countries-learn-from-their-elders-wisdom-so-could-britain",
+  "https://www.sciencedaily.com/releases/2026/09/260930225501.htm"
+ ],
+ "topics": [
+  {
+   "id": "psychology",
+   "name": "Psychology",
+   "icon": "🧠",
+   "color": "#7c5cff",
+   "articles": [
+    {
+     "title": "Republican-aligned actors issued nearly three-quarters of fact-checked 2024 election hoaxes",
+     "url": "https://www.psypost.org/how-politicians-and-influencers-spread-disinformation-during-the-2024-election/",
+     "summary": "During the 2024 U.S. presidential election, politicians and anonymous users openly used disinformation as a campaign strategy. A new study reveals who spread these hoaxes, how they shared them, and who was targeted by the fabricated claims.",
+     "source": "PsyPost",
+     "published": "2026-10-04T18:00:38+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/05/fake-news.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Problematic pornography use is linked to craving, shame, depression, and loneliness, meta-analysis finds",
+     "url": "https://www.psypost.org/problematic-pornography-use-is-linked-to-craving-shame-depression-and-loneliness-meta-analysis-finds/",
+     "summary": "A meta-analysis of 121,728 participants finds that problematic pornography use is most strongly linked to craving and sexual shame, with smaller links to depression and loneliness. How strong these links appear may depend on the measure used.",
+     "source": "PsyPost",
+     "published": "2026-10-04T16:00:55+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/10/man-on-laptop-computer-at-night.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Women and underrepresented minorities have higher tenure-track placement rates in the political science job market",
+     "url": "https://www.psypost.org/women-and-underrepresented-minorities-have-higher-tenure-track-placement-rates-in-the-political-science-job-market/",
+     "summary": "What actually lands a PhD student a tenure-track professorship? A new study suggests a candidate's publication record, research field, and demographic identity are much stronger predictors of hiring success than the prestige of their university.",
+     "source": "PsyPost",
+     "published": "2026-10-04T14:00:35+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/09/professor.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "New study links sexual objectification at home to young women’s difficulty saying no to unwanted sex",
+     "url": "https://www.psypost.org/new-study-links-sexual-objectification-at-home-to-young-womens-difficulty-saying-no-to-unwanted-sex/",
+     "summary": "New research suggests that young women who received objectifying messages from their families growing up are more likely to view themselves as objects, a mindset linked to difficulties communicating sexual desires and experiencing orgasm.",
+     "source": "PsyPost",
+     "published": "2026-10-04T13:00:18+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2024/10/sad-young-woman.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Virtual reality can induce mystical experiences, new study suggests",
+     "url": "https://www.psypost.org/virtual-reality-can-induce-mystical-experiences-without-psychedelics/",
+     "summary": "Virtual reality headsets might offer a reliable way to induce profound feelings of unity and awe typically associated with deep spiritual practices or psychedelics, providing researchers with a new tool to study human consciousness.",
+     "source": "PsyPost",
+     "published": "2026-10-04T12:00:33+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2024/03/virtual-reality.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Study of 2.5 million children finds no link between MMR vaccine and autism",
+     "url": "https://www.psypost.org/study-of-2-5-million-children-finds-no-link-between-mmr-vaccine-and-autism/",
+     "summary": "Evaluating the health records of over 2.5 million children, researchers found no evidence that receiving the measles, mumps, and rubella vaccine before age two increases the risk of a childhood autism diagnosis.",
+     "source": "PsyPost",
+     "published": "2026-10-04T11:00:18+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/10/infant-vaccine.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "This diet may slow brain aging by 2.5 years",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+     "summary": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and fried fast foods were associated with greater tissue loss.",
+     "source": "ScienceDaily",
+     "published": "2026-10-01T12:26:47+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/human-brain-fresh-fruit-healthy-food.webp",
+     "topic": "psychology"
+    },
+    {
+     "title": "Could quitting ultra-processed food boost your mental health?",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+     "summary": "People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the brain partly by reducing gut damage and chronic inflammation.",
+     "source": "ScienceDaily",
+     "published": "2026-10-01T06:34:01+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/unhealthy-ultraprocessed-junk-food.webp",
+     "topic": "psychology"
+    },
+    {
+     "title": "Children at risk for depression get “stuck” on sad faces",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm",
+     "summary": "Depression may change which emotional faces children notice most, but the pattern appears to depend on family history. Children at higher familial risk became increasingly focused on sad faces, while lower-risk children with rising symptoms paid less attention to happy ones.",
+     "source": "ScienceDaily",
+     "published": "2026-09-29T12:36:52+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/happy-vs-sad-faces-girl.webp",
+     "topic": "psychology"
+    },
+    {
+     "title": "Brain scans reveal which disorders are linked to faster brain aging",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260927225038.htm",
+     "summary": "A massive MRI study found that Alzheimer’s disease, mild cognitive impairment, psychiatric disorders, and addiction are associated with distinct patterns of accelerated brain aging. The strongest effects appeared in Alzheimer’s and mild cognitive impairment, while ADHD and autism showed no significant overall difference.",
+     "source": "ScienceDaily",
+     "published": "2026-09-29T11:01:18+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/brain-scan-disease-glitch.webp",
+     "topic": "psychology"
+    },
+    {
+     "title": "Scientists just discovered what coffee really does to your gut and brain",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+     "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learning and memory, while caffeinated coffee appeared to reduce anxiety and improve attention.",
+     "source": "ScienceDaily",
+     "published": "2026-09-28T13:37:05+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/woman-enjoying-morning-coffee-and-sunshine.webp",
+     "topic": "psychology"
+    }
+   ],
+   "sources": [
+    {
+     "name": "PsyPost",
+     "about": "Independent news site reporting on peer-reviewed psychology and neuroscience studies.",
+     "home": "https://www.psypost.org",
+     "working": true
+    },
+    {
+     "name": "ScienceDaily",
+     "about": "Long-running science news site that publishes university and research-institute press releases.",
+     "home": "https://www.sciencedaily.com",
+     "working": true
+    },
+    {
+     "name": "BPS Research Digest",
+     "about": "Research summaries from the British Psychological Society.",
+     "home": "https://www.bps.org.uk/research-digest",
+     "working": false
+    }
+   ]
+  },
+  {
+   "id": "medicine",
+   "name": "Medicine",
+   "icon": "🩺",
+   "color": "#0fa3b1",
+   "articles": [
+    {
+     "title": "Health records from 68 adults link plant-based grocery support to lower blood pressure and weight",
+     "url": "https://medicalxpress.com/news/2026-10-health-adults-link-based-grocery.html",
+     "summary": "Providing people with nutritious foods can improve the management of chronic metabolic diseases such as type 2 diabetes and hypertension. However, most studies of \"Food Is Medicine\" programs have only looked at their short-term impacts—on the scale of weeks to months.",
+     "source": "Medical Xpress",
+     "published": "2026-10-04T19:24:58+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-food-is-medi.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Diet analysis links higher pulse intake to lower heart disease and diabetes risk",
+     "url": "https://medicalxpress.com/news/2026-10-diet-analysis-links-higher-pulse.html",
+     "summary": "New research from two William & Mary students has found that the risk of heart attack could be significantly lowered with one simple dietary change: increasing the intake of pulses. But what is a pulse? A food group with diverse options, pulses are edible seeds from plants in the legume family. Some examples include dry beans, chickpeas, lentils and dry peas.",
+     "source": "Medical Xpress",
+     "published": "2026-10-04T19:00:02+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chickpeas-broccoli.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Good palliative care and assisted dying can go hand in hand | Letters",
+     "url": "https://www.theguardian.com/society/2026/oct/04/good-palliative-care-and-assisted-dying-can-go-hand-in-hand",
+     "summary": "Readers respond to an article on the urgent need for palliative care reform Jane Turner is right that end-of‑life care needs fixing ( MPs, you told us clearly that end-of-life care in the UK is broken. So now we need you to fix it, 28 September ), and I argue that it needs fixing on two fronts at once. My husband, John, died in March aged 43 after nearly six years of bowel cancer treatment. He endured more than 70…",
+     "source": "The Guardian",
+     "published": "2026-10-04T17:06:32+00:00",
+     "image": "https://i.guim.co.uk/img/media/477ea97176d8641992a2ec5d7bab5c8a985f44da/375_0_3751_3001/master/3751.jpg?width=700&quality=85&auto=format&fit=max&s=807f23887d886cf0b69e9f0882301551",
+     "topic": "medicine"
+    },
+    {
+     "title": "How blood vessels distinguish between growth and inflammation",
+     "url": "https://medicalxpress.com/news/2026-10-blood-vessels-distinguish-growth-inflammation.html",
+     "summary": "The angiopoietin-Tie signaling pathway has long been known to be essential for the maturation and maintenance of healthy blood vessels. It stabilizes the vessel wall and regulates vascular growth during development. At the same time, it plays an important role in inflammation, when blood vessels become activated and immune cells leave the bloodstream and enter the surrounding tissue. How the same signaling pathway…",
+     "source": "Medical Xpress",
+     "published": "2026-10-04T17:00:06+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-blood-vessels-dist.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "New technology advances understanding of eye pressure and glaucoma",
+     "url": "https://medicalxpress.com/news/2026-09-technology-advances-eye-pressure-glaucoma.html",
+     "summary": "For millions of people at risk of glaucoma, healthy eye pressure can mean the difference between preserving vision and losing it. Yet despite decades of research, scientists still do not fully understand what regulates daily changes in eye pressure or how those fluctuations may contribute to glaucoma. A series of three studies led by Christopher Passaglia, a University of South Florida professor and associate chair…",
+     "source": "Medical Xpress",
+     "published": "2026-10-04T15:40:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wireless-eye-pressure.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Weekly cisplatin fails to show fewer serious side effects in p16-negative head and neck cancer",
+     "url": "https://medicalxpress.com/news/2026-09-weekly-cisplatin-side-effects-p16.html",
+     "summary": "Physicians typically use either a higher dose of cisplatin given every three weeks or a lower dose given weekly in combination with radiation to treat locally advanced head and neck cancer. However, before NRG-HN009, there was limited randomized evidence to determine which regimen provided the best balance of cancer control and treatment-related side effects.",
+     "source": "Medical Xpress",
+     "published": "2026-10-04T14:20:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/chemotherapy-2.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Medicare for All remains key pressure point for Democrats ahead of midterms",
+     "url": "https://www.theguardian.com/us-news/2026/oct/04/medicare-for-all-democrats-midterms",
+     "summary": "The idea of universal health coverage in the US is embraced by party’s left but is often considered a liability by centrists Last week, 1,500 unionized nurses gathered in a large conference room at the Marriott Marquis in San Francisco to cheer for a cause they’ve championed for years: Medicare for All. Considered a radical and even fringe idea for decades, interest in sweeping healthcare reform has surged as…",
+     "source": "The Guardian",
+     "published": "2026-10-04T14:00:30+00:00",
+     "image": "https://i.guim.co.uk/img/media/6637319d733cfbef9d83c55f125060df6ff10484/18_0_6829_5464/master/6829.jpg?width=700&quality=85&auto=format&fit=max&s=3a0095f45c231b2d916cffb377f39b08",
+     "topic": "medicine"
+    },
+    {
+     "title": "Polyubiquitin may stabilize tau filament structures in neurodegenerative diseases",
+     "url": "https://medicalxpress.com/news/2026-09-polyubiquitin-stabilize-tau-filament-neurodegenerative.html",
+     "summary": "In neurodegenerative diseases such as Alzheimer's disease, progressive neuronal damage is associated with the accumulation of abnormal tau filaments in the brain. The core of these filaments forms a highly ordered structure, while molecules such as ubiquitin are attached to tau around the core as post-translational modifications. However, the role these peripheral modifications play in maintaining the structural…",
+     "source": "Medical Xpress",
+     "published": "2026-10-04T13:00:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polyubiquitin-may-stab-1.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Your gut bacteria may reveal how fast your brain is aging",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+     "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain aging may appear decades before obvious symptoms and could eventually make the gut a target for prevention.",
+     "source": "ScienceDaily",
+     "published": "2026-10-04T11:28:03+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/gut-microbiome-interaction-within-brain.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "Hegseth is obsessed with testosterone therapy. If anything, I’d like the opposite | Dave Schilling",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/04/hegseth-testosterone-replacement-therapy",
+     "summary": "Maybe the key to life is being able to bench press 300lb at 75. But do we need more muscle-bound, angry guys around? I loathe going to the doctor. Not a controversial opinion, compared to some of the other ones in this section of the Guardian. I’m not exactly arguing for universal basic income or for Manchester City to be relegated to the Saudi Pro League here. No one looks forward to a doctor visit, with its…",
+     "source": "The Guardian",
+     "published": "2026-10-04T11:00:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/70edd1eb4cb7dba805c21a27cef947adea81cea2/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=f651dc866f7b5c3bc86e864651d947e1",
+     "topic": "medicine"
+    },
+    {
+     "title": "Dining across the divide: ‘Without being patronising, I think as he grows older he’ll tune in to the damage “free speech” can do’",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/04/dining-across-the-divide-ted-nicky",
+     "summary": "Did a Tory voter who opposes all censorship offend a leftwinger concerned about how people treat one another? • Want to meet someone from across the divide? Click here to find out how Ted, 24 , London Occupation Works for a thinktank",
+     "source": "The Guardian",
+     "published": "2026-10-04T11:00:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/46ef4129f9db0cd8c6bfa28cf544a139d5ad4316/660_0_5458_4366/master/5458.jpg?width=700&quality=85&auto=format&fit=max&s=c3e01f79be9facbb81b0311dd2e989b4",
+     "topic": "medicine"
+    },
+    {
+     "title": "This common vitamin could help fight one of the deadliest brain cancers",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
+     "summary": "High-dose vitamin B3 is showing intriguing early promise as an addition to standard glioblastoma treatment, with 82% of patients in a small trial remaining progression-free after six months. Researchers believe niacin may help revive immune cells suppressed by the cancer, but larger studies are still needed to confirm the benefit and safety.",
+     "source": "ScienceDaily",
+     "published": "2026-10-04T10:09:00+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/biological-lymphocytes-and-cancer-cell.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "Pennsylvania health officials brace themselves as measles outbreak expected to spread",
+     "url": "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak",
+     "summary": "Most counties don’t have their own health agencies, and some specific population groups have low vaccination rates Pennsylvania is bracing for a wave of measles cases, with some public health officials concerned that it’s “only a matter of time” until the disease spreads beyond the outbreak’s epicenter. Last week the state reported its fifth measles-associated death amid 943 confirmed cases across 39 counties. The…",
+     "source": "The Guardian",
+     "published": "2026-10-04T10:00:25+00:00",
+     "image": "https://i.guim.co.uk/img/media/89034b5207eb4204facd2a29d9e365524a9d97e0/466_0_4085_3267/master/4085.jpg?width=700&quality=85&auto=format&fit=max&s=05b2a4513c69677716ebdafe7f019cff",
+     "topic": "medicine"
+    },
+    {
+     "title": "Polish activists launch abortion pill locker to bypass near-total ban",
+     "url": "https://www.theguardian.com/world/2026/oct/04/polish-activists-launch-abortion-pill-locker-to-bypass-near-total-ban",
+     "summary": "‘AbortOmat’ in Warsaw offers novel way to challenge country’s restrictions and allow women swift, anonymous access They call it the “world’s first parcel locker for abortion pills”. Polish campaigners have launched a new means of distribution as part of their ongoing effort to skirt the country’s near-total ban on abortion. Painted pink and framed by zebra-striped curtains, the 22-compartment “AbortOmat” in Warsaw…",
+     "source": "The Guardian",
+     "published": "2026-10-04T05:00:20+00:00",
+     "image": "https://i.guim.co.uk/img/media/b2a4b4f3e691be90c856b0b98446d8ab2365dd4c/476_396_3347_2678/master/3347.jpg?width=700&quality=85&auto=format&fit=max&s=29f5ccf9b63b05f3d05aa8ec73475834",
+     "topic": "medicine"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily",
+     "about": "Long-running science news site that publishes university and research-institute press releases.",
+     "home": "https://www.sciencedaily.com",
+     "working": true
+    },
+    {
+     "name": "BBC Health",
+     "about": "Health coverage from BBC News.",
+     "home": "https://www.bbc.co.uk/news/health",
+     "working": true
+    },
+    {
+     "name": "The Guardian",
+     "about": "UK national newspaper (Guardian Media Group).",
+     "home": "https://www.theguardian.com",
+     "working": true
+    },
+    {
+     "name": "Medical Xpress",
+     "about": "Medical research news from the Science X network.",
+     "home": "https://medicalxpress.com",
+     "working": true
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "name": "World Politics",
+   "icon": "🌍",
+   "color": "#e4572e",
+   "articles": [
+    {
+     "title": "France to shutter up to 500 schools as more student protests called",
+     "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+     "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T19:41:04+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2853100e5-1791132977.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+     "url": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
+     "summary": "Supporters of jailed former prime minister have set off from northwest Pakistan towards Islamabad.",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T19:20:08+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261004__D27V7WE__v1__HighRes__PakistanPoliticsProtest-1791131061.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Brazil presidential election 2026: first-round live results",
+     "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+     "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil is directly elected, and candidates need more than 50% of the vote to avoid a second round. Polls close at 17.00 BRT /…",
+     "source": "The Guardian",
+     "published": "2026-10-04T19:01:28+00:00",
+     "image": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a806b57924db0873ee0cca39c89b98a5",
+     "topic": "world"
+    },
+    {
+     "title": "War on Iran: Is escalation more likely than a deal?",
+     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+     "summary": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T18:47:22+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/war-on-iran-1-1791139662.jpg?resize=1920%2C1080&quality=80",
+     "topic": "world"
+    },
+    {
+     "title": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
+     "summary": "The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith.",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T18:34:30+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-04-at-19.26.26-1791138580.png?resize=1200%2C675",
+     "topic": "world"
+    },
+    {
+     "title": "Nearly all women arriving on small boats have been raped, says Shabana Mahmood",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/04/women-small-boats-raped-shabana-mahmood-asylum-migration",
+     "summary": "Home secretary warns people traffickers will exploit asylum seekers because they decide who comes to the UK Nearly all women who try to reach the UK in small boats from northern France have been raped on their journey, Shabana Mahmood has claimed. In an interview with The Rest Is Politics podcast, the home secretary said far-right, balaclava-wearing activists would “kill” or “kick me out of my own country” if they…",
+     "source": "The Guardian",
+     "published": "2026-10-04T18:00:34+00:00",
+     "image": "https://i.guim.co.uk/img/media/76625ce1f734f5341b5850f549e5bb3bf1174d69/1018_522_3077_2462/master/3077.jpg?width=700&quality=85&auto=format&fit=max&s=007088e86daf834fae86c9c3c26642b3",
+     "topic": "world"
+    },
+    {
+     "title": "Police investigating Flydubai co-pilot’s Australia ties",
+     "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+     "summary": "Australian police and intelligence join the list of those probing the incident.",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T17:53:34+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ac282ed1f55-1791132397.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Green party votes to adopt policy that equates Zionism with racism",
+     "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
+     "summary": "Motion calling for single Palestinian state, which is opposed by most Green MPs and expected to be challenged, passes by 1,022 votes to 813 The Greens have formally adopted a policy that equates Zionism with racism and calls for Israel to be replaced by a single Palestinian state, a move opposed by the bulk of the party’s MPs and which is expected to face legal challenge. Zack Polanski, who heads the Greens in…",
+     "source": "The Guardian",
+     "published": "2026-10-04T17:40:39+00:00",
+     "image": "https://i.guim.co.uk/img/media/646c5bd0acff2a6e80dc86cc72551c0b2a11e17a/0_0_3874_3099/master/3874.jpg?width=700&quality=85&auto=format&fit=max&s=e849efb250ba935ea1ffb1b02a8b844b",
+     "topic": "world"
+    },
+    {
+     "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+     "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+     "summary": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T17:17:42+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac270a7-1791127719.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Indian police accused of sexual harassment against journalists at protest",
+     "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+     "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+     "source": "BBC World",
+     "published": "2026-10-04T17:01:19+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d2fb/live/20fd0ca0-bffa-11f1-a64c-550be9e3c66b.jpg",
+     "topic": "world"
+    },
+    {
+     "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+     "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+     "source": "BBC World",
+     "published": "2026-10-04T16:51:30+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
+     "topic": "world"
+    },
+    {
+     "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
+     "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
+     "summary": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racism On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the state pension system needs a fundamental overhaul. Speaking in June, when she was a frontbencher but not yet in the shadow cabinet, Lam was asked at a…",
+     "source": "The Guardian",
+     "published": "2026-10-04T16:32:00+00:00",
+     "image": "https://i.guim.co.uk/img/media/0ec80a22ef35c2a228fdedcb6073722da88831a2/290_182_3510_2808/master/3510.jpg?width=700&quality=85&auto=format&fit=max&s=a1bc04a89827c3a76a0ec0d290d492e6",
+     "topic": "world"
+    },
+    {
+     "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+     "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+     "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+     "source": "BBC World",
+     "published": "2026-10-04T16:24:48+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg",
+     "topic": "world"
+    },
+    {
+     "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+     "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
+     "summary": "Attack shortly after Friedrich Merz arrived on unannounced visit intended to underline Germany’s backing Russia has struck another major bridge in Kyiv as the German chancellor, Friedrich Merz, arrived in the capital in a show of support for Ukraine. A Russian drone hit Kyiv’s key Northern Bridge over the Dnipro River, marking the fourth consecutive day that Russia has targeted bridges used by tens of thousands of…",
+     "source": "The Guardian",
+     "published": "2026-10-04T16:12:21+00:00",
+     "image": "https://i.guim.co.uk/img/media/1f670864526e1f5e87ee49c6d8f97d2f1f97c8e5/382_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=38d7e2885545d264fe86972f42cd4cdd",
+     "topic": "world"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC World",
+     "about": "International news from BBC News.",
+     "home": "https://www.bbc.co.uk/news/world",
+     "working": true
+    },
+    {
+     "name": "The Guardian",
+     "about": "UK national newspaper (Guardian Media Group).",
+     "home": "https://www.theguardian.com",
+     "working": true
+    },
+    {
+     "name": "Al Jazeera",
+     "about": "Qatar-based international broadcaster with strong Middle East and Global South coverage.",
+     "home": "https://www.aljazeera.com",
+     "working": true
+    }
+   ]
+  },
+  {
+   "id": "philosophy",
+   "name": "Philosophy",
+   "icon": "🏛️",
+   "color": "#b8860b",
+   "articles": [
+    {
+     "title": "It’s never been so easy to find answers. But sitting with uncertainty can ultimately bring wisdom | Muhammad Abdulsater",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/05/making-sense-of-it-sitting-with-uncertainty-can-ultimately-bring-wisdom",
+     "summary": "Even the greatest prophets had questions but they learned to wait to see the full picture We live in an age that has become profoundly uncomfortable with not knowing. A delayed email reply becomes a source of anxiety. A medical symptom is immediately searched online. We refresh news feeds, ask AI for instant explanations, and expect the answers to life’s biggest questions to arrive at the same speed as food…",
+     "source": "The Guardian",
+     "published": "2026-10-04T14:00:30+00:00",
+     "image": "https://i.guim.co.uk/img/media/c4e2715bdb0503225004afca67a95e332b540aef/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=4fbe9e080547a9bb3d47b26a3b6474f6",
+     "topic": "philosophy"
+    },
+    {
+     "title": "A Request from an AI (updated)",
+     "url": "https://dailynous.com/2026/10/02/a-request-from-an-ai/",
+     "summary": "People in the philosophy world sometimes write to me seeking help with problems they’re having, asking me to look into some issue or event, or […]",
+     "source": "Daily Nous",
+     "published": "2026-10-02T13:07:28+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/10/fist-network-2-1024x553.png",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Ask me anything",
+     "url": "https://psyche.co/videos/what-happens-when-a-sudanese-refugee-lets-strangers-ask-him-anything",
+     "summary": "As the Netherlands adopts its strictest-ever asylum policy, Abdulaal Hussein creates space for candid conversation - Directed by Wyneke van Nieuwenhuyzen Watch on Psyche",
+     "source": "Psyche",
+     "published": "2026-10-02T10:01:00+00:00",
+     "image": "https://images.aeonmedia.co/images/f63fc0a2-2863-405f-94f7-55f6be84abed/ask-me-anything-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Life on a hair trigger",
+     "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+     "summary": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon",
+     "source": "Aeon",
+     "published": "2026-10-02T10:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/41e2e3ad-d027-43d2-a055-5890c5f5789b/essay-2021-12-25t171644z_229486544_rc2mlr9fk1lt_rtrmadp_3_usa-guns-chicago.jpg?width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Journaling to remember",
+     "url": "https://psyche.co/notes-to-self/remembering-the-ephemera-of-my-life-gives-it-meaning",
+     "summary": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche",
+     "source": "Psyche",
+     "published": "2026-10-02T10:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/3fc1daf0-40b1-4a5f-a839-bd73f54de722/sz-marcos-paulo-prado-tcyw6im5uug-unsplash.jpg?top=133&left=0&cropWidth=2544&cropHeight=1431&width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Letter: Sir Anthony Kenny obituary",
+     "url": "https://www.theguardian.com/books/2026/oct/01/letter-anthony-kenny-obituary",
+     "summary": "Your very sympathetic obituary of Anthony Kenny remarks that he was taught in Rome by another historian of philosophy, Frederick Copleston . When I asked Kenny what he thought of Copleston’s extensive account of the subject, he refused to offer a comment, but told the story of how Copleston, obliged at the Pontifical Gregorian University to lecture in Latin, even on British analytic philosophy, set numerous British…",
+     "source": "The Guardian",
+     "published": "2026-10-01T15:58:02+00:00",
+     "image": "https://i.guim.co.uk/img/media/21788e17835de4e2c1f188b9494d4ceae76c7a53/282_674_2588_2070/master/2588.jpg?width=700&quality=85&auto=format&fit=max&s=d0db0a834cdd41a2d8ba692183768a51",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Green tree ants are famous in the tropics",
+     "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
+     "summary": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon",
+     "source": "Aeon",
+     "published": "2026-10-01T10:01:00+00:00",
+     "image": "https://images.aeonmedia.co/images/f4924920-abd2-4426-9711-66a5ce51c4a7/green-tree-ants-landscape-1.jpg?width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Reason is more than a tool",
+     "url": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
+     "summary": "If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more - by Sasha Mudd Read on Aeon",
+     "source": "Aeon",
+     "published": "2026-10-01T10:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/73768d4d-af29-4f99-ab9e-8a2715230088/esssay-gettyimages-2278740190.jpg?width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Why long-brewing physical and mental breakdowns feel so sudden",
+     "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
+     "summary": "As a neurosurgeon and a son, I’ve come to see the parallel processes underlying growing tumours and stressed-out minds - by Sasi S Senga Read on Psyche",
+     "source": "Psyche",
+     "published": "2026-10-01T10:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/7fec3aaf-c6f3-4905-abda-0123fa6565d4/sz-brain-scan-tumor.jpg?top=109&left=0&cropWidth=2096&cropHeight=1179&width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Overwhelming Cheating",
+     "url": "https://dailynous.com/2026/09/30/overwhelming-cheating/",
+     "summary": "In a comment on an earlier post, a professor suggested as a topic for discussion, “Academic integrity violations becoming commonplace (analog, not just AI!) and […]",
+     "source": "Daily Nous",
+     "published": "2026-09-30T18:12:37+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/09/Arbus-screaming-woman.jpg",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Passportless mess",
+     "url": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
+     "summary": "A fool, a genius, or ‘a man who destroys everything’? Piecing together Zoran, a mythic figure of Belgrade - by Aeon Video Watch on Aeon",
+     "source": "Aeon",
+     "published": "2026-09-30T10:01:00+00:00",
+     "image": "https://images.aeonmedia.co/images/dddd78a2-a261-4330-ab89-a4622fdcaecc/passportless-mess-landscape-1.jpg?width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "The full-service grandad",
+     "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
+     "summary": "I thought I was a present father; my sons said otherwise. When my granddaughter arrived I made an offer - by Liam Heneghan Read on Psyche",
+     "source": "Psyche",
+     "published": "2026-09-30T10:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/85456ffe-a86c-46c9-b15a-4701002b0c9f/main-iphie-grandad-4-firefly-upscaler-2x-scale.jpg?top=211&left=0&cropWidth=2224&cropHeight=1251&width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Mini-Heap",
+     "url": "https://dailynous.com/2026/09/30/mini-heap-729/",
+     "summary": "Links of to interesting stuff elsewhere… Mini-Heap posts usually appear when several new items accumulate in the Heap of Links, a collection of items from around […]",
+     "source": "Daily Nous",
+     "published": "2026-09-30T09:00:00+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2022/01/miniheap-7-darkmode-compatible-1024x622.png",
+     "topic": "philosophy"
+    },
+    {
+     "title": "A Philosopher Among the MacArthur Fellows",
+     "url": "https://dailynous.com/2026/09/29/a-philosopher-among-the-macarthur-fellows/",
+     "summary": "Felipe De Brigard, professor of philosophy, psychology, and neuroscience at Duke University, principal investigator at the Imagination and Modal Cognition Lab, and core faculty of […]",
+     "source": "Daily Nous",
+     "published": "2026-09-29T18:58:48+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/09/de_brigard-2026-1024x660.jpg",
+     "topic": "philosophy"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Aeon",
+     "about": "Non-profit digital magazine of essays by academics and writers.",
+     "home": "https://aeon.co",
+     "working": true
+    },
+    {
+     "name": "Psyche",
+     "about": "Aeon's sister magazine on psychology, philosophy and living well.",
+     "home": "https://psyche.co",
+     "working": true
+    },
+    {
+     "name": "The Guardian",
+     "about": "UK national newspaper (Guardian Media Group).",
+     "home": "https://www.theguardian.com",
+     "working": true
+    },
+    {
+     "name": "Daily Nous",
+     "about": "News and discussion for and about the academic philosophy profession.",
+     "home": "https://dailynous.com",
+     "working": true
+    }
+   ]
+  },
+  {
+   "id": "relationships",
+   "name": "Relationships",
+   "icon": "💞",
+   "color": "#e0457b",
+   "articles": [
+    {
+     "title": "Does the word ‘Dumbass’ flash up when your husband calls your phone? | Polly Hudson",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/04/does-the-word-dumbass-flash-up-when-your-husband-calls-your-phone",
+     "summary": "From ‘Sharon London Sex’ to ‘Trashy Anne’, the names saved in our phones are tiny records of how relationships began. Why erase the evidence? At first glance, it’s such a simple, reasonable ask. A Threads user went vaguely viral last week, with a post announcing : “In other news, my wife of 11 years is respectfully requesting that I take ‘(hinge)’ out of her contact name on my phone.” A lively discussion then…",
+     "source": "The Guardian",
+     "published": "2026-10-04T15:00:30+00:00",
+     "image": "https://i.guim.co.uk/img/media/24708493b8864ca7d9245e481e7f1b737d971114/274_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=29f539d9a065574d72f0fdf626e32a19",
+     "topic": "relationships"
+    },
+    {
+     "title": "This is how we do it: ‘My mistress has complete control over me and makes me so happy’",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/04/this-is-how-we-do-it-my-mistress-has-complete-control-submissive-dominatrix",
+     "summary": "LD is the submissive to Lady Alice’s dominatrix – and it has been a revelation for them both • How do you do it? Share the story of your sex life, anonymously I have cerebral palsy and live with my parents. Lady Alice is a delicious secret",
+     "source": "The Guardian",
+     "published": "2026-10-04T10:00:25+00:00",
+     "image": "https://i.guim.co.uk/img/media/77f89cb816d732bf0bd7816a1725c1c309663449/0_6_2067_1654/master/2067.jpg?width=700&quality=85&auto=format&fit=max&s=1e1bcd14f912ec132ac63f0fa098f8d7",
+     "topic": "relationships"
+    },
+    {
+     "title": "‘There’s a lot of silence’: have we created a new ‘Lonely Generation’?",
+     "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence",
+     "summary": "Learning to be one human among many has always been a little lonely and discombobulating. But young people around the world are lonelier than ever. Why? In September, a Reddit user identifying themselves as a 25-year-old man turned to the r/ForeverAlone subreddit with a question : How do you deal with touch starvation? “It’s becoming obvious to me that I’ll probably be alone forever,” he wrote. He used to be worried…",
+     "source": "The Guardian",
+     "published": "2026-10-03T19:00:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/310424a9fdf7d93165cfa8b0889c32678401a8bd/568_692_4385_3508/master/4385.jpg?width=700&quality=85&auto=format&fit=max&s=f355b256da15edfe02fb6c570eb5feb4",
+     "topic": "relationships"
+    },
+    {
+     "title": "The moment I knew: As a reality TV contestant, I was allowed one 15-minute call a week. Even at 3am, Chris would always pick up",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/04/the-moment-i-knew-as-a-reality-tv-contestant-i-was-allowed-one-15-minute-call-a-week-even-at-3am-chris-would-always-pick-up",
+     "summary": "Conor Curran ’s first date with Chris lasted nine hours but their relationship remained casual. Then, when Conor was at his most vulnerable, Chris was there for him Find more stories from the moment I knew series At 29 I had lost my career in hospitality because of Covid and decided to throw my hat in the ring as a contestant on MasterChef Australia. By the time I was eliminated in 2021, restaurants still weren’t…",
+     "source": "The Guardian",
+     "published": "2026-10-03T19:00:06+00:00",
+     "image": "https://i.guim.co.uk/img/media/db86bc3375285feb8843f2635dc1ef2e060d690d/1_0_4998_4000/master/4998.jpg?width=700&quality=85&auto=format&fit=max&s=b6b4aebf774f1b806dfbfca1c4e72042",
+     "topic": "relationships"
+    },
+    {
+     "title": "Blind date: ‘He asked if my disco ball tattoo was an onion’",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/03/blind-date-shahar-stephen",
+     "summary": "Shahar, 29, a graphic designer and music label manager, meets Stephen, 34, a product designer What were you hoping for? I’d never been on a blind date, so a good story, and a new connection.",
+     "source": "The Guardian",
+     "published": "2026-10-03T05:00:52+00:00",
+     "image": "https://i.guim.co.uk/img/media/55ffb39c519b039fae6f4c99b314673f7ab0cdba/0_0_5000_4000/master/5000.png?width=700&quality=85&auto=format&fit=max&s=c4893753e3ef722344d1d76db39c0fcd",
+     "topic": "relationships"
+    },
+    {
+     "title": "Couples: do you share the housework and chores equally or is there an imbalance?",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/02/couples-share-housework-chores-imbalance-equal-conflict",
+     "summary": "Is it a source of conflict, or are you finding ways to resolve the issue? Do you find yourself doing the lion’s share of housework and admin tasks ? Is it something you have addressed with your partner, or are you left quietly seething every time you unload the dishwasher?",
+     "source": "The Guardian",
+     "published": "2026-10-02T14:13:13+00:00",
+     "image": "https://i.guim.co.uk/img/media/9c0c7bd27bc73a9c14046ea4c5abe87817ece836/425_0_4250_3400/master/4250.jpg?width=700&quality=85&auto=format&fit=max&s=8f4d2480a2e13310d6a5472dec276188",
+     "topic": "relationships"
+    },
+    {
+     "title": "Inside the Teenage Brain: Why a Risk Can Look Like an Opportunity",
+     "url": "https://www.gottman.com/blog/teenage-brain-risk-taking/",
+     "summary": "Before the next party or ride with friends, talk about what your teenager expects to happen—and what they can do if it doesn’t.",
+     "source": "The Gottman Institute",
+     "published": "2026-10-01T08:47:37+00:00",
+     "image": "https://www.gottman.com/wp-content/uploads/2026/09/GettyImages-2289471938-e1790844380604.jpg",
+     "topic": "relationships"
+    },
+    {
+     "title": "You Want Your Teenager to Find a Purpose. Are You Asking the Right Questions?",
+     "url": "https://www.gottman.com/blog/help-your-teenager-find-purpose/",
+     "summary": "How to explore what matters to your teenager—and help them pursue something they choose for themselves.",
+     "source": "The Gottman Institute",
+     "published": "2026-10-01T04:35:54+00:00",
+     "image": "https://www.gottman.com/wp-content/uploads/2026/09/GettyImages-2288027972-1-e1790827388952.jpg",
+     "topic": "relationships"
+    },
+    {
+     "title": "A Friend They Can’t Say No To",
+     "url": "https://www.gottman.com/blog/teen-peer-pressure/",
+     "summary": "How to help your teenager handle peer pressure when saying no could mean losing a friend.",
+     "source": "The Gottman Institute",
+     "published": "2026-10-01T00:12:10+00:00",
+     "image": "https://www.gottman.com/wp-content/uploads/2026/09/teen-peer-pressure.jpg",
+     "topic": "relationships"
+    },
+    {
+     "title": "Your Happiness Calendar for October 2026",
+     "url": "https://greatergood.berkeley.edu/article/item/your_happiness_calendar_for_october_2026",
+     "summary": "Our monthly Happiness Calendar is a day-by-day guide to well-being. This month, we hope it helps you have better conversations. To open the clickable calendar, click on the image below. (Please note: If you are having trouble clicking on calendar links with the Chrome browser, try these tips to fix the issue or try a different browser.) {embed=\"happiness_calendar/subscribe\"}",
+     "source": "Greater Good",
+     "published": "2026-09-30T15:24:00+00:00",
+     "image": "https://greatergood.berkeley.edu/images/uploads/GGSC_Happiness_Calendar_Oct_2026.jpeg",
+     "topic": "relationships"
+    },
+    {
+     "title": "Who Do We Become When We Talk to Chatbots?",
+     "url": "https://greatergood.berkeley.edu/article/item/who_do_we_become_when_we_talk_to_chatbots",
+     "summary": "Many people are concerned about how artificial intelligence technology could affect our lives going forward. Will it create new jobs or take away people’s livelihoods? Enhance children’s learning or hamper it? Expand people’s views or homogenize our public discourse? Solve the loneliness crisis or make it worse? Sherry Turkle, a sociologist at MIT with an expertise in how technology affects people’s social…",
+     "source": "Greater Good",
+     "published": "2026-09-29T13:22:00+00:00",
+     "image": "https://ggsc.s3.us-west-2.amazonaws.com/assets/images/why_we_should_reconsider_our_relationship_with_chatbots_-_abcdef_-_0a21b39134b316e51cdc0dd96c5e6bca3c0093e9-fb_-_abcdef_-_94b15742ccdfc3b16fb1fe35872167fe8d42c35d.webp",
+     "topic": "relationships"
+    },
+    {
+     "title": "Seven Ways to Outlast Political Authoritarianism",
+     "url": "https://greatergood.berkeley.edu/article/item/seven_ways_to_outlast_political_authoritarianism",
+     "summary": "Though Djurdja Padejski was raised in communist Yugoslavia, her life there felt stable and uneventful for a long time. In the 1980s, under Yugoslavia’s “soft” one-party government, Padejski and her friends read Western literature, watched Hollywood movies, and listened to the BBC. “We grew up in a very comfortable, naive environment,” Padejski says. That changed in the 1990s when Yugoslavia split into several…",
+     "source": "Greater Good",
+     "published": "2026-09-28T17:11:00+00:00",
+     "image": "https://ggsc.s3.us-west-2.amazonaws.com/assets/images/seven_ways_to_sustain_activism_as_democracy_declines_-_abcdef_-_0a21b39134b316e51cdc0dd96c5e6bca3c0093e9-fb_-_abcdef_-_94b15742ccdfc3b16fb1fe35872167fe8d42c35d.webp",
+     "topic": "relationships"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Greater Good",
+     "about": "Science-based magazine from UC Berkeley's Greater Good Science Center.",
+     "home": "https://greatergood.berkeley.edu",
+     "working": true
+    },
+    {
+     "name": "The Guardian",
+     "about": "UK national newspaper (Guardian Media Group).",
+     "home": "https://www.theguardian.com",
+     "working": true
+    },
+    {
+     "name": "The Gottman Institute",
+     "about": "Relationship research and advice from Drs John and Julie Gottman's institute.",
+     "home": "https://www.gottman.com",
+     "working": true
+    }
+   ]
+  },
+  {
+   "id": "career",
+   "name": "Professional Growth",
+   "icon": "📈",
+   "color": "#2e86de",
+   "articles": [
+    {
+     "title": "Other countries learn from their elders’ wisdom – so could Britain | Letter",
+     "url": "https://www.theguardian.com/society/2026/oct/02/other-countries-learn-from-their-elders-wisdom-so-could-britain",
+     "summary": "A German service matches retired professionals to firms that use their experience, writes Alan Coppin , responding to an article about a 90-year-old Japanese competitive bodybuilder Your feature on the 90-year-old bodybuilder Toshisuke Kanazawa was a joy ( ‘I’m 100% natural’: how Japan’s 90-year-old bodybuilder is still winning titles, 25 September ), but it’s also a useful provocation. Almost 30% of Japan’s 123.7…",
+     "source": "The Guardian",
+     "published": "2026-10-02T16:07:17+00:00",
+     "image": "https://i.guim.co.uk/img/media/780ea5381bf4d96f4ebdbb0fd94c16b7cd9474fa/323_0_4339_3470/master/4339.jpg?width=700&quality=85&auto=format&fit=max&s=842ffd87da6fe992fd067cf50210bad6",
+     "topic": "career"
+    },
+    {
+     "title": "The Hidden Cost of Competition in the Workplace",
+     "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/the-hidden-cost-of-competition-in-the-workplace/",
+     "summary": "Henning Piezunka, Wharton associate professor of management, explores how rivalry motivates individual performance while potentially undermining team success. …",
+     "source": "Knowledge at Wharton",
+     "published": "2026-10-02T15:58:54+00:00",
+     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/07/K@W-Episode-Art_1300x884-Henning-Piezunka-600x500.png",
+     "topic": "career"
+    },
+    {
+     "title": "More celebrities are embracing grey hair. For other women, it can come at a cost",
+     "url": "https://www.theguardian.com/fashion/2026/oct/02/celebrities-grey-hair-olivia-colman-lisa-bonet-women-ageism-workplace-dye",
+     "summary": "Olivia Colman and Lisa Bonet are among the stars going silver – but workplace ageism means many women still fear ditching the dye To dye, or not to dye. That is the decision many people, particularly women, face when their hair starts to grey. This week Olivia Colman joined the growing ranks of women embracing grey hair and ditching the dye. Appearing at Zurich film festival, Colman had swapped her dark signature…",
+     "source": "The Guardian",
+     "published": "2026-10-02T14:54:37+00:00",
+     "image": "https://i.guim.co.uk/img/media/c8210ed27cda90e2b91df041bd5eb40714101edf/812_0_4475_3580/master/4475.jpg?width=700&quality=85&auto=format&fit=max&s=61379adb6b67cdca254cf010a4862950",
+     "topic": "career"
+    },
+    {
+     "title": "A century after the weekend was invented, it has disappeared. Let’s reclaim leisure | Richard Morgan",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/02/weekend-leisure-mindset",
+     "summary": "Henry Ford’s 1926 policy held for decades before eroding into a 24/7 mindset. Here’s what we can do about it It was a Saturday. In fact, the Saturday. Almost exactly a century ago, on 25 September 1926, Henry Ford instituted a policy of weekends for his workforce. Although various labor campaigns had existed for decades to try to carve out what we now call the weekend, this was the first widespread adoption.",
+     "source": "The Guardian",
+     "published": "2026-10-02T09:00:15+00:00",
+     "image": "https://i.guim.co.uk/img/media/8746e1bfd9130114cbf6a6b2575e7f1299f57dac/124_0_3724_2979/master/3724.jpg?width=700&quality=85&auto=format&fit=max&s=9e043e3e771d21c701b618695d103d38",
+     "topic": "career"
+    },
+    {
+     "title": "Is this how Andy Burnham sees the future of work? | Brief letters",
+     "url": "https://www.theguardian.com/politics/2026/sep/30/is-this-how-andy-burnham-sees-the-future-of-work",
+     "summary": "Parental influence | Public investment | Capital gains tax on property profits | A degree of success? | Oxygen of publicity Keir Starmer reminded us often that his father was a toolmaker, a skilled occupation. In his Labour party conference speech , Andy Burnham referenced his parents, Eileen and his late father Roy. He did not mention that Roy was a telecoms engineer, also a skilled job, and one that was and is…",
+     "source": "The Guardian",
+     "published": "2026-09-30T16:53:14+00:00",
+     "image": "https://i.guim.co.uk/img/media/7bc49b651f6371719d95d3906354d0b512bea607/115_0_2225_1780/master/2225.jpg?width=700&quality=85&auto=format&fit=max&s=f0a29fe9af550d9e4b954d71126457d6",
+     "topic": "career"
+    },
+    {
+     "title": "The NHL Salary Cap Surge Is Changing Team Building",
+     "url": "https://knowledge.wharton.upenn.edu/podcast/moneyball/the-nhl-salary-cap-surge-is-changing-team-building/",
+     "summary": "Samuel Ventura, vice president of hockey strategy and research for the Buffalo Sabres, explores how a rapidly rising salary cap is changing roster construction, contracts, and player valuation. …",
+     "source": "Knowledge at Wharton",
+     "published": "2026-09-30T14:14:46+00:00",
+     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2025/08/MoneyBall_Episode-Art_K@W-Art-1300x884-1-600x500.png",
+     "topic": "career"
+    },
+    {
+     "title": "The Surveillance Challenge Facing Prediction Markets",
+     "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/the-surveillance-challenge-facing-prediction-markets/",
+     "summary": "Daniel Taylor, Wharton finance professor and director of the Forensic Analytics Lab, explains how prediction markets are evolving and why stronger surveillance systems are needed to detect insider trading and manipulation. …",
+     "source": "Knowledge at Wharton",
+     "published": "2026-09-30T14:09:14+00:00",
+     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/09/TWIB-260929-Acast-16x9-2-600x500.png",
+     "topic": "career"
+    },
+    {
+     "title": "Why Remote Work Isn’t Working",
+     "url": "https://knowledge.wharton.upenn.edu/article/why-remote-work-isnt-working/",
+     "summary": "Remote work erodes the personal bonds that boost collaboration at the office, according to research from Wharton’s Peter Cappelli. He offers guidance on making the most of hybrid schedules. …",
+     "source": "Knowledge at Wharton",
+     "published": "2026-09-29T16:40:00+00:00",
+     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/09/9.30.26-cappelli-remote-work-shaping-the-office-GettyImages-1191790510-600x500.jpg",
+     "topic": "career"
+    },
+    {
+     "title": "Tech Companies Can’t Stop an AI Apocalypse Alone",
+     "url": "https://knowledge.wharton.upenn.edu/article/tech-companies-cant-stop-an-ai-apocalypse-alone/",
+     "summary": "AI could threaten humanity. We can’t rely on a handful of technology companies to prevent an apocalypse, writes Wharton’s Cornelia Walther. …",
+     "source": "Knowledge at Wharton",
+     "published": "2026-09-29T12:30:11+00:00",
+     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/09/9.30.26-walther-AI-apocalypse-tech-companies-GettyImages-1481617551-600x500.jpg",
+     "topic": "career"
+    },
+    {
+     "title": "The Productivity Bet Behind the AI Boom",
+     "url": "https://knowledge.wharton.upenn.edu/podcast/ripple-effect/the-productivity-bet-behind-the-ai-boom/",
+     "summary": "Jessica Wachter, Dr. Bruce I. Jacobs Professor in Quantitative Finance at the Wharton School, explains the productivity gains AI investment must deliver to justify the boom. …",
+     "source": "Knowledge at Wharton",
+     "published": "2026-09-29T12:00:47+00:00",
+     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/02/Ripple-Effect_Episode-Art_1300x884@150x-8-600x500.png",
+     "topic": "career"
+    },
+    {
+     "title": "Job interviews are a weird business – but what’s the alternative? | Emma Beddington",
+     "url": "https://www.theguardian.com/commentisfree/2026/sep/28/job-interviews-are-a-weird-business-but-whats-the-alternative",
+     "summary": "Given the biased nature of the interview process, the recent kerfuffle about taking iced coffee in with you may be the least of our worries I was part of a job interview process recently, on the hiring side of the table for the first time in 15 years, and was instantly reminded how weird the whole business is. The debate about whether bringing iced coffee to interviews is bad form just highlights the silliness of…",
+     "source": "The Guardian",
+     "published": "2026-09-28T10:00:31+00:00",
+     "image": "https://i.guim.co.uk/img/media/00cfb02e3927574ca481924e41b4b6df99e5b950/1618_0_6574_5262/master/6574.jpg?width=700&quality=85&auto=format&fit=max&s=a4e1a1a5fe0add0b32ac2185e98a50fe",
+     "topic": "career"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Harvard Business Review",
+     "about": "Management magazine published by Harvard Business Publishing.",
+     "home": "https://hbr.org",
+     "working": false
+    },
+    {
+     "name": "Knowledge at Wharton",
+     "about": "Research and analysis from the Wharton School, University of Pennsylvania.",
+     "home": "https://knowledge.wharton.upenn.edu",
+     "working": true
+    },
+    {
+     "name": "The Guardian",
+     "about": "UK national newspaper (Guardian Media Group).",
+     "home": "https://www.theguardian.com",
+     "working": true
+    }
+   ]
+  },
+  {
+   "id": "nutrition",
+   "name": "Food & Nutrition",
+   "icon": "🥗",
+   "color": "#3aa655",
+   "articles": [
+    {
+     "title": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
+     "summary": "A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially in patients whose tumors had high levels of the vitamin D receptor.",
+     "source": "ScienceDaily",
+     "published": "2026-10-04T03:10:23+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/destroying-cancer-tumor-from-inside-out.webp",
+     "topic": "nutrition"
+    },
+    {
+     "title": "Diet drinks work as well as water for weight loss, major trial finds",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
+     "summary": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or sucralose lost a similar amount of weight to those drinking water, while both groups also saw improvements in waist size, body composition…",
+     "source": "ScienceDaily",
+     "published": "2026-10-04T02:10:59+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/woman-smiling-holding-diet-cola.webp",
+     "topic": "nutrition"
+    },
+    {
+     "title": "Leucine does more than build muscle. It powers up your cells",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+     "summary": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed. The discovery reveals a new connection between nutrition and metabolism that could eventually lead to new approaches for metabolic disorders and cancer.",
+     "source": "ScienceDaily",
+     "published": "2026-10-03T12:33:15+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
+     "topic": "nutrition"
+    },
+    {
+     "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+     "summary": "Scientists have linked a gut bacterial compound called ImP to greater Alzheimer’s risk, harmful brain protein buildup, and faster cognitive decline. The finding raises the possibility that reducing ImP in the blood could one day help slow or prevent dementia.",
+     "source": "ScienceDaily",
+     "published": "2026-10-03T12:13:21+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+     "topic": "nutrition"
+    },
+    {
+     "title": "Vitamin C linked to fewer deaths in blood disorder trial",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260930225454.htm",
+     "summary": "Vitamin C may do more than support the immune system. In a phase 2 trial of people with precancerous or low risk blood cancers, daily vitamin C did not slow abnormal cell growth, but it was linked to favorable changes in inflammation and fewer serious complications. An exploratory follow up also found fewer deaths among participants taking vitamin C than among those receiving placebo.",
+     "source": "ScienceDaily",
+     "published": "2026-10-03T11:17:37+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/vitamin-c-water-soluble-tablets-and-fresh-oranges.webp",
+     "topic": "nutrition"
+    },
+    {
+     "title": "Even one strength training session a week could make a difference",
+     "url": "https://www.sciencedaily.com/releases/2026/09/260930020317.htm",
+     "summary": "Strength training may be one of the most powerful tools for staying independent as you age. Age related muscle loss, known as sarcopenia, can make everyday tasks harder while increasing the risk of falls, fractures, and loss of mobility. Research shows that resistance exercises such as squats, weights, resistance bands, and even body weight movements can preserve or rebuild strength, and surprisingly, even one…",
+     "source": "ScienceDaily",
+     "published": "2026-10-02T09:36:45+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/senior-asian-man-strength-training-with-dumbbells.webp",
+     "topic": "nutrition"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily",
+     "about": "Long-running science news site that publishes university and research-institute press releases.",
+     "home": "https://www.sciencedaily.com",
+     "working": true
+    },
+    {
+     "name": "The Conversation",
+     "about": "Articles written by academics and researchers, edited by journalists.",
+     "home": "https://theconversation.com/uk",
+     "working": true
+    }
+   ]
+  }
+ ]
+}
