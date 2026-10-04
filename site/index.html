@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Morning Edition</title>
+  <meta name="description" content="Your daily briefing on psychology, medicine, world politics, philosophy, relationships, professional growth and nutrition.">
+
+  <!-- Home-screen app settings -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Morning">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" type="image/png" href="icons/icon-192.png">
+  <meta name="theme-color" content="#f7f2ea" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14110f" media="(prefers-color-scheme: dark)">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-top">
+      <div>
+        <p class="eyebrow" id="today-date"></p>
+        <h1 id="greeting">Good morning</h1>
+      </div>
+      <span class="updated" id="updated"></span>
+    </div>
+    <nav class="tabs" id="tabs" role="tablist" aria-label="Topics"></nav>
+  </header>
+
+  <main id="view" tabindex="-1">
+    <div class="loading">
+      <div class="skeleton hero-skel"></div>
+      <div class="skeleton line"></div>
+      <div class="skeleton line short"></div>
+    </div>
+  </main>
+
+  <nav class="bottombar" aria-label="Sections">
+    <button data-section="briefing" class="active">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h12v14H6a2 2 0 0 1-2-2V5Zm12 4h4v8a2 2 0 0 1-2 2h-2M7 9h6M7 13h6M7 16h4"/></svg>
+      <span>Briefing</span>
+    </button>
+    <button data-section="saved">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v16l-6-4-6 4V4Z"/></svg>
+      <span>Saved</span>
+    </button>
+    <button data-section="sources">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l8 4v5c0 4.5-3.4 8-8 9-4.6-1-8-4.5-8-9V7l8-4Zm-3 9 2 2 4-4"/></svg>
+      <span>Sources</span>
+    </button>
+  </nav>
+
+  <div class="sheet-backdrop" id="backdrop" hidden></div>
+  <article class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden></article>
+
+  <script src="app.js"></script>
+</body>
+</html>

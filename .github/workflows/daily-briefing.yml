@@ -1,0 +1,65 @@
+name: Morning briefing
+
+on:
+  schedule:
+    # Every day at 05:17 UTC = 06:17 in British Summer Time, 05:17 in winter.
+    - cron: "17 5 * * *"
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch today's articles
+        run: python scripts/build_briefing.py
+
+      # Saving the data back to the repository keeps the schedule alive:
+      # GitHub pauses scheduled jobs in repositories with no recent commits.
+      - name: Save today's briefing
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/briefing.json
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+          else
+            git commit -m "Briefing for $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

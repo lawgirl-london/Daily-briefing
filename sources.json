@@ -1,0 +1,199 @@
+{
+  "_note": "Edit this file to add, remove or swap sources. Each topic becomes a tab in the app. A feed that stops working is skipped automatically.",
+  "topics": [
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "icon": "🧠",
+      "color": "#7c5cff",
+      "feeds": [
+        {
+          "name": "PsyPost",
+          "url": "https://www.psypost.org/feed/",
+          "about": "Independent news site reporting on peer-reviewed psychology and neuroscience studies.",
+          "home": "https://www.psypost.org"
+        },
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/rss/mind_brain/psychology.xml",
+          "about": "Long-running science news site that publishes university and research-institute press releases.",
+          "home": "https://www.sciencedaily.com"
+        },
+        {
+          "name": "BPS Research Digest",
+          "url": "https://www.bps.org.uk/research-digest/rss.xml",
+          "about": "Research summaries from the British Psychological Society.",
+          "home": "https://www.bps.org.uk/research-digest"
+        }
+      ]
+    },
+    {
+      "id": "medicine",
+      "name": "Medicine",
+      "icon": "🩺",
+      "color": "#0fa3b1",
+      "feeds": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
+          "about": "Long-running science news site that publishes university and research-institute press releases.",
+          "home": "https://www.sciencedaily.com"
+        },
+        {
+          "name": "BBC Health",
+          "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+          "about": "Health coverage from BBC News.",
+          "home": "https://www.bbc.co.uk/news/health"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/society/health/rss",
+          "about": "UK national newspaper (Guardian Media Group).",
+          "home": "https://www.theguardian.com"
+        },
+        {
+          "name": "Medical Xpress",
+          "url": "https://medicalxpress.com/rss-feed/",
+          "about": "Medical research news from the Science X network.",
+          "home": "https://medicalxpress.com"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "World Politics",
+      "icon": "🌍",
+      "color": "#e4572e",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "about": "International news from BBC News.",
+          "home": "https://www.bbc.co.uk/news/world"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/rss",
+          "about": "UK national newspaper (Guardian Media Group).",
+          "home": "https://www.theguardian.com"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "about": "Qatar-based international broadcaster with strong Middle East and Global South coverage.",
+          "home": "https://www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "icon": "🏛️",
+      "color": "#b8860b",
+      "feeds": [
+        {
+          "name": "Aeon",
+          "url": "https://aeon.co/feed.rss",
+          "about": "Non-profit digital magazine of essays by academics and writers.",
+          "home": "https://aeon.co"
+        },
+        {
+          "name": "Psyche",
+          "url": "https://psyche.co/feed.rss",
+          "about": "Aeon's sister magazine on psychology, philosophy and living well.",
+          "home": "https://psyche.co"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/philosophy/rss",
+          "about": "UK national newspaper (Guardian Media Group).",
+          "home": "https://www.theguardian.com"
+        },
+        {
+          "name": "Daily Nous",
+          "url": "https://dailynous.com/feed/",
+          "about": "News and discussion for and about the academic philosophy profession.",
+          "home": "https://dailynous.com"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships",
+      "icon": "💞",
+      "color": "#e0457b",
+      "feeds": [
+        {
+          "name": "Greater Good",
+          "url": "https://greatergood.berkeley.edu/site/rss/articles",
+          "about": "Science-based magazine from UC Berkeley's Greater Good Science Center.",
+          "home": "https://greatergood.berkeley.edu"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/lifeandstyle/relationships/rss",
+          "about": "UK national newspaper (Guardian Media Group).",
+          "home": "https://www.theguardian.com"
+        },
+        {
+          "name": "The Gottman Institute",
+          "url": "https://www.gottman.com/blog/feed/",
+          "about": "Relationship research and advice from Drs John and Julie Gottman's institute.",
+          "home": "https://www.gottman.com"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "name": "Professional Growth",
+      "icon": "📈",
+      "color": "#2e86de",
+      "feeds": [
+        {
+          "name": "Harvard Business Review",
+          "url": "https://feeds.hbr.org/harvardbusiness",
+          "about": "Management magazine published by Harvard Business Publishing.",
+          "home": "https://hbr.org"
+        },
+        {
+          "name": "Knowledge at Wharton",
+          "url": "https://knowledge.wharton.upenn.edu/feed/",
+          "about": "Research and analysis from the Wharton School, University of Pennsylvania.",
+          "home": "https://knowledge.wharton.upenn.edu"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/money/work-and-careers/rss",
+          "about": "UK national newspaper (Guardian Media Group).",
+          "home": "https://www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": "nutrition",
+      "name": "Food & Nutrition",
+      "icon": "🥗",
+      "color": "#3aa655",
+      "feeds": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml",
+          "about": "Long-running science news site that publishes university and research-institute press releases.",
+          "home": "https://www.sciencedaily.com"
+        },
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/rss/health_medicine/healthy_aging.xml",
+          "about": "Long-running science news site that publishes university and research-institute press releases.",
+          "home": "https://www.sciencedaily.com"
+        },
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/uk/topics/nutrition-1287/articles.atom",
+          "about": "Articles written by academics and researchers, edited by journalists.",
+          "home": "https://theconversation.com/uk"
+        }
+      ]
+    }
+  ]
+}
