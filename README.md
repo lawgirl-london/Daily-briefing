@@ -9,7 +9,7 @@ maintenance.
 
 ## Using it on your iPhone
 
-1. Open the app's address in **Safari**: `https://lawgirl-london.github.io/daily-briefing/`
+1. Open the app's address in **Safari**: `https://lawgirl-london.github.io/Daily-briefing/`
 2. Tap **Share** (the square with the arrow) → **Add to Home Screen** → **Add**.
 3. Open it from your home screen like any other app.
 

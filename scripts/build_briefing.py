@@ -26,7 +26,7 @@ OUTPUT = ROOT / "site" / "data" / "briefing.json"
 
 USER_AGENT = (
     "Mozilla/5.0 (compatible; DailyBriefingBot/1.0; "
-    "+https://github.com/lawgirl-london/daily-briefing)"
+    "+https://github.com/lawgirl-london/Daily-briefing)"
 )
 MAX_AGE_DAYS = 7          # ignore anything older than this (when a date is known)
 PER_TOPIC = 14            # articles kept per tab
