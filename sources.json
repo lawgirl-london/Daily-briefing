@@ -20,10 +20,10 @@
           "home": "https://www.sciencedaily.com"
         },
         {
-          "name": "BPS Research Digest",
-          "url": "https://www.bps.org.uk/research-digest/rss.xml",
-          "about": "Research summaries from the British Psychological Society.",
-          "home": "https://www.bps.org.uk/research-digest"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/science/psychology/rss",
+          "about": "UK national newspaper (Guardian Media Group).",
+          "home": "https://www.theguardian.com/science/psychology"
         }
       ]
     },
@@ -150,12 +150,6 @@
       "color": "#2e86de",
       "feeds": [
         {
-          "name": "Harvard Business Review",
-          "url": "https://feeds.hbr.org/harvardbusiness",
-          "about": "Management magazine published by Harvard Business Publishing.",
-          "home": "https://hbr.org"
-        },
-        {
           "name": "Knowledge at Wharton",
           "url": "https://knowledge.wharton.upenn.edu/feed/",
           "about": "Research and analysis from the Wharton School, University of Pennsylvania.",
@@ -166,6 +160,12 @@
           "url": "https://www.theguardian.com/money/work-and-careers/rss",
           "about": "UK national newspaper (Guardian Media Group).",
           "home": "https://www.theguardian.com"
+        },
+        {
+          "name": "MIT Sloan Management Review",
+          "url": "https://sloanreview.mit.edu/feed/",
+          "about": "Research-based management magazine from the MIT Sloan School of Management.",
+          "home": "https://sloanreview.mit.edu"
         }
       ]
     },
@@ -192,6 +192,12 @@
           "url": "https://theconversation.com/uk/topics/nutrition-1287/articles.atom",
           "about": "Articles written by academics and researchers, edited by journalists.",
           "home": "https://theconversation.com/uk"
+        },
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/rss/health_medicine/diet_and_weight_loss.xml",
+          "about": "Long-running science news site that publishes university and research-institute press releases.",
+          "home": "https://www.sciencedaily.com"
         }
       ]
     }
