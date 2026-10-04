@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-04T19:55:21.964239+00:00",
+ "generated_at": "2026-10-04T19:57:15.073295+00:00",
  "highlights": [
   "https://www.psypost.org/how-politicians-and-influencers-spread-disinformation-during-the-2024-election/",
   "https://medicalxpress.com/news/2026-10-health-adults-link-based-grocery.html",
-  "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+  "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
   "https://www.theguardian.com/commentisfree/2026/oct/05/making-sense-of-it-sitting-with-uncertainty-can-ultimately-bring-wisdom",
   "https://www.theguardian.com/commentisfree/2026/oct/04/does-the-word-dumbass-flash-up-when-your-husband-calls-your-phone",
   "https://www.theguardian.com/society/2026/oct/02/other-countries-learn-from-their-elders-wisdom-so-could-britain",
@@ -62,12 +62,30 @@
      "topic": "psychology"
     },
     {
+     "title": "Do humans really have a ‘lizard brain’ lurking beneath our rational minds?",
+     "url": "https://www.theguardian.com/science/2026/oct/04/lizard-brain-rational-mind-neuroscience",
+     "summary": "It’s a powerful analogy that captured the popular imagination, but the biological reality is quite different Humans have a cognitive quirk for the number three. Think of the many stories that use it, from The Three Little Pigs to Goldilocks and the Three Bears and The Three Musketeers. Public information and political campaigns use it for impact and ease of recall (“Stop, look and listen”; “See it. Say it. Sorted”…",
+     "source": "The Guardian",
+     "published": "2026-10-04T11:00:26+00:00",
+     "image": "https://i.guim.co.uk/img/media/63084cdc4236c574be8659b15ab25dd9d19dee23/0_440_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=037f958d70cd7f18896f181fa9fd952b",
+     "topic": "psychology"
+    },
+    {
      "title": "Study of 2.5 million children finds no link between MMR vaccine and autism",
      "url": "https://www.psypost.org/study-of-2-5-million-children-finds-no-link-between-mmr-vaccine-and-autism/",
      "summary": "Evaluating the health records of over 2.5 million children, researchers found no evidence that receiving the measles, mumps, and rubella vaccine before age two increases the risk of a childhood autism diagnosis.",
      "source": "PsyPost",
      "published": "2026-10-04T11:00:18+00:00",
      "image": "https://www.psypost.org/wp-content/uploads/2026/10/infant-vaccine.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "‘There’s a lot of silence’: have we created a new ‘Lonely Generation’?",
+     "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence",
+     "summary": "Learning to be one human among many has always been a little lonely and discombobulating. But young people around the world are lonelier than ever. Why? In September, a Reddit user identifying themselves as a 25-year-old man turned to the r/ForeverAlone subreddit with a question : How do you deal with touch starvation? “It’s becoming obvious to me that I’ll probably be alone forever,” he wrote. He used to be worried…",
+     "source": "The Guardian",
+     "published": "2026-10-03T19:00:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/310424a9fdf7d93165cfa8b0889c32678401a8bd/568_692_4385_3508/master/4385.jpg?width=700&quality=85&auto=format&fit=max&s=f355b256da15edfe02fb6c570eb5feb4",
      "topic": "psychology"
     },
     {
@@ -130,10 +148,10 @@
      "working": true
     },
     {
-     "name": "BPS Research Digest",
-     "about": "Research summaries from the British Psychological Society.",
-     "home": "https://www.bps.org.uk/research-digest",
-     "working": false
+     "name": "The Guardian",
+     "about": "UK national newspaper (Guardian Media Group).",
+     "home": "https://www.theguardian.com/science/psychology",
+     "working": true
     }
    ]
   },
@@ -304,6 +322,15 @@
    "color": "#e4572e",
    "articles": [
     {
+     "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
+     "summary": "Balkan nation seeks EU membership, but divisions threaten that goal.",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T19:46:34+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2a9333481-1791142195.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
      "title": "France to shutter up to 500 schools as more student protests called",
      "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
      "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
@@ -373,15 +400,6 @@
      "source": "The Guardian",
      "published": "2026-10-04T17:40:39+00:00",
      "image": "https://i.guim.co.uk/img/media/646c5bd0acff2a6e80dc86cc72551c0b2a11e17a/0_0_3874_3099/master/3874.jpg?width=700&quality=85&auto=format&fit=max&s=e849efb250ba935ea1ffb1b02a8b844b",
-     "topic": "world"
-    },
-    {
-     "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-     "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
-     "summary": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T17:17:42+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac270a7-1791127719.jpg?resize=1920%2C1440",
      "topic": "world"
     },
     {
@@ -817,6 +835,15 @@
      "topic": "career"
     },
     {
+     "title": "Turn Energy Efficiency Into Strategic Advantage",
+     "url": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/",
+     "summary": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online workshop with 36 executives responsible for enterprise data to learn how their companies were using digital technologies and data to address their sustainability challenges. In addition, they surveyed 360 respondents in Swiss manufacturing companies twice to […]",
+     "source": "MIT Sloan Management Review",
+     "published": "2026-09-30T11:00:08+00:00",
+     "image": "https://sloanreview.mit.edu/wp-content/uploads/2026/08/Sebastian-1290x860-1.jpg",
+     "topic": "career"
+    },
+    {
      "title": "Why Remote Work Isn’t Working",
      "url": "https://knowledge.wharton.upenn.edu/article/why-remote-work-isnt-working/",
      "summary": "Remote work erodes the personal bonds that boost collaboration at the office, according to research from Wharton’s Peter Cappelli. He offers guidance on making the most of hybrid schedules. …",
@@ -844,6 +871,15 @@
      "topic": "career"
     },
     {
+     "title": "How to Outcompete Your Client’s AI",
+     "url": "https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/",
+     "summary": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside counsel for much of its lease work. Thanks to generative AI, it can now do that work internally, saving the firm hundreds of thousands of dollars in spending and compressing lease work that once stalled for […]",
+     "source": "MIT Sloan Management Review",
+     "published": "2026-09-29T11:00:55+00:00",
+     "image": "https://sloanreview.mit.edu/wp-content/uploads/2026/08/Parra-1290x860-1.jpg",
+     "topic": "career"
+    },
+    {
      "title": "Job interviews are a weird business – but what’s the alternative? | Emma Beddington",
      "url": "https://www.theguardian.com/commentisfree/2026/sep/28/job-interviews-are-a-weird-business-but-whats-the-alternative",
      "summary": "Given the biased nature of the interview process, the recent kerfuffle about taking iced coffee in with you may be the least of our worries I was part of a job interview process recently, on the hiring side of the table for the first time in 15 years, and was instantly reminded how weird the whole business is. The debate about whether bringing iced coffee to interviews is bad form just highlights the silliness of…",
@@ -855,12 +891,6 @@
    ],
    "sources": [
     {
-     "name": "Harvard Business Review",
-     "about": "Management magazine published by Harvard Business Publishing.",
-     "home": "https://hbr.org",
-     "working": false
-    },
-    {
      "name": "Knowledge at Wharton",
      "about": "Research and analysis from the Wharton School, University of Pennsylvania.",
      "home": "https://knowledge.wharton.upenn.edu",
@@ -870,6 +900,12 @@
      "name": "The Guardian",
      "about": "UK national newspaper (Guardian Media Group).",
      "home": "https://www.theguardian.com",
+     "working": true
+    },
+    {
+     "name": "MIT Sloan Management Review",
+     "about": "Research-based management magazine from the MIT Sloan School of Management.",
+     "home": "https://sloanreview.mit.edu",
      "working": true
     }
    ]
