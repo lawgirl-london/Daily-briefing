@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-04T19:58:50.452131+00:00",
+ "generated_at": "2026-10-05T05:31:12.640022+00:00",
  "highlights": [
-  "https://www.psypost.org/how-politicians-and-influencers-spread-disinformation-during-the-2024-election/",
-  "https://medicalxpress.com/news/2026-10-health-adults-link-based-grocery.html",
-  "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
+  "https://www.psypost.org/early-neglect-may-disrupt-how-the-brain-fine-tunes-itself-during-adolescence/",
+  "https://www.bbc.co.uk/news/articles/cmp3k32k778ko?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/commentisfree/2026/oct/05/making-sense-of-it-sitting-with-uncertainty-can-ultimately-bring-wisdom",
   "https://www.theguardian.com/commentisfree/2026/oct/04/does-the-word-dumbass-flash-up-when-your-husband-calls-your-phone",
   "https://www.theguardian.com/society/2026/oct/02/other-countries-learn-from-their-elders-wisdom-so-could-britain",
@@ -16,6 +16,15 @@
    "icon": "🧠",
    "color": "#7c5cff",
    "articles": [
+    {
+     "title": "Early neglect may disrupt how the brain fine-tunes itself during adolescence",
+     "url": "https://www.psypost.org/early-neglect-may-disrupt-how-the-brain-fine-tunes-itself-during-adolescence/",
+     "summary": "Children who spent their earliest years in Romanian orphanages showed lasting differences in how their brain activity matured through adolescence, a long-running study finds. These differences tracked with poorer attention and self-control, and foster care did not erase them.",
+     "source": "PsyPost",
+     "published": "2026-10-04T20:00:27+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2024/12/brain-scans.jpg",
+     "topic": "psychology"
+    },
     {
      "title": "Republican-aligned actors issued nearly three-quarters of fact-checked 2024 election hoaxes",
      "url": "https://www.psypost.org/how-politicians-and-influencers-spread-disinformation-during-the-2024-election/",
@@ -68,15 +77,6 @@
      "source": "The Guardian",
      "published": "2026-10-04T11:00:26+00:00",
      "image": "https://i.guim.co.uk/img/media/63084cdc4236c574be8659b15ab25dd9d19dee23/0_440_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=037f958d70cd7f18896f181fa9fd952b",
-     "topic": "psychology"
-    },
-    {
-     "title": "Study of 2.5 million children finds no link between MMR vaccine and autism",
-     "url": "https://www.psypost.org/study-of-2-5-million-children-finds-no-link-between-mmr-vaccine-and-autism/",
-     "summary": "Evaluating the health records of over 2.5 million children, researchers found no evidence that receiving the measles, mumps, and rubella vaccine before age two increases the risk of a childhood autism diagnosis.",
-     "source": "PsyPost",
-     "published": "2026-10-04T11:00:18+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/10/infant-vaccine.jpg",
      "topic": "psychology"
     },
     {
@@ -162,21 +162,84 @@
    "color": "#0fa3b1",
    "articles": [
     {
+     "title": "Early Lampard findings could come within weeks",
+     "url": "https://www.bbc.co.uk/news/articles/cmp3k32k778ko?at_medium=RSS&at_campaign=rss",
+     "summary": "Early recommendations could be issued if evidence highlights patient safety risks, the chair says.",
+     "source": "BBC Health",
+     "published": "2026-10-05T05:20:22+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/10e8/live/e89d84f0-bddf-11f1-babe-4199b0e7ccea.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Ending clock changes? Health evidence favors permanent standard time over daylight saving",
+     "url": "https://medicalxpress.com/news/2026-10-clock-health-evidence-favors-permanent.html",
+     "summary": "Several Canadian jurisdictions are moving toward ending the twice-yearly clock change, but a new analysis published in Canadian Medical Association Journal argues that eliminating the clock change is only half the decision: Governments must also decide whether to adopt permanent standard time or permanent daylight saving time. Both choices have trade-offs.",
+     "source": "Medical Xpress",
+     "published": "2026-10-05T04:10:07+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sunrise.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Black people at higher risk of severe complications during pregnancy, labor, and the postpartum period",
+     "url": "https://medicalxpress.com/news/2026-10-black-people-higher-severe-complications.html",
+     "summary": "Black people in Canada have an increased risk of severe maternal morbidity (SMM)—serious complications that can occur during pregnancy, labor or delivery, and postpartum—compared with white people, according to new research published in Canadian Medical Association Journal.",
+     "source": "Medical Xpress",
+     "published": "2026-10-05T04:10:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-woman-pregnant.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "The “glue” holding your cells together has a surprising second job",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+     "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf cellular debris while keeping their upper surfaces stable, allowing protective barriers to remain…",
+     "source": "ScienceDaily",
+     "published": "2026-10-05T03:12:55+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/living-zebrafish-embryo-with-actin.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "Easing constipation: A 20-minute walk can get your gut moving almost immediately",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261001214117.htm",
+     "summary": "Researchers found that just 20 minutes of comfortable walking can rapidly stimulate the gut. Within one to two minutes after exercise, bowel sounds became stronger, more frequent, and lasted longer, suggesting increased intestinal movement. The boost was brief, fading within a few minutes, but it may help explain why walking can provide relief from constipation.",
+     "source": "ScienceDaily",
+     "published": "2026-10-05T01:58:03+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/man-with-athletic-shoes-walking-up-stairs.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "Trial results show no survival benefit with the use of proton therapy in patients with advanced hepatocellular carcinoma",
+     "url": "https://medicalxpress.com/news/2026-09-trial-results-survival-benefit-proton.html",
+     "summary": "Initial results of the NRG Oncology NRG-GI003 clinical study comparing proton and photon therapy for patients with advanced hepatocellular carcinoma (HCC) indicate that proton therapy did not improve the primary objective of overall survival (OS). At the planned interim analysis, the trial was released for reporting after it crossed the futility boundary. Proton therapy also did not improve the trial's secondary…",
+     "source": "Medical Xpress",
+     "published": "2026-10-05T00:30:06+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/liver-genes.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Brain tissue removed during surgery reveals potential way to curb inflammation linked to Alzheimer's",
+     "url": "https://medicalxpress.com/news/2026-10-brain-tissue-surgery-reveals-potential.html",
+     "summary": "Inflammatory conditions in the brain, including traumatic brain injury and degenerative diseases like Alzheimer's, could be targeted with an existing drug thanks to new research that shows it can work in brain cells.",
+     "source": "Medical Xpress",
+     "published": "2026-10-04T23:10:02+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/2-braincells.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Digital media health risks warrant global action to protect young people, experts argue",
+     "url": "https://medicalxpress.com/news/2026-10-digital-media-health-warrant-global.html",
+     "summary": "The way digital technologies are currently built and governed creates real risks to health worldwide, alongside genuine benefits, according to a new three-paper series authored by 13 global experts and published in The Lancet. The authors call for coordinated governance of digital systems, with the health and online safety of children and young people made an immediate global policy priority.",
+     "source": "Medical Xpress",
+     "published": "2026-10-04T22:30:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/teen-smartphone.jpg",
+     "topic": "medicine"
+    },
+    {
      "title": "Health records from 68 adults link plant-based grocery support to lower blood pressure and weight",
      "url": "https://medicalxpress.com/news/2026-10-health-adults-link-based-grocery.html",
      "summary": "Providing people with nutritious foods can improve the management of chronic metabolic diseases such as type 2 diabetes and hypertension. However, most studies of \"Food Is Medicine\" programs have only looked at their short-term impacts—on the scale of weeks to months.",
      "source": "Medical Xpress",
      "published": "2026-10-04T19:24:58+00:00",
      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-term-food-is-medi.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Diet analysis links higher pulse intake to lower heart disease and diabetes risk",
-     "url": "https://medicalxpress.com/news/2026-10-diet-analysis-links-higher-pulse.html",
-     "summary": "New research from two William & Mary students has found that the risk of heart attack could be significantly lowered with one simple dietary change: increasing the intake of pulses. But what is a pulse? A food group with diverse options, pulses are edible seeds from plants in the legume family. Some examples include dry beans, chickpeas, lentils and dry peas.",
-     "source": "Medical Xpress",
-     "published": "2026-10-04T19:00:02+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chickpeas-broccoli.jpg",
      "topic": "medicine"
     },
     {
@@ -189,48 +252,12 @@
      "topic": "medicine"
     },
     {
-     "title": "How blood vessels distinguish between growth and inflammation",
-     "url": "https://medicalxpress.com/news/2026-10-blood-vessels-distinguish-growth-inflammation.html",
-     "summary": "The angiopoietin-Tie signaling pathway has long been known to be essential for the maturation and maintenance of healthy blood vessels. It stabilizes the vessel wall and regulates vascular growth during development. At the same time, it plays an important role in inflammation, when blood vessels become activated and immune cells leave the bloodstream and enter the surrounding tissue. How the same signaling pathway…",
-     "source": "Medical Xpress",
-     "published": "2026-10-04T17:00:06+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-blood-vessels-dist.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "New technology advances understanding of eye pressure and glaucoma",
-     "url": "https://medicalxpress.com/news/2026-09-technology-advances-eye-pressure-glaucoma.html",
-     "summary": "For millions of people at risk of glaucoma, healthy eye pressure can mean the difference between preserving vision and losing it. Yet despite decades of research, scientists still do not fully understand what regulates daily changes in eye pressure or how those fluctuations may contribute to glaucoma. A series of three studies led by Christopher Passaglia, a University of South Florida professor and associate chair…",
-     "source": "Medical Xpress",
-     "published": "2026-10-04T15:40:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/wireless-eye-pressure.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Weekly cisplatin fails to show fewer serious side effects in p16-negative head and neck cancer",
-     "url": "https://medicalxpress.com/news/2026-09-weekly-cisplatin-side-effects-p16.html",
-     "summary": "Physicians typically use either a higher dose of cisplatin given every three weeks or a lower dose given weekly in combination with radiation to treat locally advanced head and neck cancer. However, before NRG-HN009, there was limited randomized evidence to determine which regimen provided the best balance of cancer control and treatment-related side effects.",
-     "source": "Medical Xpress",
-     "published": "2026-10-04T14:20:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/chemotherapy-2.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Medicare for All remains key pressure point for Democrats ahead of midterms",
+     "title": "Medicare for All remains key pressure point for Democrats before midterms",
      "url": "https://www.theguardian.com/us-news/2026/oct/04/medicare-for-all-democrats-midterms",
-     "summary": "The idea of universal health coverage in the US is embraced by party’s left but is often considered a liability by centrists Last week, 1,500 unionized nurses gathered in a large conference room at the Marriott Marquis in San Francisco to cheer for a cause they’ve championed for years: Medicare for All. Considered a radical and even fringe idea for decades, interest in sweeping healthcare reform has surged as…",
+     "summary": "The idea of universal health coverage in the US is embraced by party’s left but often considered a liability by centrists Last week, 1,500 unionized nurses gathered in a large conference room at the Marriott Marquis in San Francisco to cheer for a cause they’ve championed for years: Medicare for All. Considered a radical and even fringe idea for decades, interest in sweeping healthcare reform has surged as…",
      "source": "The Guardian",
      "published": "2026-10-04T14:00:30+00:00",
      "image": "https://i.guim.co.uk/img/media/6637319d733cfbef9d83c55f125060df6ff10484/18_0_6829_5464/master/6829.jpg?width=700&quality=85&auto=format&fit=max&s=3a0095f45c231b2d916cffb377f39b08",
-     "topic": "medicine"
-    },
-    {
-     "title": "Polyubiquitin may stabilize tau filament structures in neurodegenerative diseases",
-     "url": "https://medicalxpress.com/news/2026-09-polyubiquitin-stabilize-tau-filament-neurodegenerative.html",
-     "summary": "In neurodegenerative diseases such as Alzheimer's disease, progressive neuronal damage is associated with the accumulation of abnormal tau filaments in the brain. The core of these filaments forms a highly ordered structure, while molecules such as ubiquitin are attached to tau around the core as post-translational modifications. However, the role these peripheral modifications play in maintaining the structural…",
-     "source": "Medical Xpress",
-     "published": "2026-10-04T13:00:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polyubiquitin-may-stab-1.jpg",
      "topic": "medicine"
     },
     {
@@ -258,33 +285,6 @@
      "source": "The Guardian",
      "published": "2026-10-04T11:00:27+00:00",
      "image": "https://i.guim.co.uk/img/media/46ef4129f9db0cd8c6bfa28cf544a139d5ad4316/660_0_5458_4366/master/5458.jpg?width=700&quality=85&auto=format&fit=max&s=c3e01f79be9facbb81b0311dd2e989b4",
-     "topic": "medicine"
-    },
-    {
-     "title": "This common vitamin could help fight one of the deadliest brain cancers",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
-     "summary": "High-dose vitamin B3 is showing intriguing early promise as an addition to standard glioblastoma treatment, with 82% of patients in a small trial remaining progression-free after six months. Researchers believe niacin may help revive immune cells suppressed by the cancer, but larger studies are still needed to confirm the benefit and safety.",
-     "source": "ScienceDaily",
-     "published": "2026-10-04T10:09:00+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/biological-lymphocytes-and-cancer-cell.webp",
-     "topic": "medicine"
-    },
-    {
-     "title": "Pennsylvania health officials brace themselves as measles outbreak expected to spread",
-     "url": "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak",
-     "summary": "Most counties don’t have their own health agencies, and some specific population groups have low vaccination rates Pennsylvania is bracing for a wave of measles cases, with some public health officials concerned that it’s “only a matter of time” until the disease spreads beyond the outbreak’s epicenter. Last week the state reported its fifth measles-associated death amid 943 confirmed cases across 39 counties. The…",
-     "source": "The Guardian",
-     "published": "2026-10-04T10:00:25+00:00",
-     "image": "https://i.guim.co.uk/img/media/89034b5207eb4204facd2a29d9e365524a9d97e0/466_0_4085_3267/master/4085.jpg?width=700&quality=85&auto=format&fit=max&s=05b2a4513c69677716ebdafe7f019cff",
-     "topic": "medicine"
-    },
-    {
-     "title": "Polish activists launch abortion pill locker to bypass near-total ban",
-     "url": "https://www.theguardian.com/world/2026/oct/04/polish-activists-launch-abortion-pill-locker-to-bypass-near-total-ban",
-     "summary": "‘AbortOmat’ in Warsaw offers novel way to challenge country’s restrictions and allow women swift, anonymous access They call it the “world’s first parcel locker for abortion pills”. Polish campaigners have launched a new means of distribution as part of their ongoing effort to skirt the country’s near-total ban on abortion. Painted pink and framed by zebra-striped curtains, the 22-compartment “AbortOmat” in Warsaw…",
-     "source": "The Guardian",
-     "published": "2026-10-04T05:00:20+00:00",
-     "image": "https://i.guim.co.uk/img/media/b2a4b4f3e691be90c856b0b98446d8ab2365dd4c/476_396_3347_2678/master/3347.jpg?width=700&quality=85&auto=format&fit=max&s=29f5ccf9b63b05f3d05aa8ec73475834",
      "topic": "medicine"
     }
    ],
@@ -322,129 +322,129 @@
    "color": "#e4572e",
    "articles": [
     {
-     "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
-     "summary": "Balkan nation seeks EU membership, but divisions threaten that goal.",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T19:46:34+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2a9333481-1791142195.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "France to shutter up to 500 schools as more student protests called",
-     "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
-     "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T19:41:04+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac2853100e5-1791132977.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
-     "url": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
-     "summary": "Supporters of jailed former prime minister have set off from northwest Pakistan towards Islamabad.",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T19:20:08+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261004__D27V7WE__v1__HighRes__PakistanPoliticsProtest-1791131061.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "Brazil presidential election 2026: first-round live results",
-     "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-     "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil is directly elected, and candidates need more than 50% of the vote to avoid a second round. Polls close at 17.00 BRT /…",
-     "source": "The Guardian",
-     "published": "2026-10-04T19:01:28+00:00",
-     "image": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a806b57924db0873ee0cca39c89b98a5",
-     "topic": "world"
-    },
-    {
-     "title": "War on Iran: Is escalation more likely than a deal?",
-     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
-     "summary": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T18:47:22+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/war-on-iran-1-1791139662.jpg?resize=1920%2C1080&quality=80",
-     "topic": "world"
-    },
-    {
-     "title": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
-     "summary": "The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith.",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T18:34:30+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-04-at-19.26.26-1791138580.png?resize=1200%2C675",
-     "topic": "world"
-    },
-    {
-     "title": "Nearly all women arriving on small boats have been raped, says Shabana Mahmood",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/04/women-small-boats-raped-shabana-mahmood-asylum-migration",
-     "summary": "Home secretary warns people traffickers will exploit asylum seekers because they decide who comes to the UK Nearly all women who try to reach the UK in small boats from northern France have been raped on their journey, Shabana Mahmood has claimed. In an interview with The Rest Is Politics podcast, the home secretary said far-right, balaclava-wearing activists would “kill” or “kick me out of my own country” if they…",
-     "source": "The Guardian",
-     "published": "2026-10-04T18:00:34+00:00",
-     "image": "https://i.guim.co.uk/img/media/76625ce1f734f5341b5850f549e5bb3bf1174d69/1018_522_3077_2462/master/3077.jpg?width=700&quality=85&auto=format&fit=max&s=007088e86daf834fae86c9c3c26642b3",
-     "topic": "world"
-    },
-    {
-     "title": "Police investigating Flydubai co-pilot’s Australia ties",
-     "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
-     "summary": "Australian police and intelligence join the list of those probing the incident.",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T17:53:34+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ac282ed1f55-1791132397.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "Green party votes to adopt policy that equates Zionism with racism",
-     "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
-     "summary": "Motion calling for single Palestinian state, which is opposed by most Green MPs and expected to be challenged, passes by 1,022 votes to 813 The Greens have formally adopted a policy that equates Zionism with racism and calls for Israel to be replaced by a single Palestinian state, a move opposed by the bulk of the party’s MPs and which is expected to face legal challenge. Zack Polanski, who heads the Greens in…",
-     "source": "The Guardian",
-     "published": "2026-10-04T17:40:39+00:00",
-     "image": "https://i.guim.co.uk/img/media/646c5bd0acff2a6e80dc86cc72551c0b2a11e17a/0_0_3874_3099/master/3874.jpg?width=700&quality=85&auto=format&fit=max&s=e849efb250ba935ea1ffb1b02a8b844b",
-     "topic": "world"
-    },
-    {
-     "title": "Indian police accused of sexual harassment against journalists at protest",
-     "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-     "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+     "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+     "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+     "summary": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
      "source": "BBC World",
-     "published": "2026-10-04T17:01:19+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d2fb/live/20fd0ca0-bffa-11f1-a64c-550be9e3c66b.jpg",
+     "published": "2026-10-05T05:28:46+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3eaa/live/091199c0-c06e-11f1-9135-d3a6369912e1.jpg",
      "topic": "world"
     },
     {
-     "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-     "source": "BBC World",
-     "published": "2026-10-04T16:51:30+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
+     "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+     "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+     "summary": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
+     "source": "Al Jazeera",
+     "published": "2026-10-05T05:20:57+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac14860e002-1791051872.jpg?resize=1920%2C1440",
      "topic": "world"
     },
     {
-     "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
-     "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-     "summary": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racism On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the state pension system needs a fundamental overhaul. Speaking in June, when she was a frontbencher but not yet in the shadow cabinet, Lam was asked at a…",
+     "title": "Who were the top teen athletes at the Asian Games?",
+     "url": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
+     "summary": "China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.",
+     "source": "Al Jazeera",
+     "published": "2026-10-05T05:12:38+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab4ee1e46-1790242334.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Samoa PM apologises after Nazi salute video emerges",
+     "url": "https://www.aljazeera.com/news/2026/10/5/samoa-pm-apologises-after-nazi-salute-video-emerges?traffic_source=rss",
+     "summary": "Pacific island nation’s leader says 2007 video showing him saying 'Heil Hitler' does not reflect his beliefs.",
+     "source": "Al Jazeera",
+     "published": "2026-10-05T05:08:29+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/722245684_2477608136034626_8507685971400546892_n-1-1791174509.jpeg?resize=1920%2C1365",
+     "topic": "world"
+    },
+    {
+     "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+     "summary": "Brazil’s presidential election is heading to a run-off after Bolsonaro and Lula both fell short of the 50% needed to win",
+     "source": "Al Jazeera",
+     "published": "2026-10-05T05:08:23+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791176891.jpg?resize=1920%2C1080&quality=80",
+     "topic": "world"
+    },
+    {
+     "title": "Authorities issue shark warning over whale that swam 11km upstream in Clarence River and later died",
+     "url": "https://www.theguardian.com/environment/2026/oct/05/nsw-shark-warning-whale-death-clarence-river",
+     "summary": "The juvenile humpback was spotted near Bundjalung National Park in what experts say is a rare, but not unprecedented event While the case of a whale found 11km upstream in a New South Wales river this weekend was unusual, it was not unprecedented, experts say. The juvenile humpback, which swam into the Clarence River on the state’s mid-north coast and later died, was towed out to sea on Sunday, according to NSW…",
      "source": "The Guardian",
-     "published": "2026-10-04T16:32:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/0ec80a22ef35c2a228fdedcb6073722da88831a2/290_182_3510_2808/master/3510.jpg?width=700&quality=85&auto=format&fit=max&s=a1bc04a89827c3a76a0ec0d290d492e6",
+     "published": "2026-10-05T05:02:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/1a37b576f764a2aecee6a4092e63f372866836f5/246_0_2461_1970/master/2461.jpg?width=700&quality=85&auto=format&fit=max&s=267f869b92ad68b98a9bc91b41a59a6c",
      "topic": "world"
     },
     {
-     "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-     "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-     "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-     "source": "BBC World",
-     "published": "2026-10-04T16:24:48+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg",
-     "topic": "world"
-    },
-    {
-     "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
-     "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
-     "summary": "Attack shortly after Friedrich Merz arrived on unannounced visit intended to underline Germany’s backing Russia has struck another major bridge in Kyiv as the German chancellor, Friedrich Merz, arrived in the capital in a show of support for Ukraine. A Russian drone hit Kyiv’s key Northern Bridge over the Dnipro River, marking the fourth consecutive day that Russia has targeted bridges used by tens of thousands of…",
+     "title": "BBC morale dented by gradual ‘bloodletting’ after weeks of job cuts",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/05/bbc-morale-dented-job-cuts",
+     "summary": "Plans to shed as many as 2,000 employees have been announced in stages, and staff fear further cuts in 2027 Morale at the BBC has been severely dented by a gradual “bloodletting” that has seen plans to shed as many as 2,000 staff slowly announced over several weeks, members of the corporation’s staff have warned. More internal meetings have been called for this week to discuss further details of the cuts , which aim…",
      "source": "The Guardian",
-     "published": "2026-10-04T16:12:21+00:00",
-     "image": "https://i.guim.co.uk/img/media/1f670864526e1f5e87ee49c6d8f97d2f1f97c8e5/382_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=38d7e2885545d264fe86972f42cd4cdd",
+     "published": "2026-10-05T05:00:49+00:00",
+     "image": "https://i.guim.co.uk/img/media/3ebec8fe7cfcd27d3e426ae21278afc04439405a/439_0_4458_3568/master/4458.jpg?width=700&quality=85&auto=format&fit=max&s=a770ad36fee771e1bfc27ca66649ef4e",
+     "topic": "world"
+    },
+    {
+     "title": "From hotel suites to virtual reality, museums turn to licensing deals as costs rise",
+     "url": "https://www.theguardian.com/business/2026/oct/05/hotel-suites-virtual-reality-museums-licensing-deals-costs-rise",
+     "summary": "Natural History Museum and British Museum among cultural institutions leveraging collections and exhibitions They are often free to visit but museums are bolstering their finances by putting their stamp on everything from upmarket hotel suites to trendy jumpsuits and virtual reality experiences. Forget buying a T-shirt. If you can afford the “from £724” price tag, you can spend the night in the Natural History…",
+     "source": "The Guardian",
+     "published": "2026-10-05T05:00:48+00:00",
+     "image": "https://i.guim.co.uk/img/media/6873c49ab163f8528ba51d4d974c9c3d8e62d84b/19_19_3492_2795/master/3492.jpg?width=700&quality=85&auto=format&fit=max&s=dd71c84da58865d25667dd33d31f91aa",
+     "topic": "world"
+    },
+    {
+     "title": "US air force removes all bombers from British military base RAF Fairford",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+     "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+     "source": "BBC World",
+     "published": "2026-10-05T04:58:56+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dc8f/live/fbf333b0-c037-11f1-86a1-ad5985eac783.jpg",
+     "topic": "world"
+    },
+    {
+     "title": "Watch: How Brazil's dramatic election unfolded",
+     "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+     "source": "BBC World",
+     "published": "2026-10-05T04:51:24+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ac5f/live/837994b0-c03c-11f1-8a9a-cff8e8e5b3a9.jpg",
+     "topic": "world"
+    },
+    {
+     "title": "France closes up to 500 schools Monday over student protests",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+     "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+     "source": "BBC World",
+     "published": "2026-10-05T04:49:14+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f337/live/a9a0ba20-c022-11f1-ae5f-052d2eebe3b9.jpg",
+     "topic": "world"
+    },
+    {
+     "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
+     "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
+     "summary": "A California woman allegedly sent photos and videos of President Lai's son and his family to Chinese officials.",
+     "source": "Al Jazeera",
+     "published": "2026-10-05T04:13:20+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac3119d-1791168925.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
+     "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
+     "summary": "A Russian agency links the lab worker's death to 'pneumonia of unknown' origin.",
+     "source": "Al Jazeera",
+     "published": "2026-10-05T04:07:51+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac30793-1791166355.jpg?resize=1920%2C1371",
+     "topic": "world"
+    },
+    {
+     "title": "Former Bachelor star Sam Wood charged with domestic violence",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/05/sam-wood-charged-domestic-violence-ntwnfb",
+     "summary": "Police arrested 46-year-old in Noosa and charged him with assault occasioning bodily harm and strangulation in a domestic setting Get our breaking news email , free app or daily news podcast The fitness influencer and reality TV star Sam Wood has been charged in Queensland with domestic violence offences. The personal trainer and star of the third season of the Australian version of the reality TV show The Bachelor…",
+     "source": "The Guardian",
+     "published": "2026-10-05T04:06:47+00:00",
+     "image": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=700&quality=85&auto=format&fit=max&s=1ff5a89e8bd14dd740924e775cbbcffe",
      "topic": "world"
     }
    ],
