@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-10T05:27:10.814499+00:00",
+ "generated_at": "2026-10-11T05:27:26.129022+00:00",
  "highlights": [
-  "https://www.psypost.org/women-more-drawn-to-hypothetical-jobs-where-most-employees-were-women/",
-  "https://medicalxpress.com/news/2026-10-effective-ptsd-treatment.html",
-  "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+  "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+  "https://www.theguardian.com/society/2026/oct/11/i-get-really-upset-when-i-visit-the-harsh-reality-of-life-in-a-high-security-hospital-in-england",
+  "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
   "https://dailynous.com/2026/10/09/mini-heap-731/",
-  "https://www.theguardian.com/lifeandstyle/2026/oct/10/blind-date-holly-graeme",
-  "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/who-controls-a-companys-values-after-it-is-sold/",
-  "https://www.sciencedaily.com/releases/2026/10/261007233348.htm"
+  "https://www.theguardian.com/commentisfree/2026/oct/11/a-dating-app-that-lets-random-strangers-match-users-sign-me-up",
+  "https://www.theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
+  "https://www.sciencedaily.com/releases/2026/10/261008005251.htm"
  ],
  "topics": [
   {
@@ -17,57 +17,75 @@
    "color": "#7c5cff",
    "articles": [
     {
-     "title": "Women more drawn to hypothetical jobs where most employees were women",
-     "url": "https://www.psypost.org/women-more-drawn-to-hypothetical-jobs-where-most-employees-were-women/",
-     "summary": "Women were more interested in hypothetical jobs, and expected to feel more at home in them, when told most employees were women, according to four studies that pitted gender representation against job ads emphasizing brilliance.",
-     "source": "PsyPost",
-     "published": "2026-10-09T20:00:16+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/10/businesswomen.jpg",
+     "title": "Loneliness may steal nearly 6 years of good health",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+     "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
+     "source": "ScienceDaily",
+     "published": "2026-10-10T18:57:02+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/sad-lonely-man-looking-out-window.webp",
      "topic": "psychology"
     },
     {
-     "title": "Emotional blunting is common in depression and bipolar disorder, even after symptoms ease",
-     "url": "https://www.psypost.org/emotional-blunting-is-common-in-depression-and-bipolar-disorder-even-after-symptoms-ease/",
-     "summary": "Recovering from depression doesn’t always mean feeling things fully again. In a study of 106 patients on antidepressants, emotional blunting was less common among patients in remission but still affected 45% of them.",
+     "title": "Screen time not consistently tied to children’s emotional or behavioral problems in a large Scottish study",
+     "url": "https://www.psypost.org/screen-time-not-consistently-tied-to-childrens-emotional-or-behavioral-problems-in-a-large-scottish-study/",
+     "summary": "How much time children spend on screens may matter less than many assume. In a Scottish study following thousands of children to age 15, screen time showed few consistent links with emotional and behavioral difficulties.",
      "source": "PsyPost",
-     "published": "2026-10-09T18:00:15+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/10/sad-asian-woman.jpg",
+     "published": "2026-10-10T18:00:50+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/11/child-screentime.jpg",
      "topic": "psychology"
     },
     {
-     "title": "How your personality “acts as an invisible architect for your career,” according to new research",
-     "url": "https://www.psypost.org/how-your-personality-acts-as-an-invisible-architect-for-your-career-according-to-new-research/",
-     "summary": "Are you willing to wait for a bigger payoff? Researchers studying young Danes found that the more patient ones tended to apply to longer degree programs with steeper earnings growth, even after accounting for grades and family background.",
+     "title": "Family background may explain much of the mental health gap tied to sexual orientation, twin studies suggest",
+     "url": "https://www.psypost.org/family-background-may-explain-much-of-the-mental-health-gap-tied-to-sexual-orientation-twin-studies-suggest/",
+     "summary": "Gay, lesbian, and bisexual people report worse mental health on average than heterosexual people. But when they’re compared with their own heterosexual siblings and twins, much of that gap shrinks, a new meta-analysis of 17 studies finds.",
      "source": "PsyPost",
-     "published": "2026-10-09T16:00:19+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2023/03/College-Student-Uses-Laptop-while-Listening-to-a-Lecture-at-the-University.jpg",
+     "published": "2026-10-10T16:00:45+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/08/sad-lgbt.jpg",
      "topic": "psychology"
     },
     {
-     "title": "The invisible chore that may matter more for women’s relationship happiness than housework",
-     "url": "https://www.psypost.org/the-invisible-chore-that-may-matter-more-for-womens-relationship-happiness-than-housework/",
-     "summary": "Both men and women agree that women carry more of a household’s mental load. A new study finds that women report greater satisfaction when it’s shared equally, while men report greater relationship satisfaction when their partners carry more.",
+     "title": "Belief in supernatural evil is linked to blaming the system for poverty",
+     "url": "https://www.psypost.org/belief-in-supernatural-evil-is-linked-to-blaming-the-system-for-poverty/",
+     "summary": "People who believe in the devil and hell are more likely to blame society for poverty, while those who believe in a supportive deity are less likely to do so, according to a recent survey of South Korean adults.",
      "source": "PsyPost",
-     "published": "2026-10-09T14:00:23+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/10/couple-doing-housework-cleaning.jpg",
+     "published": "2026-10-10T14:00:30+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/10/satan-the-devil.jpg",
      "topic": "psychology"
     },
     {
-     "title": "Childhood ADHD diagnosis linked to lower adult religious attendance",
-     "url": "https://www.psypost.org/childhood-adhd-diagnosis-linked-to-lower-adult-religious-attendance/",
-     "summary": "A childhood ADHD diagnosis is linked to a steep decline in adult religious service attendance, especially among Black and Asian American adults. Private spiritual practices like prayer, however, remain largely unaffected by the neurodevelopmental condition.",
+     "title": "Does voting by mail make for better choices? A 2020 election study suggests it might",
+     "url": "https://www.psypost.org/does-voting-by-mail-make-for-better-choices-a-2020-election-study-suggests-it-might/",
+     "summary": "Mail-in ballots are usually discussed as a way to boost turnout. New research suggests they may also help voters make better choices, with mail voters more likely to pick the candidate aligned with their stated preferences.",
      "source": "PsyPost",
-     "published": "2026-10-09T13:00:17+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/02/christian-woman-praying-at-church.jpg",
+     "published": "2026-10-10T13:00:22+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/07/mail-in-ballot-voting.jpg",
      "topic": "psychology"
     },
     {
-     "title": "Which cities dominated 2020 voter fraud talk? A city’s Black population was the best predictor",
-     "url": "https://www.psypost.org/which-cities-dominated-2020-voter-fraud-talk-a-citys-black-population-was-the-best-predictor/",
-     "summary": "After the 2020 election, online talk of voter fraud zeroed in on cities with large Black populations. A new study suggests these racialized claims found a particularly receptive audience among White Americans who score high in racial resentment.",
+     "title": "Pregnant women with a history of childhood neglect show stronger inflammatory reactions to stress",
+     "url": "https://www.psypost.org/pregnant-women-with-a-history-of-childhood-neglect-show-stronger-inflammatory-reactions-to-stress/",
+     "summary": "A history of childhood neglect or abuse may be reflected in how the body handles stress during pregnancy. In a new study, affected women showed stronger inflammatory responses to a stress test, linked in turn to more pregnancy complications.",
      "source": "PsyPost",
-     "published": "2026-10-09T12:00:15+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/10/voting-election-day.jpg",
+     "published": "2026-10-10T12:00:50+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/08/stressed-pregnant-woman.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "High cognitive ability in women predicts workplace victimization",
+     "url": "https://www.psypost.org/highly-competent-women-face-hidden-social-penalties-in-the-workplace/",
+     "summary": "Highly intelligent women often face a hidden social penalty in the workplace. A new study reveals that female employees with high cognitive ability are perceived as more hostile, leading to fewer supportive interactions with their colleagues.",
+     "source": "PsyPost",
+     "published": "2026-10-10T11:00:43+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2024/10/annoyed-frustrated-businesswoman-at-work.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Scientists discover 5 hidden brain patterns behind depression",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+     "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations with symptoms such as anxiety, trauma, and substance abuse.",
+     "source": "ScienceDaily",
+     "published": "2026-10-09T18:34:02+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
      "topic": "psychology"
     },
     {
@@ -114,15 +132,6 @@
      "published": "2026-10-04T11:00:26+00:00",
      "image": "https://i.guim.co.uk/img/media/63084cdc4236c574be8659b15ab25dd9d19dee23/0_440_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=037f958d70cd7f18896f181fa9fd952b",
      "topic": "psychology"
-    },
-    {
-     "title": "‘There’s a lot of silence’: have we created a new ‘Lonely Generation’?",
-     "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence",
-     "summary": "Learning to be one human among many has always been a little lonely and discombobulating. But young people around the world are lonelier than ever. Why? In September, a Reddit user identifying themselves as a 25-year-old man turned to the r/ForeverAlone subreddit with a question : How do you deal with touch starvation? “It’s becoming obvious to me that I’ll probably be alone forever,” he wrote. He used to be worried…",
-     "source": "The Guardian",
-     "published": "2026-10-03T19:00:07+00:00",
-     "image": "https://i.guim.co.uk/img/media/310424a9fdf7d93165cfa8b0889c32678401a8bd/568_692_4385_3508/master/4385.jpg?width=700&quality=85&auto=format&fit=max&s=f355b256da15edfe02fb6c570eb5feb4",
-     "topic": "psychology"
     }
    ],
    "sources": [
@@ -153,39 +162,111 @@
    "color": "#0fa3b1",
    "articles": [
     {
-     "title": "Improving the steps toward better, cost-effective PTSD treatment",
-     "url": "https://medicalxpress.com/news/2026-10-effective-ptsd-treatment.html",
-     "summary": "Post-traumatic stress disorder (PTSD) is estimated to affect 3.9% of the global population, and stepped care can improve access to PTSD treatments by matching clients to a treatment type that best suits their needs. However, there is a lack of consensus about what treatments should be used, the criteria for stepping clients up to a higher-intensity treatment and who should start with higher-intensity treatment.",
-     "source": "Medical Xpress",
-     "published": "2026-10-10T02:00:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ptsd-puzzle-brain.jpg",
+     "title": "‘I get really upset when I visit’: the harsh reality of life in a high-security hospital in England",
+     "url": "https://www.theguardian.com/society/2026/oct/11/i-get-really-upset-when-i-visit-the-harsh-reality-of-life-in-a-high-security-hospital-in-england",
+     "summary": "When the Southport killer Axel Rudakubana was transferred from a category A prison to Broadmoor hospital, many observers complained that he was getting off lightly. But these places are anything but ‘cushy’, says the mother of one patient Rampton high-security hospital in Nottinghamshire was built in 1912. Everything about the bleak, remote facility for mentally ill people is forbidding, says Jan Neate. “I get…",
+     "source": "The Guardian",
+     "published": "2026-10-11T04:00:16+00:00",
+     "image": "https://i.guim.co.uk/img/media/e46d79a94833e9f3ad5bb77cde6459ca238eeb3e/1113_894_4099_3279/master/4099.jpg?width=700&quality=85&auto=format&fit=max&s=b5d2e5a633eae32fb3d140fe31c6dcf0",
      "topic": "medicine"
     },
     {
-     "title": "'Medicare for All' is back: Now comes the hard part",
-     "url": "https://medicalxpress.com/news/2026-10-medicare-hard.html",
-     "summary": "As Americans grow increasingly frustrated with their health care system, a proposal that has long been kicked around on the Democratic periphery is showing up in debates and on political platforms: \"Medicare for All.\"",
+     "title": "Aspirin rarely used for colorectal cancer prevention",
+     "url": "https://medicalxpress.com/news/2026-10-aspirin-rarely-colorectal-cancer.html",
+     "summary": "People with Lynch syndrome have a significantly increased risk of developing colorectal cancer and other types of cancer due to a hereditary predisposition. The CAPP2 study had already shown in this high-risk group that acetylsalicylic acid can significantly reduce the long-term risk of colorectal cancer. The study examined a comparatively high daily dose of 600 milligrams. The recently published international CaPP3…",
      "source": "Medical Xpress",
-     "published": "2026-10-10T00:20:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/medicare-for-all-is-ba.jpg",
+     "published": "2026-10-11T00:30:05+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dr-robert-hneburg-dr-a.jpg",
      "topic": "medicine"
     },
     {
-     "title": "Maternal house cleaning behaviors during pregnancy associated with child developmental screening outcomes",
-     "url": "https://medicalxpress.com/news/2026-10-maternal-house-behaviors-pregnancy-child.html",
-     "summary": "House dust can contain chemical and biological components, including phthalates, flame retardants, allergens, endotoxins and microorganisms. Because pregnant women spend time indoors, household environmental conditions during pregnancy may be relevant to child development.",
+     "title": "Intensive breathing linked to altered consciousness and brain communication",
+     "url": "https://medicalxpress.com/news/2026-10-intensive-linked-consciousness-brain-communication.html",
+     "summary": "Intensive breathing exercises can reduce blood flow to the brain by up to 45% and alter communication between brain networks, according to a new brain-imaging study. Participants reported experiences resembling some effects of psychedelic drugs, including altered perception, vivid mental imagery, a sense of unity and changes in self-experience. The researchers, presenting the work at the ECNP Congress in Munich, say…",
      "source": "Medical Xpress",
-     "published": "2026-10-09T23:00:06+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/maternal-house-dustrel.jpg",
+     "published": "2026-10-10T22:10:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intense-breathing.jpg",
      "topic": "medicine"
     },
     {
-     "title": "Training mothers how to respond to babies might reduce the risk of depression after giving birth",
-     "url": "https://medicalxpress.com/news/2026-10-mothers-babies-depression-birth.html",
-     "summary": "Researchers have shown that prenatal training may reduce the risk of postnatal depression in women—but only if they have previously had a baby. This surprising finding is presented for the first time at the ECNP Congress in Munich.",
+     "title": "Daily peanut consumption beneficially affects brain insulin responsiveness, new research finds",
+     "url": "https://medicalxpress.com/news/2026-10-daily-peanut-consumption-beneficially-affects.html",
+     "summary": "A study from the Institute of Nutrition and Translational Research in Metabolism (NUTRIM) at Maastricht University Medical Center in Maastricht, the Netherlands, has found that longer-term consumption of unsalted, skin-roasted peanuts can benefit insulin responsiveness in the brains of older adults. The findings are published in Food & Function.",
      "source": "Medical Xpress",
-     "published": "2026-10-09T22:10:02+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/training-how-mothers-r.jpg",
+     "published": "2026-10-10T22:00:06+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eat-peanuts.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Regular periods, but worse symptoms: Women with bipolar disorder may be losing out on gynecological care",
+     "url": "https://medicalxpress.com/news/2026-10-regular-periods-worse-symptoms-women.html",
+     "summary": "Researchers have found that women with bipolar disorder who have regular menstrual cycles are more likely to report severe premenstrual symptoms than those with irregular cycles, according to preliminary research being presented at the 2026 ECNP Congress in Munich.",
+     "source": "Medical Xpress",
+     "published": "2026-10-10T22:00:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-period.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Safety prompts can help AI models make safer clinical choices",
+     "url": "https://medicalxpress.com/news/2026-10-safety-prompts-ai-safer-clinical.html",
+     "summary": "As artificial intelligence (AI) becomes increasingly capable of assisting with health care tasks, a new study by researchers at the Icahn School of Medicine at Mount Sinai has found that adding a brief safety reminder reduced potentially harmful choices by AI models in clinical scenarios.",
+     "source": "Medical Xpress",
+     "published": "2026-10-10T20:00:09+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/safety-prompts-can-hel.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Early-onset Alzheimer's disease shows different warning signs from established risk factors",
+     "url": "https://medicalxpress.com/news/2026-10-early-onset-alzheimer-disease-factors.html",
+     "summary": "A study by the University of Oulu and the University of Eastern Finland found that people who developed Alzheimer's disease before the age of 65 accumulated a wide range of health problems, particularly during the five years preceding diagnosis. Compared with matched controls, they were more likely to experience depression, dizziness, headaches, traumatic brain injuries, epilepsy, cerebrovascular disorders, thyroid…",
+     "source": "Medical Xpress",
+     "published": "2026-10-10T20:00:02+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-pressure-2.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Loneliness may steal nearly 6 years of good health",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+     "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
+     "source": "ScienceDaily",
+     "published": "2026-10-10T18:57:02+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/sad-lonely-man-looking-out-window.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "Bowel cancer “melted away” after immunotherapy, then stayed away",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
+     "summary": "A short course of immunotherapy before surgery may offer remarkably durable protection for some patients with stage two or three bowel cancer. In the NEOPRISM-CRC trial, 32 patients with a specific genetic form of bowel cancer received pembrolizumab for up to nine weeks before surgery instead of the usual post-surgery chemotherapy. After nearly three years of follow-up, none of the patients had experienced a cancer…",
+     "source": "ScienceDaily",
+     "published": "2026-10-10T18:42:35+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "FDA may allow some toxic chemicals to be added to food without safety review. Experts are alarmed",
+     "url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
+     "summary": "Regulator looks to expand loophole to allow dangerous compounds in food as long as they’re not carcinogenic The US Food and Drug Administration (FDA) is proposing to expand a controversial loophole to allow some of the world’s most toxic chemicals to be added directly to food without a safety review. The “threshold of regulation” (TOR) exemption currently allows dangerous compounds to be used without review in food…",
+     "source": "The Guardian",
+     "published": "2026-10-10T12:00:57+00:00",
+     "image": "https://i.guim.co.uk/img/media/8125d451ea3e54a47c2e588694c410434779c531/355_0_4147_3317/master/4147.jpg?width=700&quality=85&auto=format&fit=max&s=3adf90ab4903166fa0061021eafa1645",
+     "topic": "medicine"
+    },
+    {
+     "title": "'What terminal cancer has taught me about life'",
+     "url": "https://www.bbc.co.uk/news/articles/c8x2z22wdeglo?at_medium=RSS&at_campaign=rss",
+     "summary": "A Gloucestershire man with terminal cancer shares the life lessons he wishes he'd learned sooner.",
+     "source": "BBC Health",
+     "published": "2026-10-10T06:16:46+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1d16/live/9ec7e820-c32a-11f1-9981-cf94ea240e40.png",
+     "topic": "medicine"
+    },
+    {
+     "title": "Scientists may have found why diabetic wounds refuse to heal",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261006234534.htm",
+     "summary": "Chronic diabetic wounds may fail to heal because immune cells remain locked in damaging inflammatory states instead of transitioning toward tissue repair. Researchers are exploring treatments that reprogram these immune responses, raising hopes for more targeted and effective therapies for diabetic ulcers.",
+     "source": "ScienceDaily",
+     "published": "2026-10-10T03:00:35+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/diabetic-foot-ulcer-wound.webp",
      "topic": "medicine"
     },
     {
@@ -198,84 +279,12 @@
      "topic": "medicine"
     },
     {
-     "title": "T-cell research reveals paths to better vaccines for COVID-19 and beyond",
-     "url": "https://medicalxpress.com/news/2026-10-cell-reveals-paths-vaccines-covid.html",
-     "summary": "Two people infected with the same strain of COVID-19 can have vastly different experiences. One might never even sniffle, and the other might end up on a ventilator. But why?",
-     "source": "Medical Xpress",
-     "published": "2026-10-09T20:20:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/t-cell-research-reveal.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Blood cancer study links blood formation and bone health",
-     "url": "https://medicalxpress.com/news/2026-10-blood-cancer-links-formation-bone.html",
-     "summary": "Myelodysplastic syndromes (MDS) belong to the malignant diseases of the hematopoietic system that occur primarily in older adults. In patients with MDS, blood formation in bone marrow is impaired. Medical care therefore typically focuses on blood counts and the treatment of the resulting anemia and other changes in the blood profile; some patients also require regular blood transfusions. Until now, bone health has…",
-     "source": "Medical Xpress",
-     "published": "2026-10-09T19:40:04+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/blood.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "NHS faces exodus of ADHD and autism services staff to private clinics",
-     "url": "https://www.theguardian.com/society/2026/oct/09/nhs-exodus-adhd-autism-services-staff-private-clinics",
-     "summary": "Brain drain of psychologists, psychiatrists and nurses leaves NHS ‘weaker’, driving patients to seek care elsewhere Full report | NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds The NHS is facing an exodus of staff quitting its ADHD and autism services to join private clinics amid huge demand from children and adults to get a diagnosis. The loss of specialist personnel to the…",
-     "source": "The Guardian",
-     "published": "2026-10-09T17:24:16+00:00",
-     "image": "https://i.guim.co.uk/img/media/b5f4395f4dbd5e5e21bd0907d33eb6f34ccc1dcd/93_0_4875_3899/master/4875.jpg?width=700&quality=85&auto=format&fit=max&s=0f122b98bd45dd70a41719f3619f7622",
-     "topic": "medicine"
-    },
-    {
-     "title": "Insurance model is no substitute for the NHS | Letter",
-     "url": "https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs",
-     "summary": "Susan Jones points out that an NHS-style system does not require either sales costs or shareholder profits In Dining across the divide (4 October), the young participant, Ted, is quoted as expressing his “desire to abolish the NHS and replace it with a social insurance model. This would still have provision for free treatment at the point of need, but people would pay through insurance systems, and they would choose…",
-     "source": "The Guardian",
-     "published": "2026-10-09T16:13:09+00:00",
-     "image": "https://i.guim.co.uk/img/media/7dc17cd3be2c706b0700401a34312114fd03aa58/546_0_6250_5000/master/6250.jpg?width=700&quality=85&auto=format&fit=max&s=a26589b7974df7e828ce14e64dd323b0",
-     "topic": "medicine"
-    },
-    {
-     "title": "Yes, hang-xiety is a real thing",
-     "url": "https://www.bbc.co.uk/news/videos/ck98zyyer83mo?at_medium=RSS&at_campaign=rss",
-     "summary": "Waking up feeling hungover AND anxious? BBC Health's Chloe Hayward explains the science behind hang-xiety.",
-     "source": "BBC Health",
-     "published": "2026-10-09T14:59:16+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2204/live/b57543f0-c3ee-11f1-bc2e-018d645d8d21.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Execution live stream could cause PTSD in viewers, say psychiatrists",
-     "url": "https://www.theguardian.com/us-news/2026/oct/09/execution-live-stream-ford-hood-killer-ptsd-viewers-pete-hegseth",
-     "summary": "Warning follows Pete Hegseth announcement that firing squad execution of Fort Hood killer will be public • US politics – latest updates Livestreaming an execution could cause post-traumatic stress disorder in the viewing public, mental health experts have said, after the US confirmed plans to broadcast the death by firing squad of a man who shot dead 13 unarmed soldiers. The US defence secretary, Pete Hegseth, said…",
-     "source": "The Guardian",
-     "published": "2026-10-09T13:26:54+00:00",
-     "image": "https://i.guim.co.uk/img/media/114ef51e1edc28337a2ba2085ff6b349b4bec1c3/511_0_4163_3330/master/4163.jpg?width=700&quality=85&auto=format&fit=max&s=140ea7d583afc277f2ec1b3ab10e3a35",
-     "topic": "medicine"
-    },
-    {
-     "title": "Autism, ADHD and mental health review: What you need to know",
-     "url": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
-     "summary": "It contains big lessons for the NHS, welfare, education and employment policies. What are the key takeaways?",
-     "source": "BBC Health",
-     "published": "2026-10-09T12:16:11+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4041/live/d819d250-c3d4-11f1-95ba-dba767ffba7e.png",
-     "topic": "medicine"
-    },
-    {
-     "title": "From the workplace to pop culture - why how we view women's anger is changing",
-     "url": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&at_campaign=rss",
-     "summary": "Studies suggest women are getting angrier, but are they just more open about it?",
-     "source": "BBC Health",
-     "published": "2026-10-09T11:40:22+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9481/live/3d1c2fb0-c30b-11f1-8f04-85217d686658.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Fund launched to back community wellbeing projects",
-     "url": "https://www.bbc.co.uk/news/articles/cw80z5r8nmxro?at_medium=RSS&at_campaign=rss",
-     "summary": "The fund aims to attract support from individuals, families, businesses and charitable trusts.",
-     "source": "BBC Health",
-     "published": "2026-10-09T11:35:58+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6f16/live/9a369f00-664a-11f1-9cfe-f18f6b94142d.jpg",
+     "title": "Scientists discover 5 hidden brain patterns behind depression",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+     "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations with symptoms such as anxiety, trauma, and substance abuse.",
+     "source": "ScienceDaily",
+     "published": "2026-10-09T18:34:02+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
      "topic": "medicine"
     }
    ],
@@ -313,129 +322,129 @@
    "color": "#e4572e",
    "articles": [
     {
-     "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-     "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-     "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
-     "source": "BBC World",
-     "published": "2026-10-10T05:25:12+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d433/live/d30d8e00-c3d4-11f1-9a39-31b474234113.jpg",
-     "topic": "world"
-    },
-    {
-     "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
-     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
-     "summary": "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible? And has there been a cover-up? Shortly after 1am one night in April 2019, a CIA officer on a work trip to London was jolted awake in his hotel room by the most intense head pain he had ever experienced. His…",
+     "title": "Two Carlton players treated in hospital after needing care for ‘separate circumstances’",
+     "url": "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
+     "summary": "Club issues brief statement about Lachie Cowan and Will Hayward, saying latter suffered minor cut to head after a fall Carlton football club has said two of its players, Lachie Cowan and Will Hayward, required treatment in hospital on Sunday morning in “separate circumstances”. The club released a statement on Sunday after reports in several media outlets that unnamed players had been taken to hospital by ambulance…",
      "source": "The Guardian",
-     "published": "2026-10-10T05:00:48+00:00",
-     "image": "https://i.guim.co.uk/img/media/dd86a3791de0721c9fae3aeb6def7ef9609df8bd/1_0_4998_4000/master/4998.jpg?width=700&quality=85&auto=format&fit=max&s=03c9970fec78e97060db5e40c8e6c482",
+     "published": "2026-10-11T05:05:45+00:00",
+     "image": "https://i.guim.co.uk/img/media/19febfd420f9c28f42483d3eb18a45f9daa12607/1093_668_1740_1393/master/1740.jpg?width=700&quality=85&auto=format&fit=max&s=1b46ea35e7e312e102ab6207811f3d38",
      "topic": "world"
     },
     {
-     "title": "Create new pre-apprenticeship scheme to close youth unemployment gap, says Milburn",
-     "url": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
-     "summary": "Exclusive: Former minister’s review warns that dramatic action is needed over huge drop in youth apprenticeship starts A national apprenticeship readiness scheme should be introduced in England to close the gap for young people between leaving school and starting work, the government is to be told. Alan Milburn, who is leading a major review into Britain’s youth jobs crisis , will call for a new “national…",
+     "title": "‘Restore the authority’: the challenge for the BBC’s new director of news",
+     "url": "https://www.theguardian.com/media/2026/oct/11/challenge-bbc-director-of-news-rachel-jupp",
+     "summary": "Rachel Jupp takes role as corporation grapples with digital transformation, a cash crisis and its public service role With looming job cuts and an ongoing pay dispute, there has not been much to smile about for BBC journalists working in “the pit” – their pet name for the newsroom deep in the belly of New Broadcasting House. On Monday afternoon, however, they were greeted by a grinning figure conducting a tour of…",
      "source": "The Guardian",
-     "published": "2026-10-10T05:00:47+00:00",
-     "image": "https://i.guim.co.uk/img/media/6ba9839b5213ce0aa8891298391d1bfaf44453ca/77_0_4639_3710/master/4639.jpg?width=700&quality=85&auto=format&fit=max&s=cc43513ce17d0153cd35806f3167fce1",
+     "published": "2026-10-11T05:00:18+00:00",
+     "image": "https://i.guim.co.uk/img/media/e8e3d380d5af52cf3d164a187723ca191ff9cb90/127_231_1670_1337/master/1670.jpg?width=700&quality=85&auto=format&fit=max&s=c9b3627ee55c168efce43df7009e12ff",
      "topic": "world"
     },
     {
-     "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
-     "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
-     "summary": "Authorities called Anthropic's two-month delay in detecting and reporting the incident 'unacceptable'.",
+     "title": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
+     "url": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
+     "summary": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachers Schools should consider changing start and finish times, reordering holidays and moving exams from the summer months in an effort to adapt to the UK’s increasingly severe heatwaves, according to the leader of the country’s biggest education union. Daniel Kebede, the general secretary of the National…",
+     "source": "The Guardian",
+     "published": "2026-10-11T05:00:17+00:00",
+     "image": "https://i.guim.co.uk/img/media/3fb8cb8b435f1406261e96136ce7bc7ba8567324/568_0_5697_4558/master/5697.jpg?width=700&quality=85&auto=format&fit=max&s=3008ae9be24bd8e6fc97fc4ff873aeaa",
+     "topic": "world"
+    },
+    {
+     "title": "Christian nationalism in Britain driven by people who seldom go to church, says report",
+     "url": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
+     "summary": "Research challenges the notion that the growing visibility of crosses and other symbols reflects a revival of Christianity Christian nationalism in Britain is being driven largely by people who rarely attend church and are more concerned with defending the country’s Christian heritage, according to research. The report, by the thinktank Theos, identified five different groups within the UK in a survey that looked at…",
+     "source": "The Guardian",
+     "published": "2026-10-11T05:00:17+00:00",
+     "image": "https://i.guim.co.uk/img/media/0e78854fe248e0dee5904ab2d7051a6cd46f97bf/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=bd7c1e0a3d2b3b0872dd950d2a3a5e53",
+     "topic": "world"
+    },
+    {
+     "title": "US opens antitrust probe into TV networks halting Trump coverage",
+     "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+     "summary": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
      "source": "Al Jazeera",
-     "published": "2026-10-10T04:54:59+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac9b61527-1791604245.jpg?resize=1920%2C1440",
+     "published": "2026-10-11T04:30:10+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T195024Z_1926201131_RC27XNAHWPM9_RTRMADP_3_USA-TRUMP-1791244332.jpg?resize=1920%2C1440",
      "topic": "world"
     },
     {
-     "title": "Supporters of jailed former Pakistani PM Khan marching to capital",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss",
-     "summary": "Thousands of Imran Khan supporters are on the way to Islamabad to demand his release from prison.",
+     "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
+     "summary": "Hurricane Isaias has killed four people and left more than 650,000 people without power.",
      "source": "Al Jazeera",
-     "published": "2026-10-10T04:54:10+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791607975.jpg?resize=1920%2C1080&quality=80",
+     "published": "2026-10-11T04:28:51+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791692863.jpg?resize=1618%2C1080&quality=80",
      "topic": "world"
     },
     {
-     "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-     "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+     "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+     "summary": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.",
+     "source": "Al Jazeera",
+     "published": "2026-10-11T04:10:08+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791691784.jpg?resize=1920%2C1080&quality=80",
+     "topic": "world"
+    },
+    {
+     "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+     "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
      "source": "BBC World",
-     "published": "2026-10-10T04:51:57+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7ccd/live/ae98a210-c412-11f1-a64c-550be9e3c66b.jpg",
+     "published": "2026-10-11T03:57:22+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5c68/live/40a0f7d0-c507-11f1-a64c-550be9e3c66b.jpg",
      "topic": "world"
     },
     {
-     "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-     "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-     "source": "BBC World",
-     "published": "2026-10-10T04:38:20+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f173/live/ee0a99e0-c461-11f1-98eb-5dd4f1288128.jpg",
-     "topic": "world"
-    },
-    {
-     "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-     "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-     "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-     "source": "BBC World",
-     "published": "2026-10-10T04:34:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png",
-     "topic": "world"
-    },
-    {
-     "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
-     "summary": "Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.",
+     "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+     "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+     "summary": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
      "source": "Al Jazeera",
-     "published": "2026-10-10T04:30:34+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791606558.jpg?resize=1920%2C1080&quality=80",
+     "published": "2026-10-11T03:41:58+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac80aa0a27a-1791494816.jpg?resize=1920%2C1440",
      "topic": "world"
     },
     {
-     "title": "India deploys police and restricts transport ahead of mass protest in Delhi",
-     "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
-     "summary": "The Cockroach Janta Party wants Chief Election Commissioner Gyanesh Kumar to quit over changes to voter lists.",
+     "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+     "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+     "summary": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
      "source": "Al Jazeera",
-     "published": "2026-10-10T04:07:30+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790927900.jpg?resize=1620%2C1080&quality=80",
+     "published": "2026-10-11T03:13:53+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260905__C7FF8WM__v1__HighRes__UsIranIsraelWar-1791684574.jpg?resize=1920%2C1440",
      "topic": "world"
     },
     {
-     "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-     "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+     "title": "‘My body is still peaking’: Eliud Kipchoge wins first marathon in three years",
+     "url": "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record",
+     "summary": "Kenyan breaks Melbourne Marathon record by two seconds ‘I’m happy to run with the gen Zs,’ 41-year-old says Marathon’s greatest competitor, Eliud Kipchoge, has sent a message to the next generation declaring that he’s not done yet. The 41-year-old Kenyan revelled in his Melbourne Marathon debut on Sunday, breaking the race record and delighting thousands of fans at the MCG finish.",
+     "source": "The Guardian",
+     "published": "2026-10-11T02:54:21+00:00",
+     "image": "https://i.guim.co.uk/img/media/0cffbced7d03ca4f7411e4d12dcdb78717058dd7/666_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=751ddd21ae3a2283cb35122e7c420c48",
+     "topic": "world"
+    },
+    {
+     "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+     "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+     "summary": "Trump condemns 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's attacks on the Houthis.",
+     "source": "Al Jazeera",
+     "published": "2026-10-11T02:12:07+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2020-03-29T193017Z_579250648_RC2VTF9P1UK5_RTRMADP_3_SAUDI-RIYADH-ROCKETS-1791683246.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+     "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+     "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
      "source": "BBC World",
-     "published": "2026-10-10T04:07:11+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/528b/live/a76ba860-c459-11f1-bc2e-018d645d8d21.jpg",
+     "published": "2026-10-11T01:41:29+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg",
      "topic": "world"
     },
     {
-     "title": "CCTV footage shows ICE shooting in New York",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
-     "summary": "New footage shows the moment ICE agents opened fire on a man as he drove his car with his child in the backseat.",
-     "source": "Al Jazeera",
-     "published": "2026-10-10T03:38:05+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791603407.jpg?resize=1920%2C980&quality=80",
-     "topic": "world"
-    },
-    {
-     "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
-     "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of being India’s ‘real boss’ in over delays to Starlink's entry.",
-     "source": "Al Jazeera",
-     "published": "2026-10-10T02:35:28+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791599630.jpg?resize=1920%2C1080&quality=80",
-     "topic": "world"
-    },
-    {
-     "title": "How the trial of two murdered Australian surfers ended in a guilty verdict",
-     "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-     "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
-     "source": "BBC World",
-     "published": "2026-10-10T02:21:10+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3a1f/live/ce8a3d70-c450-11f1-a64c-550be9e3c66b.jpg",
+     "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+     "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+     "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels The latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than 300 others, civil aviation authorities said early Sunday, with some in a critical condition. A Saudi-led coalition blamed Iran-backed Houthi rebels in neighbouring Yemen. A missile struck a King…",
+     "source": "The Guardian",
+     "published": "2026-10-10T23:37:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/abe5f1d89f32a73c4f4c63ed040fa686b4c5512a/617_0_5447_4359/master/5447.jpg?width=700&quality=85&auto=format&fit=max&s=dc2f4876d1ea1054378ac7a701ec54d8",
      "topic": "world"
     }
    ],
@@ -627,6 +636,24 @@
    "color": "#e0457b",
    "articles": [
     {
+     "title": "A dating app that lets random strangers match users? Sign me up! | Polly Hudson",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/11/a-dating-app-that-lets-random-strangers-match-users-sign-me-up",
+     "summary": "On Rivet, volunteers get to choose who they think are the most suitable suitors. For an interfering busybody like me, this is a match made in heaven Sometimes it’s extremely hard to mind your own business. However, we all know that ideally we should, and most of us give it a bloody good go. So when the universe rewards us with an opportunity to do the opposite, it must be grabbed with both hands and cherished like…",
+     "source": "The Guardian",
+     "published": "2026-10-11T04:00:15+00:00",
+     "image": "https://i.guim.co.uk/img/media/874d4b9482c9001d093b09755f24b4380b537869/454_0_6580_5264/master/6580.jpg?width=700&quality=85&auto=format&fit=max&s=5791a41f372d4a9941a6df41451656cc",
+     "topic": "relationships"
+    },
+    {
+     "title": "The moment I knew: We were babysitting my younger siblings and he wore a tutu to make them laugh",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/11/the-moment-i-knew-he-wore-a-tutu-to-make-my-siblings-laugh",
+     "summary": "When Sarah Maloney’ s primary school crush danced back into her life, she braced for a ‘teenage whirlwind romance’. Then one night, she realised they were both all in Find more stories from the moment I knew series In 2017 I was 16, went to an all-girls Catholic school in Melbourne and had zero tolerance for teenage boys and their nonsense. Instead I spent a lot of gossip time lamenting Jake, who broke my tiny heart…",
+     "source": "The Guardian",
+     "published": "2026-10-10T19:00:08+00:00",
+     "image": "https://i.guim.co.uk/img/media/56ef02c3cb0b423bac1392e9a36cc1a238e6e742/276_329_2337_1869/master/2337.jpg?width=700&quality=85&auto=format&fit=max&s=d911c402c82d86d3da1ff2e252ae2429",
+     "topic": "relationships"
+    },
+    {
      "title": "Blind date: ‘Most awkward moment? When she squished an insect that was on my forehead’",
      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/10/blind-date-holly-graeme",
      "summary": "Holly, 42, a horticulturist, meets Graeme, 47, a forest manager What were you hoping for? Really, just a fun night with minimal awkwardness was my fairly low expectation before the meeting. First impressions? A very positive, engaging lady with a beautiful smile. What did you talk about? Growing food, the joys of seeds, birdwatching, the failings of young people when it comes to proper raving, epigenetics and…",
@@ -724,24 +751,6 @@
      "published": "2026-10-04T15:00:30+00:00",
      "image": "https://i.guim.co.uk/img/media/24708493b8864ca7d9245e481e7f1b737d971114/274_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=29f539d9a065574d72f0fdf626e32a19",
      "topic": "relationships"
-    },
-    {
-     "title": "This is how we do it: ‘My mistress has complete control over me and makes me so happy’",
-     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/04/this-is-how-we-do-it-my-mistress-has-complete-control-submissive-dominatrix",
-     "summary": "LD is the submissive to Lady Alice’s dominatrix – and it has been a revelation for them both • How do you do it? Share the story of your sex life, anonymously I have cerebral palsy and live with my parents. Lady Alice is a delicious secret",
-     "source": "The Guardian",
-     "published": "2026-10-04T10:00:25+00:00",
-     "image": "https://i.guim.co.uk/img/media/77f89cb816d732bf0bd7816a1725c1c309663449/0_6_2067_1654/master/2067.jpg?width=700&quality=85&auto=format&fit=max&s=1e1bcd14f912ec132ac63f0fa098f8d7",
-     "topic": "relationships"
-    },
-    {
-     "title": "‘There’s a lot of silence’: have we created a new ‘Lonely Generation’?",
-     "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence",
-     "summary": "Learning to be one human among many has always been a little lonely and discombobulating. But young people around the world are lonelier than ever. Why? In September, a Reddit user identifying themselves as a 25-year-old man turned to the r/ForeverAlone subreddit with a question : How do you deal with touch starvation? “It’s becoming obvious to me that I’ll probably be alone forever,” he wrote. He used to be worried…",
-     "source": "The Guardian",
-     "published": "2026-10-03T19:00:07+00:00",
-     "image": "https://i.guim.co.uk/img/media/310424a9fdf7d93165cfa8b0889c32678401a8bd/568_692_4385_3508/master/4385.jpg?width=700&quality=85&auto=format&fit=max&s=f355b256da15edfe02fb6c570eb5feb4",
-     "topic": "relationships"
     }
    ],
    "sources": [
@@ -771,6 +780,15 @@
    "icon": "📈",
    "color": "#2e86de",
    "articles": [
+    {
+     "title": "Jon Davis on job titles in the age of AI – cartoon",
+     "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
+     "summary": "",
+     "source": "The Guardian",
+     "published": "2026-10-10T10:00:54+00:00",
+     "image": "https://i.guim.co.uk/img/media/2ef6bbc57fea42ea43e5ef7b7ac53d27f3d3b904/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69a76f9446d30d1faa2950712794ec78",
+     "topic": "career"
+    },
     {
      "title": "Who Controls a Company’s Values After It Is Sold?",
      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/who-controls-a-companys-values-after-it-is-sold/",
@@ -887,15 +905,6 @@
      "published": "2026-10-05T14:42:58+00:00",
      "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/Future-of-Finance-Series-Episode-4-AIs-Impact-on-the-Financial-Services-Industry-v2-600x500.png",
      "topic": "career"
-    },
-    {
-     "title": "A job that changed me: I mulched city parks in the dead of winter – I was not cut out for manual labour or working with family",
-     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/05/a-job-that-changed-me-mulch-landscaping-family-business-winter-2020",
-     "summary": "My brother said I was terrible at mulching; he was right. But before tearing up my contract, he imparted some words of wisdom In early 2020 in Canberra, I left my job in human resources. Ironically the constant onboarding and offboarding of employees made me realise no one ever stays in the same job forever. By the time winter rolled around, it was Covid lockdowns. I had grown a scruffy beard and turned my bedroom…",
-     "source": "The Guardian",
-     "published": "2026-10-05T14:00:28+00:00",
-     "image": "https://i.guim.co.uk/img/media/546895c907c3764dbfd2f673a28d9fbd24e450cd/0_867_3024_2419/master/3024.jpg?width=700&quality=85&auto=format&fit=max&s=2edd1bbbac3d3edf74e100825d181017",
-     "topic": "career"
     }
    ],
    "sources": [
@@ -925,6 +934,15 @@
    "icon": "🥗",
    "color": "#3aa655",
    "articles": [
+    {
+     "title": "Scientists discover 5 hidden brain patterns behind depression",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+     "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations with symptoms such as anxiety, trauma, and substance abuse.",
+     "source": "ScienceDaily",
+     "published": "2026-10-09T18:34:02+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
+     "topic": "nutrition"
+    },
     {
      "title": "Only one workout helped older adults lose fat and keep muscle",
      "url": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
@@ -968,15 +986,6 @@
      "source": "ScienceDaily",
      "published": "2026-10-07T13:06:21+00:00",
      "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
-     "topic": "nutrition"
-    },
-    {
-     "title": "MIT scientists find a hidden cancer risk of the keto diet",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261002080037.htm",
-     "summary": "A ketogenic diet increased small-intestinal tumors in cancer-prone mice while reducing tumors in the colon, revealing a strikingly different response within neighboring parts of the gut. Researchers traced the increased risk not to ketones, but to the way intestinal stem cells processed the diet’s high levels of fat. That fat-burning activity pushed the cells to multiply more rapidly, potentially raising the chance…",
-     "source": "ScienceDaily",
-     "published": "2026-10-06T01:18:45+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/male-anatomy-small-intestine-cancer.webp",
      "topic": "nutrition"
     }
    ],
