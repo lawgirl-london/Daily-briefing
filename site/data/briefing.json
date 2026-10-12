@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-11T05:27:26.129022+00:00",
+ "generated_at": "2026-10-12T05:30:35.310014+00:00",
  "highlights": [
-  "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
-  "https://www.theguardian.com/society/2026/oct/11/i-get-really-upset-when-i-visit-the-harsh-reality-of-life-in-a-high-security-hospital-in-england",
-  "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
-  "https://dailynous.com/2026/10/09/mini-heap-731/",
-  "https://www.theguardian.com/commentisfree/2026/oct/11/a-dating-app-that-lets-random-strangers-match-users-sign-me-up",
+  "https://www.psypost.org/a-chemical-produced-by-gut-bacteria-may-accelerate-alzheimer-s-disease/",
+  "https://medicalxpress.com/news/2026-10-severe-covid-linked-differences-lung.html",
+  "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+  "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+  "https://www.theguardian.com/lifeandstyle/2026/oct/11/this-is-how-we-do-it-sex-podcast",
   "https://www.theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
-  "https://www.sciencedaily.com/releases/2026/10/261008005251.htm"
+  "https://theconversation.com/the-pope-has-a-lung-nodule-what-does-this-mean-and-whats-the-risk-of-cancer-294136"
  ],
  "topics": [
   {
@@ -17,66 +17,75 @@
    "color": "#7c5cff",
    "articles": [
     {
+     "title": "A chemical produced by gut bacteria may accelerate Alzheimer’s disease",
+     "url": "https://www.psypost.org/a-chemical-produced-by-gut-bacteria-may-accelerate-alzheimer-s-disease/",
+     "summary": "A metabolic byproduct of gut bacteria can damage the blood-brain barrier and drive the formation of Alzheimer's-related proteins. Elevated levels of the chemical correlate with worse cognitive decline in humans and accelerate neurodegeneration in animal models.",
+     "source": "PsyPost",
+     "published": "2026-10-11T20:00:56+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/01/gut-bacteria.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "People who worry more tend to have more negative dreams, study finds",
+     "url": "https://www.psypost.org/people-who-worry-more-tend-to-have-more-negative-dreams-study-finds/",
+     "summary": "People who reported more worry and depressive symptoms also tended to report more negative dreams, according to a network analysis of 389 Italian adults that placed stress at the center of daytime distress.",
+     "source": "PsyPost",
+     "published": "2026-10-11T18:00:53+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/10/worried-scared-man-in-bed-nightmare.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "How extreme boredom can push people toward aggressive behavior",
+     "url": "https://www.psypost.org/how-extreme-boredom-can-push-people-toward-aggressive-behavior/",
+     "summary": "Boredom does more than just drain your energy. New research reveals that extreme monotony increases the desire for stimulation, pushing people toward both physical aggression and stronger support for military conflicts as a way to escape the dullness.",
+     "source": "PsyPost",
+     "published": "2026-10-11T16:00:45+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/07/bored-man.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Feelgood factor of human interaction | Brief letters",
+     "url": "https://www.theguardian.com/science/2026/oct/11/feelgood-factor-of-human-interaction",
+     "summary": "Happy hormones | Fuel costs | Drive-in parking | Guys and girls | Young or old? | Singapore pollution Re your report ( ‘Pull the plug’: protesters resort to direct action against AI firms, 6 October ), the US neuroscientist Ben Rein has shown that there is a fundamental difference in our cognitive response according to the type of interaction we have. In-person meetings and conversations show a dramatic increase in…",
+     "source": "The Guardian",
+     "published": "2026-10-11T15:52:20+00:00",
+     "image": "https://i.guim.co.uk/img/media/02c3c20a1556abcff1f1e6f2907168531763d5bc/719_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=ed73b7e46d63b49b3cbab93d9e9e501b",
+     "topic": "psychology"
+    },
+    {
+     "title": "Antidepressants in pregnancy not tied to extra autism or ADHD risk beyond maternal depression, study finds",
+     "url": "https://www.psypost.org/antidepressants-in-pregnancy-not-tied-to-extra-autism-or-adhd-risk-beyond-maternal-depression-study-finds/",
+     "summary": "In a study of more than 167,000 children in Wales, autism and ADHD rates were similar whether a mother’s depression was treated with antidepressants or left untreated. Depression itself, however, was linked to more special educational needs.",
+     "source": "PsyPost",
+     "published": "2026-10-11T14:00:29+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/12/father-with-pregnant-wife.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Women on hormonal birth control view their romantic traits more positively",
+     "url": "https://www.psypost.org/women-on-hormonal-birth-control-may-view-their-romantic-traits-more-positively/",
+     "summary": "While hormonal birth control is known to suppress fertility, a series of new psychological evaluations suggests that synthetic hormones may inadvertently boost how women perceive their own romantic desirability, social reputation, and overall value to potential partners.",
+     "source": "PsyPost",
+     "published": "2026-10-11T13:00:22+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/02/birth-control-pills-oral-contraceptives.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Where you direct your attention may shape your body’s inflammatory response",
+     "url": "https://www.psypost.org/where-you-direct-your-attention-may-shape-your-bodys-inflammatory-response/",
+     "summary": "Inflammation is thought to run on autopilot, but new experiments suggest attention plays a role. When people focused on an itchy skin reaction instead of distracting themselves, the swelling was smaller, a pattern seen in about 90 percent of participants.",
+     "source": "PsyPost",
+     "published": "2026-10-11T12:00:21+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/10/meditating-man.jpg",
+     "topic": "psychology"
+    },
+    {
      "title": "Loneliness may steal nearly 6 years of good health",
      "url": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
      "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
      "source": "ScienceDaily",
      "published": "2026-10-10T18:57:02+00:00",
      "image": "https://www.sciencedaily.com/images/1920/sad-lonely-man-looking-out-window.webp",
-     "topic": "psychology"
-    },
-    {
-     "title": "Screen time not consistently tied to children’s emotional or behavioral problems in a large Scottish study",
-     "url": "https://www.psypost.org/screen-time-not-consistently-tied-to-childrens-emotional-or-behavioral-problems-in-a-large-scottish-study/",
-     "summary": "How much time children spend on screens may matter less than many assume. In a Scottish study following thousands of children to age 15, screen time showed few consistent links with emotional and behavioral difficulties.",
-     "source": "PsyPost",
-     "published": "2026-10-10T18:00:50+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/11/child-screentime.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "Family background may explain much of the mental health gap tied to sexual orientation, twin studies suggest",
-     "url": "https://www.psypost.org/family-background-may-explain-much-of-the-mental-health-gap-tied-to-sexual-orientation-twin-studies-suggest/",
-     "summary": "Gay, lesbian, and bisexual people report worse mental health on average than heterosexual people. But when they’re compared with their own heterosexual siblings and twins, much of that gap shrinks, a new meta-analysis of 17 studies finds.",
-     "source": "PsyPost",
-     "published": "2026-10-10T16:00:45+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/08/sad-lgbt.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "Belief in supernatural evil is linked to blaming the system for poverty",
-     "url": "https://www.psypost.org/belief-in-supernatural-evil-is-linked-to-blaming-the-system-for-poverty/",
-     "summary": "People who believe in the devil and hell are more likely to blame society for poverty, while those who believe in a supportive deity are less likely to do so, according to a recent survey of South Korean adults.",
-     "source": "PsyPost",
-     "published": "2026-10-10T14:00:30+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/10/satan-the-devil.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "Does voting by mail make for better choices? A 2020 election study suggests it might",
-     "url": "https://www.psypost.org/does-voting-by-mail-make-for-better-choices-a-2020-election-study-suggests-it-might/",
-     "summary": "Mail-in ballots are usually discussed as a way to boost turnout. New research suggests they may also help voters make better choices, with mail voters more likely to pick the candidate aligned with their stated preferences.",
-     "source": "PsyPost",
-     "published": "2026-10-10T13:00:22+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/07/mail-in-ballot-voting.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "Pregnant women with a history of childhood neglect show stronger inflammatory reactions to stress",
-     "url": "https://www.psypost.org/pregnant-women-with-a-history-of-childhood-neglect-show-stronger-inflammatory-reactions-to-stress/",
-     "summary": "A history of childhood neglect or abuse may be reflected in how the body handles stress during pregnancy. In a new study, affected women showed stronger inflammatory responses to a stress test, linked in turn to more pregnancy complications.",
-     "source": "PsyPost",
-     "published": "2026-10-10T12:00:50+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/08/stressed-pregnant-woman.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "High cognitive ability in women predicts workplace victimization",
-     "url": "https://www.psypost.org/highly-competent-women-face-hidden-social-penalties-in-the-workplace/",
-     "summary": "Highly intelligent women often face a hidden social penalty in the workplace. A new study reveals that female employees with high cognitive ability are perceived as more hostile, leading to fewer supportive interactions with their colleagues.",
-     "source": "PsyPost",
-     "published": "2026-10-10T11:00:43+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2024/10/annoyed-frustrated-businesswoman-at-work.jpg",
      "topic": "psychology"
     },
     {
@@ -123,15 +132,6 @@
      "published": "2026-10-05T12:13:07+00:00",
      "image": "https://www.sciencedaily.com/images/1920/brain-vagus-nerve-stimulation.webp",
      "topic": "psychology"
-    },
-    {
-     "title": "Do humans really have a ‘lizard brain’ lurking beneath our rational minds?",
-     "url": "https://www.theguardian.com/science/2026/oct/04/lizard-brain-rational-mind-neuroscience",
-     "summary": "It’s a powerful analogy that captured the popular imagination, but the biological reality is quite different Humans have a cognitive quirk for the number three. Think of the many stories that use it, from The Three Little Pigs to Goldilocks and the Three Bears and The Three Musketeers. Public information and political campaigns use it for impact and ease of recall (“Stop, look and listen”; “See it. Say it. Sorted”…",
-     "source": "The Guardian",
-     "published": "2026-10-04T11:00:26+00:00",
-     "image": "https://i.guim.co.uk/img/media/63084cdc4236c574be8659b15ab25dd9d19dee23/0_440_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=037f958d70cd7f18896f181fa9fd952b",
-     "topic": "psychology"
     }
    ],
    "sources": [
@@ -162,129 +162,129 @@
    "color": "#0fa3b1",
    "articles": [
     {
-     "title": "‘I get really upset when I visit’: the harsh reality of life in a high-security hospital in England",
-     "url": "https://www.theguardian.com/society/2026/oct/11/i-get-really-upset-when-i-visit-the-harsh-reality-of-life-in-a-high-security-hospital-in-england",
-     "summary": "When the Southport killer Axel Rudakubana was transferred from a category A prison to Broadmoor hospital, many observers complained that he was getting off lightly. But these places are anything but ‘cushy’, says the mother of one patient Rampton high-security hospital in Nottinghamshire was built in 1912. Everything about the bleak, remote facility for mentally ill people is forbidding, says Jan Neate. “I get…",
-     "source": "The Guardian",
-     "published": "2026-10-11T04:00:16+00:00",
-     "image": "https://i.guim.co.uk/img/media/e46d79a94833e9f3ad5bb77cde6459ca238eeb3e/1113_894_4099_3279/master/4099.jpg?width=700&quality=85&auto=format&fit=max&s=b5d2e5a633eae32fb3d140fe31c6dcf0",
-     "topic": "medicine"
-    },
-    {
-     "title": "Aspirin rarely used for colorectal cancer prevention",
-     "url": "https://medicalxpress.com/news/2026-10-aspirin-rarely-colorectal-cancer.html",
-     "summary": "People with Lynch syndrome have a significantly increased risk of developing colorectal cancer and other types of cancer due to a hereditary predisposition. The CAPP2 study had already shown in this high-risk group that acetylsalicylic acid can significantly reduce the long-term risk of colorectal cancer. The study examined a comparatively high daily dose of 600 milligrams. The recently published international CaPP3…",
+     "title": "Very severe long COVID linked to differences in lung and mouth microbiomes",
+     "url": "https://medicalxpress.com/news/2026-10-severe-covid-linked-differences-lung.html",
+     "summary": "People with long COVID have distinct differences in the mix of bacteria that live in their mouths and lungs, according to a study of more than 700 people published in the European Respiratory Journal. The research also shows that these differences in the lung microbiome are linked to respiratory symptoms, as well as the cognitive and digestive problems known to occur in long COVID.",
      "source": "Medical Xpress",
-     "published": "2026-10-11T00:30:05+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dr-robert-hneburg-dr-a.jpg",
+     "published": "2026-10-11T23:10:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/lung.jpg",
      "topic": "medicine"
     },
     {
-     "title": "Intensive breathing linked to altered consciousness and brain communication",
-     "url": "https://medicalxpress.com/news/2026-10-intensive-linked-consciousness-brain-communication.html",
-     "summary": "Intensive breathing exercises can reduce blood flow to the brain by up to 45% and alter communication between brain networks, according to a new brain-imaging study. Participants reported experiences resembling some effects of psychedelic drugs, including altered perception, vivid mental imagery, a sense of unity and changes in self-experience. The researchers, presenting the work at the ECNP Congress in Munich, say…",
-     "source": "Medical Xpress",
-     "published": "2026-10-10T22:10:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/intense-breathing.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Daily peanut consumption beneficially affects brain insulin responsiveness, new research finds",
-     "url": "https://medicalxpress.com/news/2026-10-daily-peanut-consumption-beneficially-affects.html",
-     "summary": "A study from the Institute of Nutrition and Translational Research in Metabolism (NUTRIM) at Maastricht University Medical Center in Maastricht, the Netherlands, has found that longer-term consumption of unsalted, skin-roasted peanuts can benefit insulin responsiveness in the brains of older adults. The findings are published in Food & Function.",
-     "source": "Medical Xpress",
-     "published": "2026-10-10T22:00:06+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/eat-peanuts.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Regular periods, but worse symptoms: Women with bipolar disorder may be losing out on gynecological care",
-     "url": "https://medicalxpress.com/news/2026-10-regular-periods-worse-symptoms-women.html",
-     "summary": "Researchers have found that women with bipolar disorder who have regular menstrual cycles are more likely to report severe premenstrual symptoms than those with irregular cycles, according to preliminary research being presented at the 2026 ECNP Congress in Munich.",
-     "source": "Medical Xpress",
-     "published": "2026-10-10T22:00:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tracking-period.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Safety prompts can help AI models make safer clinical choices",
-     "url": "https://medicalxpress.com/news/2026-10-safety-prompts-ai-safer-clinical.html",
-     "summary": "As artificial intelligence (AI) becomes increasingly capable of assisting with health care tasks, a new study by researchers at the Icahn School of Medicine at Mount Sinai has found that adding a brief safety reminder reduced potentially harmful choices by AI models in clinical scenarios.",
-     "source": "Medical Xpress",
-     "published": "2026-10-10T20:00:09+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/safety-prompts-can-hel.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Early-onset Alzheimer's disease shows different warning signs from established risk factors",
-     "url": "https://medicalxpress.com/news/2026-10-early-onset-alzheimer-disease-factors.html",
-     "summary": "A study by the University of Oulu and the University of Eastern Finland found that people who developed Alzheimer's disease before the age of 65 accumulated a wide range of health problems, particularly during the five years preceding diagnosis. Compared with matched controls, they were more likely to experience depression, dizziness, headaches, traumatic brain injuries, epilepsy, cerebrovascular disorders, thyroid…",
-     "source": "Medical Xpress",
-     "published": "2026-10-10T20:00:02+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-pressure-2.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Loneliness may steal nearly 6 years of good health",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
-     "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
-     "source": "ScienceDaily",
-     "published": "2026-10-10T18:57:02+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/sad-lonely-man-looking-out-window.webp",
-     "topic": "medicine"
-    },
-    {
-     "title": "Bowel cancer “melted away” after immunotherapy, then stayed away",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
-     "summary": "A short course of immunotherapy before surgery may offer remarkably durable protection for some patients with stage two or three bowel cancer. In the NEOPRISM-CRC trial, 32 patients with a specific genetic form of bowel cancer received pembrolizumab for up to nine weeks before surgery instead of the usual post-surgery chemotherapy. After nearly three years of follow-up, none of the patients had experienced a cancer…",
-     "source": "ScienceDaily",
-     "published": "2026-10-10T18:42:35+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/tumor-cancer-cell-destruction.webp",
-     "topic": "medicine"
-    },
-    {
-     "title": "FDA may allow some toxic chemicals to be added to food without safety review. Experts are alarmed",
-     "url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
-     "summary": "Regulator looks to expand loophole to allow dangerous compounds in food as long as they’re not carcinogenic The US Food and Drug Administration (FDA) is proposing to expand a controversial loophole to allow some of the world’s most toxic chemicals to be added directly to food without a safety review. The “threshold of regulation” (TOR) exemption currently allows dangerous compounds to be used without review in food…",
-     "source": "The Guardian",
-     "published": "2026-10-10T12:00:57+00:00",
-     "image": "https://i.guim.co.uk/img/media/8125d451ea3e54a47c2e588694c410434779c531/355_0_4147_3317/master/4147.jpg?width=700&quality=85&auto=format&fit=max&s=3adf90ab4903166fa0061021eafa1645",
-     "topic": "medicine"
-    },
-    {
-     "title": "'What terminal cancer has taught me about life'",
-     "url": "https://www.bbc.co.uk/news/articles/c8x2z22wdeglo?at_medium=RSS&at_campaign=rss",
-     "summary": "A Gloucestershire man with terminal cancer shares the life lessons he wishes he'd learned sooner.",
+     "title": "Childhood cancer symptoms can be easily missed - here's what to look out for",
+     "url": "https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.",
      "source": "BBC Health",
-     "published": "2026-10-10T06:16:46+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1d16/live/9ec7e820-c32a-11f1-9981-cf94ea240e40.png",
+     "published": "2026-10-11T23:03:45+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/74b6/live/3da400a0-c187-11f1-bc2e-018d645d8d21.jpg",
      "topic": "medicine"
     },
     {
-     "title": "Scientists may have found why diabetic wounds refuse to heal",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261006234534.htm",
-     "summary": "Chronic diabetic wounds may fail to heal because immune cells remain locked in damaging inflammatory states instead of transitioning toward tissue repair. Researchers are exploring treatments that reprogram these immune responses, raising hopes for more targeted and effective therapies for diabetic ulcers.",
-     "source": "ScienceDaily",
-     "published": "2026-10-10T03:00:35+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/diabetic-foot-ulcer-wound.webp",
+     "title": "LSD microdosing shows potential sustained attention gains in women, but none in men",
+     "url": "https://medicalxpress.com/news/2026-10-lsd-microdosing-potential-sustained-attention.html",
+     "summary": "A pilot study suggests that low doses of LSD may have different effects on sustained attention in women and men. The findings, presented at the ECNP annual congress in Munich, are preliminary, but they add to growing evidence that people may not all respond to psychedelic microdosing in the same way.",
+     "source": "Medical Xpress",
+     "published": "2026-10-11T22:00:06+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/woman-concentrate.jpg",
      "topic": "medicine"
     },
     {
-     "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-     "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-     "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent.",
+     "title": "Study questions benefit of folic acid (vitamin B9) supplementation in reducing suicides",
+     "url": "https://medicalxpress.com/news/2026-10-benefit-folic-acid-vitamin-b9.html",
+     "summary": "Recent research has suggested that folic acid (vitamin B9) supplementation may reduce the risk of suicide attempts. However, a nationwide Swedish study, presented at the European College of Neuropsychopharmacology (ECNP) annual congress, raises doubts about the benefits of supplementation, as folic acid appears to affect different sexes and age groups differently.",
+     "source": "Medical Xpress",
+     "published": "2026-10-11T22:00:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/taking-supplement.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Blood proteins may offer new clues to gut health in celiac disease",
+     "url": "https://medicalxpress.com/news/2026-10-blood-proteins-clues-gut-health.html",
+     "summary": "Celiac disease is an autoimmune condition in which the immune system reacts adversely to gluten. Eating gluten causes inflammation in the gut, which can damage the intestine and impair its ability to absorb nutrients.",
+     "source": "Medical Xpress",
+     "published": "2026-10-11T20:00:02+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blood-proteins-may-off.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Study finds positive parenting teaches children how to experience joy—and could lead to better mental health",
+     "url": "https://medicalxpress.com/news/2026-10-positive-parenting-children-joy-mental.html",
+     "summary": "More than one in five adults in the U.S. experience mental illness each year, according to data from the National Alliance on Mental Illness. And more than one in seven young people ages 6–17 experience a mental health disorder, with 50% of all lifetime mental illness beginning by age 14 and 75% by age 24.",
+     "source": "Medical Xpress",
+     "published": "2026-10-11T18:00:16+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/2-parents.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Mapping childhood lead exposure risk in the US, neighborhood by neighborhood",
+     "url": "https://medicalxpress.com/news/2026-10-childhood-exposure-neighborhood.html",
+     "summary": "No amount of lead exposure is considered safe for children. Even low levels of lead in a child's blood can cause serious health problems and developmental delays. But data on lead exposure are sparse at the neighborhood level in the United States, leaving significant gaps in knowledge about where lead exposure may be occurring.",
+     "source": "Medical Xpress",
+     "published": "2026-10-11T18:00:02+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-childhood-lead-1.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "The Guardian view on mental health: overdiagnosis is not the problem facing young people | Editorial",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/11/the-guardian-view-on-mental-health-overdiagnosis-is-not-the-problem-facing-young-people",
+     "summary": "Parity of esteem with physical healthcare remains a distant prospect. Ministers must do more to tackle rising distress Perhaps the single most important finding of the independent review into mental health, ADHD and autism in England, published last Friday, is that mental distress across the population, and particularly young people, has substantially worsened . Its chair, Prof Peter Fonagy, told the BBC that the…",
      "source": "The Guardian",
-     "published": "2026-10-09T21:36:18+00:00",
-     "image": "https://i.guim.co.uk/img/media/9b0dd26cb04cecfa9d30fecef7979eaede8617d7/512_0_4251_3400/master/4251.jpg?width=700&quality=85&auto=format&fit=max&s=68de04ee3e8f3a0ccaf888d03abc1502",
+     "published": "2026-10-11T16:27:06+00:00",
+     "image": "https://i.guim.co.uk/img/media/b1702ff20ad87667d0401540e689ec68e50ec82b/480_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=ddb8a1790f97b964947bb696bfc888bf",
      "topic": "medicine"
     },
     {
-     "title": "Scientists discover 5 hidden brain patterns behind depression",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
-     "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations with symptoms such as anxiety, trauma, and substance abuse.",
-     "source": "ScienceDaily",
-     "published": "2026-10-09T18:34:02+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
+     "title": "Do we really ‘hold tension’ in our hips?",
+     "url": "https://www.theguardian.com/wellness/2026/oct/11/hips-hold-tension-stress-science",
+     "summary": "The idea is popular in wellness circles, but experts say there’s no evidence that trauma uniquely affects the hips. Here’s what causes hip tightness and what can help In yoga classes, on TikTok and throughout other wellness spaces, you’ve probably heard the saying: your hips hold tension. These joints have a reputation of being emotional storage units of sorts – but is it true that they are affected by old traumas…",
+     "source": "The Guardian",
+     "published": "2026-10-11T16:00:30+00:00",
+     "image": "https://i.guim.co.uk/img/media/cbf08579dbc4eea4212db9e7693b589766b2ae73/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=f3632aa88064699a0fb44895570a803d",
+     "topic": "medicine"
+    },
+    {
+     "title": "Finally, a helpful intervention in the ‘overdiagnosis’ wars. But where’s the money to answer this tragedy? | John Harris",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/11/overdiagnosis-money-fonagy-review-mental-health-support-public-funding",
+     "summary": "There is much to agree with in the Fonagy review into mental health support. Without serious public funding, however, its approach won’t work Back in late 2025, when Keir Starmer’s grip on the Labour party was loosening and Reform UK was still in its pomp, the then health secretary, Wes Streeting, commissioned what the government called its “ Independent review into prevalence and support for mental health…",
+     "source": "The Guardian",
+     "published": "2026-10-11T14:10:35+00:00",
+     "image": "https://i.guim.co.uk/img/media/7d69c0d4d130b5e76601f4d5f8ccb79a67f7789f/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=bcaf6e9f34090a0e0e130c248b9c3a27",
+     "topic": "medicine"
+    },
+    {
+     "title": "Flu cases higher than usual in England during September, experts say",
+     "url": "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa",
+     "summary": "UK Health Security Agency notes above-average activity and urges at-risk groups to get vaccinated Flu is striking earlier than usual in England, experts have said, insisting that vaccination is the best way to blunt its impact. According to the UK Health Security Agency (UKHSA), flu is at low levels, but various metrics , such as the proportion of positive tests and GP consultations for influenza-like illness…",
+     "source": "The Guardian",
+     "published": "2026-10-11T13:32:58+00:00",
+     "image": "https://i.guim.co.uk/img/media/3ae6914606f08cf23a9c81b028de009e3c5c2b45/168_0_3659_2928/master/3659.jpg?width=700&quality=85&auto=format&fit=max&s=f0cb345f06048a4d81b277eea1f30026",
+     "topic": "medicine"
+    },
+    {
+     "title": "‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring",
+     "url": "https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+     "summary": "Could a drug intended to prevent painful rashes also protect our brains as we get older? The signs are promising – but not conclusive. Yet that’s enough to be driving a boom in shingles jabs When Jenny, a 50-year-old marketing and branding professional from Cambridge, went for her shingles vaccine last year, an entirely different disease was on her mind. Having witnessed three of her four grandparents succumb to…",
+     "source": "The Guardian",
+     "published": "2026-10-11T13:00:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/c05b621bfcfbff3e6cf6163246c394faf843842b/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=3a1ca9c304a240387a9cd71536506d91",
+     "topic": "medicine"
+    },
+    {
+     "title": "US maternity wards face wave of closures as Medicaid cuts kick in",
+     "url": "https://www.theguardian.com/us-news/2026/oct/11/medicaid-cuts-maternity-wards",
+     "summary": "Trump’s ‘big, beautiful bill’ spending cuts will be fully felt next year, but hospitals are already feeling the squeeze Maternity wards across the United States are facing a wave of closures as cuts to federal Medicaid funding take effect, experts have warned. According to analysis by the non-profit Protect Our Care, 52 maternity wards have closed since the HR1 bill was announced in July 2025 , with a further eight…",
+     "source": "The Guardian",
+     "published": "2026-10-11T12:00:26+00:00",
+     "image": "https://i.guim.co.uk/img/media/bc4fd1e8600b10ab6a7c35dc9ae369eb540e49c4/576_0_3878_3103/master/3878.jpg?width=700&quality=85&auto=format&fit=max&s=ece0e23fbe97960eef0c648949116282",
+     "topic": "medicine"
+    },
+    {
+     "title": "Service increases access to mental health support",
+     "url": "https://www.bbc.co.uk/news/articles/cj5ynwynwgrqo?at_medium=RSS&at_campaign=rss",
+     "summary": "The programme covers a range of topics, including managing anxiety and boosting self-esteem.",
+     "source": "BBC Health",
+     "published": "2026-10-11T07:51:12+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/29c3/live/761115b0-c3c9-11f1-8fc5-335d62f6730b.jpg",
      "topic": "medicine"
     }
    ],
@@ -322,129 +322,129 @@
    "color": "#e4572e",
    "articles": [
     {
-     "title": "Two Carlton players treated in hospital after needing care for ‘separate circumstances’",
-     "url": "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
-     "summary": "Club issues brief statement about Lachie Cowan and Will Hayward, saying latter suffered minor cut to head after a fall Carlton football club has said two of its players, Lachie Cowan and Will Hayward, required treatment in hospital on Sunday morning in “separate circumstances”. The club released a statement on Sunday after reports in several media outlets that unnamed players had been taken to hospital by ambulance…",
-     "source": "The Guardian",
-     "published": "2026-10-11T05:05:45+00:00",
-     "image": "https://i.guim.co.uk/img/media/19febfd420f9c28f42483d3eb18a45f9daa12607/1093_668_1740_1393/master/1740.jpg?width=700&quality=85&auto=format&fit=max&s=1b46ea35e7e312e102ab6207811f3d38",
-     "topic": "world"
-    },
-    {
-     "title": "‘Restore the authority’: the challenge for the BBC’s new director of news",
-     "url": "https://www.theguardian.com/media/2026/oct/11/challenge-bbc-director-of-news-rachel-jupp",
-     "summary": "Rachel Jupp takes role as corporation grapples with digital transformation, a cash crisis and its public service role With looming job cuts and an ongoing pay dispute, there has not been much to smile about for BBC journalists working in “the pit” – their pet name for the newsroom deep in the belly of New Broadcasting House. On Monday afternoon, however, they were greeted by a grinning figure conducting a tour of…",
-     "source": "The Guardian",
-     "published": "2026-10-11T05:00:18+00:00",
-     "image": "https://i.guim.co.uk/img/media/e8e3d380d5af52cf3d164a187723ca191ff9cb90/127_231_1670_1337/master/1670.jpg?width=700&quality=85&auto=format&fit=max&s=c9b3627ee55c168efce43df7009e12ff",
-     "topic": "world"
-    },
-    {
-     "title": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
-     "url": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
-     "summary": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachers Schools should consider changing start and finish times, reordering holidays and moving exams from the summer months in an effort to adapt to the UK’s increasingly severe heatwaves, according to the leader of the country’s biggest education union. Daniel Kebede, the general secretary of the National…",
-     "source": "The Guardian",
-     "published": "2026-10-11T05:00:17+00:00",
-     "image": "https://i.guim.co.uk/img/media/3fb8cb8b435f1406261e96136ce7bc7ba8567324/568_0_5697_4558/master/5697.jpg?width=700&quality=85&auto=format&fit=max&s=3008ae9be24bd8e6fc97fc4ff873aeaa",
-     "topic": "world"
-    },
-    {
-     "title": "Christian nationalism in Britain driven by people who seldom go to church, says report",
-     "url": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
-     "summary": "Research challenges the notion that the growing visibility of crosses and other symbols reflects a revival of Christianity Christian nationalism in Britain is being driven largely by people who rarely attend church and are more concerned with defending the country’s Christian heritage, according to research. The report, by the thinktank Theos, identified five different groups within the UK in a survey that looked at…",
-     "source": "The Guardian",
-     "published": "2026-10-11T05:00:17+00:00",
-     "image": "https://i.guim.co.uk/img/media/0e78854fe248e0dee5904ab2d7051a6cd46f97bf/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=bd7c1e0a3d2b3b0872dd950d2a3a5e53",
-     "topic": "world"
-    },
-    {
-     "title": "US opens antitrust probe into TV networks halting Trump coverage",
-     "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-     "summary": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
-     "source": "Al Jazeera",
-     "published": "2026-10-11T04:30:10+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T195024Z_1926201131_RC27XNAHWPM9_RTRMADP_3_USA-TRUMP-1791244332.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
-     "summary": "Hurricane Isaias has killed four people and left more than 650,000 people without power.",
-     "source": "Al Jazeera",
-     "published": "2026-10-11T04:28:51+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791692863.jpg?resize=1618%2C1080&quality=80",
-     "topic": "world"
-    },
-    {
-     "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
-     "summary": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.",
-     "source": "Al Jazeera",
-     "published": "2026-10-11T04:10:08+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791691784.jpg?resize=1920%2C1080&quality=80",
-     "topic": "world"
-    },
-    {
-     "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-     "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+     "title": "Homes and bridges swept away as fresh floods hit Nepal",
+     "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+     "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
      "source": "BBC World",
-     "published": "2026-10-11T03:57:22+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5c68/live/40a0f7d0-c507-11f1-a64c-550be9e3c66b.jpg",
+     "published": "2026-10-12T05:26:47+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9cf2/live/9cbf47b0-c56b-11f1-9a39-31b474234113.jpg",
      "topic": "world"
     },
     {
-     "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-     "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
-     "summary": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
-     "source": "Al Jazeera",
-     "published": "2026-10-11T03:41:58+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac80aa0a27a-1791494816.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
-     "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
-     "summary": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
-     "source": "Al Jazeera",
-     "published": "2026-10-11T03:13:53+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260905__C7FF8WM__v1__HighRes__UsIranIsraelWar-1791684574.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "‘My body is still peaking’: Eliud Kipchoge wins first marathon in three years",
-     "url": "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record",
-     "summary": "Kenyan breaks Melbourne Marathon record by two seconds ‘I’m happy to run with the gen Zs,’ 41-year-old says Marathon’s greatest competitor, Eliud Kipchoge, has sent a message to the next generation declaring that he’s not done yet. The 41-year-old Kenyan revelled in his Melbourne Marathon debut on Sunday, breaking the race record and delighting thousands of fans at the MCG finish.",
-     "source": "The Guardian",
-     "published": "2026-10-11T02:54:21+00:00",
-     "image": "https://i.guim.co.uk/img/media/0cffbced7d03ca4f7411e4d12dcdb78717058dd7/666_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=751ddd21ae3a2283cb35122e7c420c48",
-     "topic": "world"
-    },
-    {
-     "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-     "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-     "summary": "Trump condemns 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's attacks on the Houthis.",
-     "source": "Al Jazeera",
-     "published": "2026-10-11T02:12:07+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2020-03-29T193017Z_579250648_RC2VTF9P1UK5_RTRMADP_3_SAUDI-RIYADH-ROCKETS-1791683246.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-     "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-     "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+     "title": "Documents falsified to evade tax on Abramovich's wealth",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+     "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.",
      "source": "BBC World",
-     "published": "2026-10-11T01:41:29+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg",
+     "published": "2026-10-12T05:00:52+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2d87/live/b7260ed0-c57b-11f1-a64c-550be9e3c66b.jpg",
      "topic": "world"
     },
     {
-     "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-     "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-     "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels The latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than 300 others, civil aviation authorities said early Sunday, with some in a critical condition. A Saudi-led coalition blamed Iran-backed Houthi rebels in neighbouring Yemen. A missile struck a King…",
+     "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+     "summary": "Mark Rowley says inclusivity is crucial for the force and he refuses to be ‘blown off course’ by critics Sir Mark Rowley: I will have more police officers of colour in the UK capital – and the culture wars won’t stop me doing it Mark Rowley has said the Metropolitan police must recruit more black and Asian officers in order to gain the trust of minority ethnic communities in London, and vowed not to be “blown off…",
      "source": "The Guardian",
-     "published": "2026-10-10T23:37:27+00:00",
-     "image": "https://i.guim.co.uk/img/media/abe5f1d89f32a73c4f4c63ed040fa686b4c5512a/617_0_5447_4359/master/5447.jpg?width=700&quality=85&auto=format&fit=max&s=dc2f4876d1ea1054378ac7a701ec54d8",
+     "published": "2026-10-12T05:00:47+00:00",
+     "image": "https://i.guim.co.uk/img/media/335ec71a3b250fe5334c36cd40eded3383001275/379_0_4293_3435/master/4293.jpg?width=700&quality=85&auto=format&fit=max&s=5d853b98e35254d563878b81e181655e",
+     "topic": "world"
+    },
+    {
+     "title": "Ministers preparing to slash heat pump subsidies to fund defence spending",
+     "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+     "summary": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources say Ministers are preparing to slash the amount of money available to subsidise heat pumps as they look for ways to fund higher defence spending, sources have told the Guardian. Miatta Fahnbulleh, the energy secretary, has been tasked with finding more than £2bn in savings from her budget to help pay for…",
+     "source": "The Guardian",
+     "published": "2026-10-12T05:00:47+00:00",
+     "image": "https://i.guim.co.uk/img/media/34bad81157e34d82ebc6b4408663be556cc7c648/461_0_5819_4656/master/5819.jpg?width=700&quality=85&auto=format&fit=max&s=d228ab574287f93d43f17552601eaf51",
+     "topic": "world"
+    },
+    {
+     "title": "Burnham to urge MPs to embrace closer ties with EU",
+     "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+     "summary": "Post-recess statement will focus on damage caused by Brexit and the need to cooperate on immigration and trade Andy Burnham will put Brexit back on the Commons agenda as MPs return from recess, warning that failing to pursue a better deal with the EU would be a “major dereliction of duty”. The prime minister will use a statement to the Commons on the first day back after the party conference break to urge MPs to…",
+     "source": "The Guardian",
+     "published": "2026-10-12T05:00:46+00:00",
+     "image": "https://i.guim.co.uk/img/media/0866566cdddf559ef8359f4db3e83087e4ed3d24/712_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=2ab2c3c4ad7a7d5fd35433e8f1fb1554",
+     "topic": "world"
+    },
+    {
+     "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+     "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+     "summary": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
+     "source": "Al Jazeera",
+     "published": "2026-10-12T04:58:01+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-10T055620Z_915059261_RC2P8HAXN45P_RTRMADP_3_TAIWAN-POLITICS-1760082600.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Joyce likens US public execution to ‘Roman amphitheatre’ – as it happened",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+     "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s…",
+     "source": "The Guardian",
+     "published": "2026-10-12T04:57:52+00:00",
+     "image": "https://i.guim.co.uk/img/media/c3ed4b163897cb2a9f4ca76014d0e38d53127de2/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3a274f310128c3d2576f21f7ca461768",
+     "topic": "world"
+    },
+    {
+     "title": "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+     "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+     "summary": "MyCentre leader Samir Mohtadi, who also goes by Abu Hamza, refers to Islamic texts on the virtues of staying silent Get our breaking news email , free app or daily news podcast A leader of a Melbourne Islamic centre allegedly linked to the accused Flydubai hijacker has released a video extolling the virtues of staying silent, without directly commenting on the accusations from prosecutors in the United Arab…",
+     "source": "The Guardian",
+     "published": "2026-10-12T04:55:40+00:00",
+     "image": "https://i.guim.co.uk/img/media/24b0cfe293b5403046646837b6fb46a6692ddd10/194_0_1940_1552/master/1940.jpg?width=700&quality=85&auto=format&fit=max&s=09518933e7347f8a90baca5e0f375613",
+     "topic": "world"
+    },
+    {
+     "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+     "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+     "summary": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
+     "source": "Al Jazeera",
+     "published": "2026-10-12T04:24:18+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26258555752392-1791774825.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+     "summary": "Ethiopian government forces entered Adigrat in northern Tigray after rebel fighters withdrew.",
+     "source": "Al Jazeera",
+     "published": "2026-10-12T04:00:56+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791777522.jpg?resize=1920%2C1080&quality=80",
+     "topic": "world"
+    },
+    {
+     "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK spending pressures",
+     "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+     "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures. As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher…",
+     "source": "The Guardian",
+     "published": "2026-10-12T04:00:44+00:00",
+     "image": "https://i.guim.co.uk/img/media/b343ffd35e7f931485cbcbdd23da90ff491a8766/0_0_4561_3648/master/4561.jpg?width=700&quality=85&auto=format&fit=max&s=f149ced81660550bc4db73f2b9fdae13",
+     "topic": "world"
+    },
+    {
+     "title": "North Korea fires multiple ballistic missiles towards the sea",
+     "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+     "summary": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
+     "source": "Al Jazeera",
+     "published": "2026-10-12T03:37:12+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acc4b414b3e-1791773505.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+     "summary": "At least 139 migrants, including 15 children, have died and 84 remain missing after a migrant boat capsized.",
+     "source": "Al Jazeera",
+     "published": "2026-10-12T03:09:11+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791774412.jpg?resize=1621%2C1080&quality=80",
+     "topic": "world"
+    },
+    {
+     "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+     "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+     "summary": "Sunday's strike on King Khalid International airport kills a Pakistani national.",
+     "source": "Al Jazeera",
+     "published": "2026-10-12T02:11:21+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-11T224221Z_1359573611_RC241OA0S2CQ_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT-1791766025.jpg?resize=1200%2C675",
      "topic": "world"
     }
    ],
@@ -475,6 +475,15 @@
    "icon": "🏛️",
    "color": "#b8860b",
    "articles": [
+    {
+     "title": "Black men suffer racial trauma yet are seen as the threat",
+     "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+     "summary": "The very conditions that subject Black men to chronic strain make it hard for them to receive the help they need and deserve - by Yamonte Cooper Read on Psyche",
+     "source": "Psyche",
+     "published": "2026-10-11T22:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/4a5f62e7-dfa5-4c48-b9db-fcb62ffb81d1/sz-curtis-potvin-h1uzh1dj2p0-unsplash-firefly-upscaler-2x-scale.jpg?top=120&left=0&cropWidth=2304&cropHeight=1296&width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
     {
      "title": "Mini-Heap",
      "url": "https://dailynous.com/2026/10/09/mini-heap-731/",
@@ -591,15 +600,6 @@
      "published": "2026-10-07T10:00:00+00:00",
      "image": "https://images.aeonmedia.co/images/181a9d8e-e788-4e97-ae52-a0e7570a869a/sz-final-gettyimages-2285680620.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto",
      "topic": "philosophy"
-    },
-    {
-     "title": "Your One Piece of Philosophy Grad School Advice",
-     "url": "https://dailynous.com/2026/10/06/your-one-piece-of-philosophy-grad-school-advice/",
-     "summary": "If you could give beginning philosophy graduate students just one piece of advice, what would it be? I know that some readers will want to […]",
-     "source": "Daily Nous",
-     "published": "2026-10-06T13:27:53+00:00",
-     "image": "https://dailynous.com/wp-content/uploads/2026/10/hand-index-finger-1024x563.jpg",
-     "topic": "philosophy"
     }
    ],
    "sources": [
@@ -635,6 +635,15 @@
    "icon": "💞",
    "color": "#e0457b",
    "articles": [
+    {
+     "title": "This is how we do it: ‘At our age we get to wake up and say: What are we doing today? Let’s make love’",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/11/this-is-how-we-do-it-sex-podcast",
+     "summary": "A sex podcast opened up a whole new way of communicating for Helen and Ian • How do you do it? Share the story of your sex life, anonymously I’ve discovered I like to be spanked – my orgasms have become much stronger",
+     "source": "The Guardian",
+     "published": "2026-10-11T10:00:22+00:00",
+     "image": "https://i.guim.co.uk/img/media/764ce58b9e7b4f285f26061866b5382ef29502dd/0_0_2000_1600/master/2000.jpg?width=700&quality=85&auto=format&fit=max&s=58be15c1a616bccb4645d604ff5e1063",
+     "topic": "relationships"
+    },
     {
      "title": "A dating app that lets random strangers match users? Sign me up! | Polly Hudson",
      "url": "https://www.theguardian.com/commentisfree/2026/oct/11/a-dating-app-that-lets-random-strangers-match-users-sign-me-up",
@@ -741,15 +750,6 @@
      "source": "The Guardian",
      "published": "2026-10-05T10:00:53+00:00",
      "image": "https://i.guim.co.uk/img/media/419c1235568e1d812936e6e3f33174ed46353621/0_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=42946d3023516b1b18ab784ebffe843d",
-     "topic": "relationships"
-    },
-    {
-     "title": "Does the word ‘Dumbass’ flash up when your husband calls your phone? | Polly Hudson",
-     "url": "https://www.theguardian.com/commentisfree/2026/oct/04/does-the-word-dumbass-flash-up-when-your-husband-calls-your-phone",
-     "summary": "From ‘Sharon London Sex’ to ‘Trashy Anne’, the names saved in our phones are tiny records of how relationships began. Why erase the evidence? At first glance, it’s such a simple, reasonable ask. A Threads user went vaguely viral last week, with a post announcing : “In other news, my wife of 11 years is respectfully requesting that I take ‘(hinge)’ out of her contact name on my phone.” A lively discussion then…",
-     "source": "The Guardian",
-     "published": "2026-10-04T15:00:30+00:00",
-     "image": "https://i.guim.co.uk/img/media/24708493b8864ca7d9245e481e7f1b737d971114/274_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=29f539d9a065574d72f0fdf626e32a19",
      "topic": "relationships"
     }
    ],
@@ -935,6 +935,33 @@
    "color": "#3aa655",
    "articles": [
     {
+     "title": "The pope has a lung nodule. What does this mean? And what’s the risk of cancer?",
+     "url": "https://theconversation.com/the-pope-has-a-lung-nodule-what-does-this-mean-and-whats-the-risk-of-cancer-294136",
+     "summary": "The 71-year-old Pope said the growth in his lung was ‘well contained’ and spotted early.",
+     "source": "The Conversation",
+     "published": "2026-10-12T04:55:56+00:00",
+     "image": "https://counter.theconversation.com/content/294136/count.gif",
+     "topic": "nutrition"
+    },
+    {
+     "title": "Eating olive oil before carbs has a surprising effect on blood sugar",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261008102700.htm",
+     "summary": "A simple change in the order you eat your food could help prevent blood sugar spikes. Scientists discovered that giving mice olive oil before carbohydrates slowed digestion and activated a surprising combination of hormones and nerve signals that helped regulate blood sugar, even in mice with type 2 diabetes.",
+     "source": "ScienceDaily",
+     "published": "2026-10-11T04:32:03+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/slice-of-bread-seasoned-with-olive-oil.webp",
+     "topic": "nutrition"
+    },
+    {
+     "title": "A plastic once thought harmless may be fueling fatty liver disease",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+     "summary": "One of the world's most common plastics may pose a hidden threat to liver health. Texas A&M researchers discovered that polyethylene microplastics can contribute to fatty liver disease, with potentially worse effects when combined with an unhealthy diet. Even more surprising, this widely used plastic was previously considered relatively harmless.",
+     "source": "ScienceDaily",
+     "published": "2026-10-11T00:47:05+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
+     "topic": "nutrition"
+    },
+    {
      "title": "Scientists discover 5 hidden brain patterns behind depression",
      "url": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
      "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations with symptoms such as anxiety, trauma, and substance abuse.",
@@ -968,24 +995,6 @@
      "source": "ScienceDaily",
      "published": "2026-10-08T04:06:26+00:00",
      "image": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunshine.webp",
-     "topic": "nutrition"
-    },
-    {
-     "title": "Not all trans fats are bad, major review finds",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm",
-     "summary": "A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes. Unlike industrial trans fats from partially hydrogenated oils, dairy trans fats showed no meaningful harmful effects on blood fats in controlled trials and were not linked to higher rates of heart disease, stroke…",
-     "source": "ScienceDaily",
-     "published": "2026-10-08T03:00:54+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/cheese-milk-dairy-cows.webp",
-     "topic": "nutrition"
-    },
-    {
-     "title": "Taking antibiotics? Sugar may be making the damage worse",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
-     "summary": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after antibiotic treatment could be a simple way to reduce this damage, though clinical trials are still needed.",
-     "source": "ScienceDaily",
-     "published": "2026-10-07T13:06:21+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
      "topic": "nutrition"
     }
    ],
