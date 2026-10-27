@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-26T05:42:53.802311+00:00",
+ "generated_at": "2026-10-27T05:40:33.729928+00:00",
  "highlights": [
-  "https://www.psypost.org/young-adults-who-fear-rejection-also-tend-to-fear-death-more-psychology-study-finds/",
-  "https://medicalxpress.com/news/2026-10-substance-emergency-department-hospitalizations-young.html",
-  "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
-  "https://www.theguardian.com/world/2026/oct/24/modern-life-is-stuck-in-a-sea-of-sameness-the-pursuit-of-beauty-is-a-necessary-antidote",
-  "https://www.theguardian.com/lifeandstyle/2026/oct/26/the-kindness-of-strangers-after-a-tearful-breakup-dinner-another-patron-paid-our-bill",
-  "https://www.theguardian.com/commentisfree/2026/oct/25/12-things-you-need-to-know-about-work",
+  "https://www.psypost.org/women-reach-orgasm-more-often-alone-but-partnered-orgasms-are-more-closely-tied-to-sexual-satisfaction/",
+  "https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast",
+  "https://www.aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections?traffic_source=rss",
+  "https://dailynous.com/2026/10/26/coordinating-the-philosophy-professions-response-to-the-use-of-ai-in-research/",
+  "https://www.theguardian.com/commentisfree/2026/oct/27/g-flip-and-chrishell-stause-split-queer-community-in-mourning",
+  "https://knowledge.wharton.upenn.edu/article/why-semi-liquid-private-credit-funds-are-in-fragile-territory/",
   "https://www.sciencedaily.com/releases/2026/10/261024222030.htm"
  ],
  "topics": [
@@ -17,30 +17,57 @@
    "color": "#7c5cff",
    "articles": [
     {
-     "title": "Young adults who fear rejection also tend to fear death more, psychology study finds",
-     "url": "https://www.psypost.org/young-adults-who-fear-rejection-also-tend-to-fear-death-more-psychology-study-finds/",
-     "summary": "Young adults who worry about rejection tend to fear death more, a study of 640 Italians found. That fear was tied to more anxiety and related symptoms, but mainly among those who see death as final.",
+     "title": "Women reach orgasm more often alone, but partnered orgasms are more closely tied to sexual satisfaction",
+     "url": "https://www.psypost.org/women-reach-orgasm-more-often-alone-but-partnered-orgasms-are-more-closely-tied-to-sexual-satisfaction/",
+     "summary": "In a survey of nearly 28,000 period-tracking app users, women reported reaching orgasm more often during solo sex than with a partner. Yet it was partnered orgasm frequency, not solo orgasm frequency, that was linked to greater overall sexual satisfaction.",
      "source": "PsyPost",
-     "published": "2026-10-25T18:00:32+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/10/death-anxiety.jpg",
+     "published": "2026-10-26T20:00:47+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/02/couple-in-bed.jpg",
      "topic": "psychology"
     },
     {
-     "title": "How the menstrual cycle might alter ADHD symptoms in women taking stimulant medication",
-     "url": "https://www.psypost.org/how-the-menstrual-cycle-alters-adhd-symptoms-in-women-taking-stimulants/",
-     "summary": "A new study reveals that ADHD symptoms peak in severity during menstruation for women taking stimulant medications. The findings suggest that natural hormonal fluctuations alter attention and mood, highlighting a need for highly personalized treatment plans.",
+     "title": "Feed recommendations are the most common way teens encounter self-harm content",
+     "url": "https://www.psypost.org/feed-recommendations-are-the-most-common-way-teens-encounter-self-harm-content/",
+     "summary": "About one in three English secondary school students had come across self-harm content online in the past month. Most never went looking for it; the content typically appeared in their social media feeds.",
      "source": "PsyPost",
-     "published": "2026-10-25T16:00:43+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/07/woman-with-pill.jpg",
+     "published": "2026-10-26T18:00:48+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/11/texting-on-smartphone.jpg",
      "topic": "psychology"
     },
     {
-     "title": "Anger and fear nudge voters toward different kinds of leader faces, study suggests",
-     "url": "https://www.psypost.org/anger-and-fear-nudge-voters-toward-different-kinds-of-leader-faces-study-suggests/",
-     "summary": "Which face looks like the right leader may depend on how a political issue makes you feel. Republicans still favored dominant-looking leaders more than Democrats did, but the effects of anger and fear appeared similar across both parties.",
+     "title": "Frequent cannabis use linked to higher odds of nighttime breathing problems",
+     "url": "https://www.psypost.org/frequent-cannabis-use-linked-to-higher-odds-of-nighttime-breathing-problems/",
+     "summary": "A new study links cannabis use to loud snoring and breathing pauses during sleep, with stronger associations among frequent users. The authors suggest that smoke irritation and muscle relaxation in the throat may play a role.",
      "source": "PsyPost",
-     "published": "2026-10-25T14:00:09+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/06/angry-politician.jpg",
+     "published": "2026-10-26T16:00:47+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2024/11/cannabis-marijuana-joint.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Challenges to political beliefs might engage brain networks tied to self-reflection, new study suggests",
+     "url": "https://www.psypost.org/challenges-to-political-beliefs-might-engage-brain-networks-tied-to-self-reflection-new-study-suggests/",
+     "summary": "In a brain imaging study conducted in Poland, people with strong left-wing views barely changed their political beliefs after reading counterarguments, even as they lowered their confidence in factual claims. Their brains also responded differently to the two kinds of challenges.",
+     "source": "PsyPost",
+     "published": "2026-10-26T14:00:45+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2021/06/brain-scans.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Playing video games with trusted friends may reduce addiction risks",
+     "url": "https://www.psypost.org/playing-video-games-with-trusted-friends-may-reduce-addiction-risks/",
+     "summary": "Research reveals that playing video games with a trusted, familiar group of people can build player loyalty while simultaneously reducing the risk of video game addiction. A player's social environment heavily dictates their digital habits.",
+     "source": "PsyPost",
+     "published": "2026-10-26T13:00:43+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/06/playing-computer-games.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Why do people with psychopathic traits enjoy fear? New psychology research offers a clue",
+     "url": "https://www.psypost.org/why-do-people-with-psychopathic-traits-enjoy-fear-new-psychology-research-offers-a-clue/",
+     "summary": "Alfred Hitchcock argued that people enjoy fear only when they feel safe. A study suggests the idea may apply to people with psychopathic traits: a stronger sense of invincibility was linked to feeling less frightened by a horror clip.",
+     "source": "PsyPost",
+     "published": "2026-10-26T12:00:39+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/10/psychopathic-man-dark-personality.jpg",
      "topic": "psychology"
     },
     {
@@ -50,33 +77,6 @@
      "source": "The Guardian",
      "published": "2026-10-25T14:00:05+00:00",
      "image": "https://i.guim.co.uk/img/media/613e745dced6fbb50364d79cddef42c4766a520e/420_0_4200_3360/master/4200.jpg?width=700&quality=85&auto=format&fit=max&s=52a05533a45e057937d121191213d49d",
-     "topic": "psychology"
-    },
-    {
-     "title": "Dominance-seeking workers see more sexual interest in coworkers’ behavior, and that may help explain harassment",
-     "url": "https://www.psypost.org/dominance-seeking-workers-see-more-sexual-interest-in-coworkers-behavior-and-that-may-help-explain-harassment/",
-     "summary": "A smile or friendly chat at work isn’t usually an invitation. But employees with a strong desire to dominate others were more likely to read sexual interest into such behavior, and those perceptions were linked to self-reported harassment.",
-     "source": "PsyPost",
-     "published": "2026-10-25T13:00:49+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/06/sexual-harassment.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "Neuroscientists are digging into a worrying link between polluted air and children’s brain wiring",
-     "url": "https://www.psypost.org/neuroscientists-are-digging-into-a-worrying-link-between-polluted-air-and-childrens-brain-wiring/",
-     "summary": "Children breathe a mix of pollution from cars, power plants, farms, and fires. A study of more than 6,000 U.S. kids found several sources were tied to their own pattern of brain network communication.",
-     "source": "PsyPost",
-     "published": "2026-10-25T12:00:49+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/09/brain-scans.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "Romantic breakups correspond with changes in sexual identity during adulthood",
-     "url": "https://www.psypost.org/the-material-fallout-of-a-breakup-correlates-with-shifts-in-sexual-identity/",
-     "summary": "A new study finds that the practical disruptions of a romantic breakup, such as moving or changing finances, are associated with increased ambiguity around a person's sexual orientation.",
-     "source": "PsyPost",
-     "published": "2026-10-25T11:00:48+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/06/romantic-heart-breaking-up.jpg",
      "topic": "psychology"
     },
     {
@@ -171,129 +171,129 @@
    "color": "#0fa3b1",
    "articles": [
     {
-     "title": "Substance use driving increases in emergency department visits, hospitalizations for young mothers",
-     "url": "https://medicalxpress.com/news/2026-10-substance-emergency-department-hospitalizations-young.html",
-     "summary": "Emergency department (ED) visits for use of substances, especially opioids, amphetamines and cannabis, by mothers with dependent children increased almost 5% a year, in contrast to an increase of almost 2% a year among females without children, according to a large study in Canadian Medical Association Journal. These increases were largely in mothers under age 25, in whom rates grew more than four times faster than…",
-     "source": "Medical Xpress",
-     "published": "2026-10-26T04:00:02+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/driving.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "A simple liquid can stop cavities without drilling, major study confirms",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
-     "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.",
-     "source": "ScienceDaily",
-     "published": "2026-10-26T02:41:13+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/molar-teeth-cavities.webp",
-     "topic": "medicine"
-    },
-    {
-     "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
-     "url": "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&at_campaign=rss",
-     "summary": "Videos in which people claim to spot the signs of low iron have attracted millions of views online.",
-     "source": "BBC Health",
-     "published": "2026-10-26T01:43:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "‘What’s the safest way to defrost chicken?’ We’re answering your food safety questions",
-     "url": "https://www.theguardian.com/thefilter-us/live/2026/oct/25/food-safety-conversation",
-     "summary": "We’ll be hosting a live Q&A on 26 October at noon ET on the Guardian US site with guest experts Rachel Sherman and Caroline L Schauer The Drexel food lab tested the best air fryers (the Cosori , a hands-down winner), the best nonstick cookware ( Our Place , trendy and top of the line) and much more Food safety concerns us all. It used to mean properly washing lettuce and cooking chicken to 165F.",
+     "title": "Perimenopause is everywhere. How do you know if you’re in it? – podcast",
+     "url": "https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast",
+     "summary": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation about treatments such as HRT. Madeleine Finlay hears from Dr Paula Briggs, a consultant in sexual and reproductive health, about why experts have raised the alarm. Science correspondent…",
      "source": "The Guardian",
-     "published": "2026-10-25T22:10:13+00:00",
+     "published": "2026-10-27T05:00:03+00:00",
+     "image": "https://i.guim.co.uk/img/media/8aeb754722d18c0ae79e1efb75b04a312ff0dc8d/648_0_6500_5200/master/6500.jpg?width=700&quality=85&auto=format&fit=max&s=9379f69f27eaa3f721865f88a6917241",
+     "topic": "medicine"
+    },
+    {
+     "title": "Exploring the potential of immunotherapy in early-stage triple-negative breast cancer",
+     "url": "https://medicalxpress.com/news/2026-10-exploring-potential-immunotherapy-early-stage.html",
+     "summary": "Triple-negative breast cancers, which are more frequently diagnosed in younger women, are a subtype of breast tumor characterized by the absence of hormone receptors and HER2 overexpression. As a result, they do not respond to hormone therapy or HER2-targeted treatments. Their prognosis is generally less favorable than that of other breast cancer subtypes.",
+     "source": "Medical Xpress",
+     "published": "2026-10-27T03:20:02+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/exploring-the-potentia.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Tomosynthesis detects breast cancer more frequently during screening",
+     "url": "https://medicalxpress.com/news/2026-10-tomosynthesis-breast-cancer-frequently-screening.html",
+     "summary": "With around 75,000 new cases per year, breast cancer is by far the most common cancer among women in Germany. Using digital breast tomosynthesis in the breast cancer screening program could prevent around a quarter of invasive interval cancers that occur within two years after a digital mammogram.",
+     "source": "Medical Xpress",
+     "published": "2026-10-27T02:00:06+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tomosynthesis-detects.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Hemoglobin component heme shown to inhibit enzyme that helps dissolve blood clots",
+     "url": "https://medicalxpress.com/news/2026-10-hemoglobin-component-heme-shown-inhibit.html",
+     "summary": "When it comes to blood clots, it is not only how they form that is crucial, but also how the body can break them down again. A team of researchers at the University of Koblenz, led by Prof. Dr. Marie-T. Hopp, has demonstrated that heme—a component of hemoglobin—can influence this process. The findings, published in the International Journal of Biological Macromolecules, provide a new molecular approach to better…",
+     "source": "Medical Xpress",
+     "published": "2026-10-27T00:40:06+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-molecular-view-of-th.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "How dismissed symptoms can push patients to breaking point",
+     "url": "https://medicalxpress.com/news/2026-10-dismissed-symptoms-patients.html",
+     "summary": "Patients have been left feeling suicidal after feeling like their doctor was saying their symptoms were 'all in their head'—according to research from the University of East Anglia and the University of Cambridge.",
+     "source": "Medical Xpress",
+     "published": "2026-10-27T00:10:05+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/doctor-appointment.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "'What does it say if a woman can't give birth in her own city?'",
+     "url": "https://www.bbc.co.uk/news/articles/c6z0vp0l5nj8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The Southern Health Trust plans to temporarily transfer inpatient maternity services from Daisy Hill to Craigavon.",
+     "source": "BBC Health",
+     "published": "2026-10-27T00:00:44+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3eb1/live/167d95f0-d13f-11f1-8d4e-ef1672a07d66.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Overwhelmed by parenting? You've got plenty of company",
+     "url": "https://medicalxpress.com/news/2026-10-overwhelmed-parenting-youve-plenty-company.html",
+     "summary": "Feeling overwhelmed by the noise and chaos of parenting? You're not alone.",
+     "source": "Medical Xpress",
+     "published": "2026-10-26T23:00:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/parents-1.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Want to lose weight? Don't skip the weights",
+     "url": "https://medicalxpress.com/news/2026-10-weight-dont-weights.html",
+     "summary": "Weightlifting has a reputation for \"bulking up,\" so it may not be the first type of exercise you choose when you want to lose weight.",
+     "source": "Medical Xpress",
+     "published": "2026-10-26T22:20:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-weights.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "NHS consultants to go on two-day strike in England in November",
+     "url": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+     "summary": "Industrial action by senior doctors to begin on 25 November with only emergency cover provided, BMA says England’s most senior hospital doctors will strike next month in a dispute over their pay and hours, prompting NHS bosses to warn that patients will suffer “pain, discomfort and inconvenience”. Consultant doctors, who earn an average of £152,000 a year inclusive of overtime and merit awards, will stage a two-day…",
+     "source": "The Guardian",
+     "published": "2026-10-26T18:05:16+00:00",
+     "image": "https://i.guim.co.uk/img/media/6ba916a7c2b999d2a668ead8600d6bf99d85147e/488_0_3011_2409/master/3011.jpg?width=700&quality=85&auto=format&fit=max&s=dfcb04310be55ff994a31498c666b3e7",
+     "topic": "medicine"
+    },
+    {
+     "title": "Thawed chicken to non-stick pans, we answered your food and kitchen safety questions",
+     "url": "https://www.theguardian.com/thefilter-us/live/2026/oct/25/food-safety-conversation",
+     "summary": "We hosted a live Q&A with guest experts Rachel Sherman and Caroline L Schauer The Drexel food lab tested the best air fryers (the Cosori , a hands-down winner), the best nonstick cookware ( Our Place , trendy and top of the line) and much more Adrian from Toronto, Canada asks in a callout question: How do I make my fridge work better? In my mini fridge, cans sometimes get so cold that they explode, and sometimes…",
+     "source": "The Guardian",
+     "published": "2026-10-26T17:47:22+00:00",
      "image": "https://i.guim.co.uk/img/media/d64edb2810be2ad1a015d591897ad44d83820f7b/0_0_1875_1500/master/1875.jpg?width=700&quality=85&auto=format&fit=max&s=b64a629e7fbbc40d2a2a265c8099b2b2",
      "topic": "medicine"
     },
     {
-     "title": "Hospital deemed 'dangerous' and 'dreadful' online claims to be among safest in the country",
-     "url": "https://www.bbc.co.uk/news/articles/cq33xpvgned7o?at_medium=RSS&at_campaign=rss",
-     "summary": "Grange University Hospital has faced criticism over long delays, overcrowding and staff shortages.",
+     "title": "Bigger does not always mean better in hospital care | Letter",
+     "url": "https://www.theguardian.com/society/2026/oct/26/bigger-does-not-always-mean-better-in-hospital-care",
+     "summary": "For some medics, working at a large centre means for the same pay you don’t have to work so hard, writes Dr Paul Godwin The closure of maternity units is always a temptation when the NHS runs into staffing problems, largely of its own making ( Up to 20 maternity units in England may have to shut, NHS leader warns, 19 October ). In my area the quality of care has already been called into question at the largest local…",
+     "source": "The Guardian",
+     "published": "2026-10-26T17:39:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/dce434c6214de6aa0b316cd34b09a9cbc7434afa/261_28_4591_3673/master/4591.jpg?width=700&quality=85&auto=format&fit=max&s=622b11bd188c03299ab8648e1c193087",
+     "topic": "medicine"
+    },
+    {
+     "title": "Exercise helps woman recover from partying life",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgrk4ngl64o?at_medium=RSS&at_campaign=rss",
+     "summary": "Megan Hamon says her life has turned around after struggling with excessive drinking and partying.",
      "source": "BBC Health",
-     "published": "2026-10-25T21:56:41+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/061a/live/635ce100-cdfc-11f1-97f7-a7674fb562de.jpg",
+     "published": "2026-10-26T15:15:20+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a0e/live/fe4404f0-cbd1-11f1-aba9-2bb2608f11d9.jpg",
      "topic": "medicine"
     },
     {
-     "title": "Young adults with cancer report putting off appointments, getting dismissed by doctors",
-     "url": "https://medicalxpress.com/news/2026-10-young-adults-cancer-dismissed-doctors.html",
-     "summary": "When Natasha Allard's close friend Dave was diagnosed with stage 4 testicular cancer at age 26, the University at Buffalo postdoctoral associate started paying more attention to how cancer was upending the lives of young people.",
-     "source": "Medical Xpress",
-     "published": "2026-10-25T19:00:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-patient-undergoing-a.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Cracking a smile regularly may be good not just for your mood but for your health",
-     "url": "https://medicalxpress.com/news/2026-10-regularly-good-mood-health.html",
-     "summary": "Reminding yourself to smile often can not only help you form more friendships but also make you feel better.",
-     "source": "Medical Xpress",
-     "published": "2026-10-25T18:40:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/be-well-smile.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "New animal model offers more precise way to study calorie-burning brown fat",
-     "url": "https://medicalxpress.com/news/2026-10-animal-precise-calorie-brown-fat.html",
-     "summary": "Researchers at LSU's Pennington Biomedical Research Center have developed and validated a new genetic animal model that gives scientists a more precise way to study brown and beige fat, specialized tissues that use energy to produce heat and play an important role in metabolism. The paper is published in the journal Scientific Reports.",
-     "source": "Medical Xpress",
-     "published": "2026-10-25T18:20:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-animal-model-offer.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Plague risks in Russia and a dangerous delay on WHO pandemic agreement | Letters",
-     "url": "https://www.theguardian.com/science/2026/oct/25/plague-risks-in-russia-and-a-dangerous-delay-on-who-pandemic-agreement",
-     "summary": "Responding to an editorial on a potential plague outbreak, Dr Darren Mann deplores delays to the agreement, while Kent Buse says Britain could do more Your editorial on the silence from Siberia after a worker died at a plague research institute there is right that the lack of information is the real worry ( The Guardian view on plague in Russia: what is most worrying is the lack of information, 18 October ). But the…",
-     "source": "The Guardian",
-     "published": "2026-10-25T17:13:58+00:00",
-     "image": "https://i.guim.co.uk/img/media/c1837701cd80848b900d6247867f6ea09c5d1e59/227_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=ae0041a6911296adde0edb7708f03a2d",
-     "topic": "medicine"
-    },
-    {
-     "title": "On dementia, we need to tell it how it is | Letter",
-     "url": "https://www.theguardian.com/society/2026/oct/25/on-dementia-we-need-to-tell-it-how-it-is",
-     "summary": "David Lee responds to a letter questioning the use of language about people with dementia Sally Byers takes Polly Toynbee to task ( Letters, 19 October ) for using what she considers to be “deeply troubling language” about people with dementia, in particular the phrases “glazed stares or sleeping mouths agape” and “that terrible human vacancy” in Toynbee’s article ( In Liverpool I saw the tough choices Louise Casey…",
-     "source": "The Guardian",
-     "published": "2026-10-25T17:12:58+00:00",
-     "image": "https://i.guim.co.uk/img/media/c3f6c4428ff01ab67455cff2e0d42119e03560c6/677_229_4685_3748/master/4685.jpg?width=700&quality=85&auto=format&fit=max&s=3bfcfea6330362908d5f1b876bc33f57",
-     "topic": "medicine"
-    },
-    {
-     "title": "Sea bass: a fish by any other name | Brief letters",
-     "url": "https://www.theguardian.com/food/2026/oct/25/sea-bass-a-fish-by-any-other-name",
-     "summary": "Sea bass names | Healthy NHS | Globe destroying | No pictures | Clean sweep from the 60s Dicentrarchus labrax is properly called the European seabass in English ( Letters, 20 October ). Or sea bass; either is fine. In the US, the fish is most commonly referenced as branzino, although I prefer the more exciting French name loup de mer (literal translation “wolf of the sea”), all flashing teeth and the small thrill of…",
-     "source": "The Guardian",
-     "published": "2026-10-25T17:10:28+00:00",
-     "image": "https://i.guim.co.uk/img/media/ec3dbf20aa9feb48639f42ea0694bb8380289957/370_0_4932_3947/master/4932.jpg?width=700&quality=85&auto=format&fit=max&s=34d3aede99d20851942cbc8d8ada9849",
-     "topic": "medicine"
-    },
-    {
-     "title": "Can psychedelics soothe an overactive immune system? New meta-analysis investigates",
-     "url": "https://medicalxpress.com/news/2026-10-psychedelics-overactive-immune-meta-analysis.html",
-     "summary": "The same substances that can alter perception and shift moods are now drawing scientific interest for their potential therapeutic abilities. Researchers across the globe are investigating whether psychedelics, such as psilocybin from magic mushrooms or LSD, could help treat mental health and brain-related disorders. In a recent study, researchers gathered many such studies and carried out a systematic review and…",
-     "source": "Medical Xpress",
-     "published": "2026-10-25T16:20:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-magic-mushrooms-so.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Is having urine the color of Mountain Dew normal?",
-     "url": "https://www.theguardian.com/wellness/2026/oct/25/urine-what-color-experts",
-     "summary": "A Trump administration doctor says neon yellow urine is normal because of diets consisting entirely of meat and fermented foods. Here’s what experts say A doctor who advises several Trump cabinet members on their diets rhapsodized this summer about having urine the color of Mountain Dew, thanks to a diet consisting entirely of meat and fermented foods. What you consume does determine what you see in the toilet. But…",
-     "source": "The Guardian",
-     "published": "2026-10-25T16:00:06+00:00",
-     "image": "https://i.guim.co.uk/img/media/d70b60338ddc8103e186e5b040555da5b2c81c09/480_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=c61ce55efa9b46ea259755bd5d26bbc3",
-     "topic": "medicine"
-    },
-    {
-     "title": "The debating club that helped shape NHS architect Aneurin Bevan's drive for power",
-     "url": "https://www.bbc.co.uk/news/articles/cr5y5zzw72q1o?at_medium=RSS&at_campaign=rss",
-     "summary": "How a group of young radicals helped set Aneurin Bevan on the path to founding the NHS.",
+     "title": "Consultant doctors in England to strike next month",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&at_campaign=rss",
+     "summary": "Senior doctors to stage 48-hour walkout, beginning on 25 November, in dispute over pay and pensions.",
      "source": "BBC Health",
-     "published": "2026-10-25T15:11:52+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a5f/live/1abdaaa0-cc9f-11f1-a64c-550be9e3c66b.png",
+     "published": "2026-10-26T11:45:48+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9675/live/c9798c10-d124-11f1-9a61-7b8d75492b97.png",
+     "topic": "medicine"
+    },
+    {
+     "title": "Exercise doesn't just strengthen your heart. It rewires it",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+     "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
+     "source": "ScienceDaily",
+     "published": "2026-10-26T11:35:53+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/human-heart-with-red-cardio-pulse-close.webp",
      "topic": "medicine"
     }
    ],
@@ -331,129 +331,129 @@
    "color": "#e4572e",
    "articles": [
     {
-     "title": "Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
-     "summary": "Robert John Crawford on trial after wife found near ride-on lawnmower on their Toowoomba property A former RAAF pilot was a “love rat” and “master manipulator” who staged his wife’s death to make it appear a tragic accident, a jury has heard. Robert John Crawford, 49, pleaded not guilty on Monday to murdering his wife Frances Elizabeth Crawford at Upper Lockyer on 29 July, 2024.",
-     "source": "The Guardian",
-     "published": "2026-10-26T05:28:02+00:00",
-     "image": "https://i.guim.co.uk/img/media/ac5fce05d2296a80922b77168e04989d5fc87ebb/500_0_2035_1628/master/2035.jpg?width=700&quality=85&auto=format&fit=max&s=bc36360caec0f0e63146ebc11a340e64",
-     "topic": "world"
-    },
-    {
-     "title": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech",
-     "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-     "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they can send abuse and threats through direct messages, call my…",
-     "source": "The Guardian",
-     "published": "2026-10-26T05:27:35+00:00",
-     "image": "https://i.guim.co.uk/img/media/6d8e56e4201d9d93e6c072987ba67ea6cd7c5c7c/569_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=b483e32113e461d5e904a864db0cba5a",
-     "topic": "world"
-    },
-    {
-     "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-     "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace prize. “I’m here. With you,” she wrote on X on Sunday lunchtime.",
-     "source": "The Guardian",
-     "published": "2026-10-26T05:27:12+00:00",
-     "image": "https://i.guim.co.uk/img/media/b76716fc922183868270c55ef67ee72294490554/313_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=21961e4219b3d649a2f3df7274905716",
-     "topic": "world"
-    },
-    {
-     "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-     "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-     "summary": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
+     "title": "Tracking the money: The biggest donors in the 2026 US midterm elections",
+     "url": "https://www.aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections?traffic_source=rss",
+     "summary": "The 50 biggest contributors have poured $2.77bn into the race, led by Elon Musk's $446m for Republican-aligned groups.",
      "source": "Al Jazeera",
-     "published": "2026-10-26T05:24:59+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adde5c816be3-1792927176.jpg?resize=1920%2C1440",
+     "published": "2026-10-27T05:29:24+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-spending-midterms-cover-1793003642.png?resize=1200%2C630",
      "topic": "world"
     },
     {
-     "title": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+     "title": "Israel election live: polls open in most consequential vote in country’s history",
+     "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+     "summary": "Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election Gadi Eisenkot , Netanyahu’s main challenger in Tuesday’s elections, has already been out greeting voters at a polling station in Ofakim , in Israel’s south. The former army chief of staff spent four decades rising through the ranks…",
+     "source": "The Guardian",
+     "published": "2026-10-27T05:23:13+00:00",
+     "image": "https://i.guim.co.uk/img/media/bf9c23effbadccea4c327061cd706fd7b0098e87/376_0_3948_3158/master/3948.jpg?width=700&quality=85&auto=format&fit=max&s=a2aeaf0054dce4285093da343c51564c",
+     "topic": "world"
+    },
+    {
+     "title": "Why has France struggled to address students’ demands?",
+     "url": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
+     "summary": "Protesters demand more spending on education and social services, but the government has struggled amid a fiscal crisis.",
+     "source": "Al Jazeera",
+     "published": "2026-10-27T05:22:22+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261024__D4AX72Z__v1__MidRes__FranceSocialDemo-1792851537.jpg?resize=1200%2C630",
+     "topic": "world"
+    },
+    {
+     "title": "Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
+     "summary": "Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Anthony Albanese has promised a “swift government response” to safety threats to MPs and floated the provision of duress alarms for electorate offices, saying politicians and their staff have put up with threats for too long. The prime minister’s pledge to the Labor partyroom came hours after senator Fatima Payman again…",
+     "source": "The Guardian",
+     "published": "2026-10-27T05:19:39+00:00",
+     "image": "https://i.guim.co.uk/img/media/9928d08d3cca400db810fda044fe5f046c4f0203/688_0_5876_4703/master/5876.jpg?width=700&quality=85&auto=format&fit=max&s=2ba81ec5d4bdd241311502c7ca562d81",
+     "topic": "world"
+    },
+    {
+     "title": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+     "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines , who was injured after an alleged attack in her electorate, the Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do…",
+     "source": "The Guardian",
+     "published": "2026-10-27T05:19:10+00:00",
+     "image": "https://i.guim.co.uk/img/media/6d694f90d6d8936f9363ebbf300c62e64525fbc8/688_257_6558_5247/master/6558.jpg?width=700&quality=85&auto=format&fit=max&s=a351992e9f77e5dc49fdef998ff9616e",
+     "topic": "world"
+    },
+    {
+     "title": "Macklemore opens ‘Free Palestine’ tour in Dublin",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
+     "summary": "American rapper Macklemore opened his ‘Free Palestine’ tour before a sold-out crowd in Dublin",
+     "source": "Al Jazeera",
+     "published": "2026-10-27T05:14:13+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793078044.jpg?resize=1874%2C1080&quality=80",
+     "topic": "world"
+    },
+    {
+     "title": "Labor condemns One Nation cartoons depicting Penny Wong being murdered as Hanson says videos ‘not going anywhere’",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/27/one-nation-cartoon-penny-wong-beheading-condemned-ntwnfb",
+     "summary": "Foreign affairs minister says party’s social media content promotes division and violence as One Nation leader claims Liberal and Labor want cartoons censored Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Labor has accused Pauline Hanson of stoking division and violence in cartoons showing attacks on the foreign affairs minister, Penny…",
+     "source": "The Guardian",
+     "published": "2026-10-27T05:13:57+00:00",
+     "image": "https://i.guim.co.uk/img/media/5859237a9d6e4bf2a0943290eaa09b388ecdac26/377_0_985_788/master/985.jpg?width=700&quality=85&auto=format&fit=max&s=6dee758f3687e9891ade07f86bb57c53",
+     "topic": "world"
+    },
+    {
+     "title": "Jay-Z to perform at Super Bowl half-time show",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+     "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
      "source": "BBC World",
-     "published": "2026-10-26T05:20:19+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg",
+     "published": "2026-10-27T05:05:15+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg",
      "topic": "world"
     },
     {
-     "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
-     "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-     "summary": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change.",
+     "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
+     "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
+     "summary": "OpenAI's announcement is the latest in a series of claimed scientific breakthroughs credited to AI.",
      "source": "Al Jazeera",
-     "published": "2026-10-26T05:18:00+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/He-follows-proceedings-on-his-computer-1788798143.jpg?resize=1920%2C1440",
+     "published": "2026-10-27T05:01:13+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26272792510419-1793062165_29dd33-1793062908.jpg?resize=1200%2C630&quality=80",
      "topic": "world"
     },
     {
-     "title": "Israel’s election: Five key things to know",
-     "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-     "summary": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
+     "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
+     "url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
+     "summary": "Top officials from four countries to continue talks on peace and security as Saudi forces down more Houthi missiles.",
      "source": "Al Jazeera",
-     "published": "2026-10-26T05:16:38+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ac7339d5de8-1791439773.jpg?resize=1920%2C1440",
+     "published": "2026-10-27T04:54:26+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-26T233433Z_1081693071_RC22BOALWLCL_RTRMADP_3_IRAN-CRISIS-MEETING-1793076559.jpg?resize=1920%2C1440",
      "topic": "world"
     },
     {
-     "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
-     "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-     "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on…",
-     "source": "The Guardian",
-     "published": "2026-10-26T05:10:03+00:00",
-     "image": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=700&quality=85&auto=format&fit=max&s=3c19cee491a48ee485c07eb2dd0e29a0",
-     "topic": "world"
-    },
-    {
-     "title": "Social video captures moment Brazil’s election turned",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
-     "summary": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing",
+     "title": "People missing after massive drilling platform sinks off Gabon",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss",
+     "summary": "Five people are missing after a massive offshore drilling platform sank into the sea off Gabon’s southern coast.",
      "source": "Al Jazeera",
-     "published": "2026-10-26T05:01:59+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792990911.jpg?resize=1920%2C1005&quality=80",
+     "published": "2026-10-27T04:45:16+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793076264.jpg?resize=1200%2C675",
      "topic": "world"
     },
     {
-     "title": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027",
-     "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-     "summary": "Official forecast indicates shortfall below 0.3% of national income in promised official development assistance The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year. Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development assistance at the end of…",
-     "source": "The Guardian",
-     "published": "2026-10-26T05:00:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/e4b910342ba76f8b20dec9eadb10a03041a5c598/939_0_4942_3956/master/4942.jpg?width=700&quality=85&auto=format&fit=max&s=69d3fbcd42afa0c0d0769a5be7257e78",
-     "topic": "world"
-    },
-    {
-     "title": "Bayeux tapestry becomes pop culture hit as young people more keen to see exhibition than top films",
-     "url": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
-     "summary": "Monzo says 55% of cardholders’ British Museum payments in first hour of latest ticket release were by people under 35 A 1,000-year-old embroidery may be an unusual candidate for a pop culture moment, but young people are seemingly more willing to shell out for tickets for the Bayeux tapestry than spend money on Hollywood blockbusters. In the first hour that the second round of tickets to view the tapestry were…",
-     "source": "The Guardian",
-     "published": "2026-10-26T05:00:21+00:00",
-     "image": "https://i.guim.co.uk/img/media/bfc206be8c79379be3126be1d918aae081856f0b/654_0_4261_3410/master/4261.jpg?width=700&quality=85&auto=format&fit=max&s=d71a46769df7da47efbd1aa3262f8fa1",
-     "topic": "world"
-    },
-    {
-     "title": "Bolsonaro calls for Brazil election result to be annulled",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
-     "summary": "Brazil’s right-wing Senator Flavio Bolsonaro has called for the presidential election result to be ‘annulled’.",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T04:36:46+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-04.32.04-1792989256.png?resize=1200%2C675",
-     "topic": "world"
-    },
-    {
-     "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
-     "url": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
-     "summary": "Judge questions Trump-led effort to exert greater influence over the electoral process ahead of upcoming midterm vote.",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T04:32:48+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ade9a0f-1792973327.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "Australian murderer loses bid to eat Vegemite in prison",
-     "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-     "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+     "title": "Meghan to co-host Junior MasterChef Australia",
+     "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+     "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
      "source": "BBC World",
-     "published": "2026-10-26T04:05:28+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0bc0/live/da50eaa0-c44c-11f0-86a7-5d9864ba6ed6.jpg",
+     "published": "2026-10-27T04:43:56+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg",
+     "topic": "world"
+    },
+    {
+     "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+     "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+     "summary": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovation companies on…",
+     "source": "The Guardian",
+     "published": "2026-10-27T04:42:50+00:00",
+     "image": "https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=700&quality=85&auto=format&fit=max&s=149d150cb6f70f57db190ca3521ec535",
+     "topic": "world"
+    },
+    {
+     "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
+     "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+     "summary": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxis One of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, the US military in Japan said on Tuesday. The ban, which went into effect this week at Kadena airbase on the southern Japanese island of Okinawa , has fueled…",
+     "source": "The Guardian",
+     "published": "2026-10-27T02:50:31+00:00",
+     "image": "https://i.guim.co.uk/img/media/9ce436c9418b683f9bbe3e031fa0c07c06401260/504_0_5455_4367/master/5455.jpg?width=700&quality=85&auto=format&fit=max&s=241bdd7e924aed35048fc513d0c1840e",
      "topic": "world"
     }
    ],
@@ -484,6 +484,78 @@
    "icon": "🏛️",
    "color": "#b8860b",
    "articles": [
+    {
+     "title": "Coordinating the Philosophy Profession’s Response to the Use of AI in Research",
+     "url": "https://dailynous.com/2026/10/26/coordinating-the-philosophy-professions-response-to-the-use-of-ai-in-research/",
+     "summary": "We have discussed in many posts here how artificial intelligence (AI) is affecting—and could affect—different aspects of academic philosophy’s research ecosystem. We have seen AI-written […]",
+     "source": "Daily Nous",
+     "published": "2026-10-26T13:00:44+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/10/traffic-light-all-on-binary-background-1024x686.jpg",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Linguistic​ and Conceptual Justice in AI",
+     "url": "https://dailynous.com/2026/10/26/linguistic-and-conceptual-justice-in-ai/",
+     "summary": "“Driven by the de facto dominance of English, AI multilingual alignment shows a form of cross-linguistic deference, a systematic tendency to resolve cross-linguistic disagreement by […]",
+     "source": "Daily Nous",
+     "published": "2026-10-26T12:00:00+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/10/ballero-antonio-Mattino-di-marzo-1024x635.png",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Reminder: World Philosophy Day Coming Up Next Month",
+     "url": "https://dailynous.com/2026/10/26/reminder-world-philosophy-day-coming-up-next-month/",
+     "summary": "World Philosophy Day this year is Thursday, November 19th, 2026. World Philosophy Day, created by the United Nations Educational, Scientific, and Cultural Organization (UNESCO), celebrates […]",
+     "source": "Daily Nous",
+     "published": "2026-10-26T11:00:00+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/10/Pesquet-Thomas-Sunrise-from-the-ISS-blue-gradient.jpg",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Great art explained: Tamara in the green Bugatti",
+     "url": "https://aeon.co/videos/the-bisexual-artist-who-reimagined-womanhood-for-the-jazz-age",
+     "summary": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish - by Aeon Video Watch on Aeon",
+     "source": "Aeon",
+     "published": "2026-10-26T10:01:00+00:00",
+     "image": "https://images.aeonmedia.co/images/5a3c3c18-274f-4f9e-be31-d162ed3da749/great-art-explained-tamara-in-the-green-bugatti-landscape-2026.jpg?width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "How to build real peace",
+     "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+     "summary": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on Aeon",
+     "source": "Aeon",
+     "published": "2026-10-26T10:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/8fd10da1-aaf3-42db-bfbe-7a7fe5af1814/v1-essay-gettyimages-1076552638.jpg?width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Everyone says they have anxiety. Clinical anxiety is different",
+     "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
+     "summary": "Anxiety put me in hospital. I’ve learned you can’t eradicate what is part of you – but you can change how you relate to it - by India Sturgis Read on Psyche",
+     "source": "Psyche",
+     "published": "2026-10-26T10:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/aa7df25e-05ae-4109-86cf-f6ae0620515a/sz-this-gettyimages-2215104767.jpg?top=254&left=0&cropWidth=2592&cropHeight=1458&width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Timothy Smiley (1930-2026)",
+     "url": "https://dailynous.com/2026/10/26/timothy-smiley-1930-2026/",
+     "summary": "Timothy John Smiley, professor emeritus of philosophy at the University of Cambridge, has died. Professor Smiley was known for his work in logic. He is […]",
+     "source": "Daily Nous",
+     "published": "2026-10-26T10:00:00+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/10/Smiley-Timothy.jpg",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Online Philosophy Resources Weekly Update",
+     "url": "https://dailynous.com/2026/10/26/online-philosophy-resources-weekly-update-445/",
+     "summary": "New and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more… . […]",
+     "source": "Daily Nous",
+     "published": "2026-10-26T09:00:00+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
+     "topic": "philosophy"
+    },
     {
      "title": "Modern life is stuck in a sea of sameness. The pursuit of beauty is a necessary antidote | Brigid Delaney",
      "url": "https://www.theguardian.com/world/2026/oct/24/modern-life-is-stuck-in-a-sea-of-sameness-the-pursuit-of-beauty-is-a-necessary-antidote",
@@ -530,84 +602,12 @@
      "topic": "philosophy"
     },
     {
-     "title": "Death Just Got Out of This Truck (guest post)",
-     "url": "https://dailynous.com/2026/10/22/death-just-got-out-of-this-truck-guest-post/",
-     "summary": "“There are, I find, things I want philosophy to do that it cannot. Or that I cannot do with it.” That’s Amy Olberding, professor of […]",
-     "source": "Daily Nous",
-     "published": "2026-10-22T12:36:06+00:00",
-     "image": "https://dailynous.com/wp-content/uploads/2026/10/McVicker-J-Jay-Nocturnal-Sequence-ao-1024x755.png",
-     "topic": "philosophy"
-    },
-    {
      "title": "Bhutan: the last place",
      "url": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
      "summary": "What happened when people in Bhutan, the last country on Earth without television, were allowed to watch it in 1999? - by Aeon Video Watch on Aeon",
      "source": "Aeon",
      "published": "2026-10-22T10:01:00+00:00",
      "image": "https://images.aeonmedia.co/images/92d2b7d3-2619-4d46-a6ab-15754363e1eb/bhutan-the-last-place-landscape-1-v2.jpg?width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
-     "title": "How to live a life of awe",
-     "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
-     "summary": "You don’t need to climb Kilimanjaro or see the Northern Lights to experience the benefits of awe. It’s everywhere if you look - Video by the University of California and the Greater Good Science Center Watch on Psyche",
-     "source": "Psyche",
-     "published": "2026-10-22T10:01:00+00:00",
-     "image": "https://images.aeonmedia.co/images/a06b67b7-aa2b-45ee-af27-6c06a73bb569/how-to-live-a-life-of-awe-landscape-1-v2.jpg?top=101&left=96&cropWidth=2368&cropHeight=1332&width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
-     "title": "Other people",
-     "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
-     "summary": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on Aeon",
-     "source": "Aeon",
-     "published": "2026-10-22T10:00:00+00:00",
-     "image": "https://images.aeonmedia.co/images/9bc0eb2d-bb6c-4037-8408-96e841ba02b7/essay-photo-.jpg?width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
-     "title": "Why romantic relationships matter more to men than to women",
-     "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
-     "summary": "For too long, men were told to be self-sufficient. The research shows they’re more likely to thrive in a loving couple - by Iris Wahring Read on Psyche",
-     "source": "Psyche",
-     "published": "2026-10-22T10:00:00+00:00",
-     "image": "https://images.aeonmedia.co/images/ce463318-1418-4468-a6ae-08a30a8971ff/sz-panos_00073854.jpg?top=117&left=0&cropWidth=2480&cropHeight=1395&width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
-     "title": "Mini-Heap",
-     "url": "https://dailynous.com/2026/10/22/mini-heap-733/",
-     "summary": "Latest links… Mini-Heap posts usually appear when several new items accumulate in the Heap of Links, a collection of items from around the web that may […]",
-     "source": "Daily Nous",
-     "published": "2026-10-22T08:00:00+00:00",
-     "image": "https://dailynous.com/wp-content/uploads/2022/01/miniheap-7-darkmode-compatible-1024x622.png",
-     "topic": "philosophy"
-    },
-    {
-     "title": "When it started to burn",
-     "url": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
-     "summary": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians - by Aeon Video Watch on Aeon",
-     "source": "Aeon",
-     "published": "2026-10-21T10:01:00+00:00",
-     "image": "https://images.aeonmedia.co/images/6c5e566f-cdc2-410f-8762-825565f1c6f3/when-it-started-to-burn-landscape-1.jpg?width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
-     "title": "Dear Al Pacino",
-     "url": "https://psyche.co/turning-points/why-i-wrote-mad-letters-to-celebrities-on-my-mothers-behalf",
-     "summary": "I wrote my mother’s mad letters to celebrities. It was the only time we shared the same plane of reality - by Joe Mullich Read on Psyche",
-     "source": "Psyche",
-     "published": "2026-10-21T10:00:00+00:00",
-     "image": "https://images.aeonmedia.co/images/8784b42e-0f46-4e3e-9a36-4e59bf521102/sz-this-gettyimages-1988735674.jpg?top=170&left=0&cropWidth=2768&cropHeight=1557&width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
-     "title": "New Series of Philosophical Puzzles",
-     "url": "https://dailynous.com/2026/10/20/new-series-of-philosophical-puzzles/",
-     "summary": "PEA Soup is running a new series of posts on philosophical puzzles and thought experiments. The idea of the series to “try out ideas and […]",
-     "source": "Daily Nous",
-     "published": "2026-10-20T14:03:45+00:00",
-     "image": "https://dailynous.com/wp-content/uploads/2026/10/Train-Tracks-by-Martin-Wacker-1024x681.png",
      "topic": "philosophy"
     }
    ],
@@ -644,6 +644,24 @@
    "icon": "💞",
    "color": "#e0457b",
    "articles": [
+    {
+     "title": "G Flip and Chrishell Stause have broken up and like many in the queer community, I’m in mourning | Rebecca Shaw",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/27/g-flip-and-chrishell-stause-split-queer-community-in-mourning",
+     "summary": "Love may not be dead, but it’s had a difficult morning. As much as I’d like a full investigative report, I will instead be getting on with life, as they will In this current bummer of a world, we often wake up to bad news. This morning, it was devastating. I picked up my phone and saw multiple texts asking me how I felt about the fact that … Chrishell Stause and G Flip have broken up. If those names seem like some…",
+     "source": "The Guardian",
+     "published": "2026-10-27T03:44:59+00:00",
+     "image": "https://i.guim.co.uk/img/media/967142883643eb17d5479bc82ea23c251e0b9386/964_461_3343_2673/master/3343.jpg?width=700&quality=85&auto=format&fit=max&s=742e272b89746113690b2e8557eae306",
+     "topic": "relationships"
+    },
+    {
+     "title": "Can You Learn to Feel More Loved?",
+     "url": "https://greatergood.berkeley.edu/article/item/can_you_learn_to_feel_more_loved",
+     "summary": "Imagine you have a colleague who remembers that you had a difficult appointment and checks in on you. Or a friend who is just there to listen without telling you what you should have done differently. We don’t tend to think of these experiences as grand declarations of love, but they leave us with a certain lingering warmth: the feeling of being loved. In our research, we coined the term felt love to focus on the…",
+     "source": "Greater Good",
+     "published": "2026-10-26T15:10:00+00:00",
+     "image": "https://ggsc.s3.us-west-2.amazonaws.com/assets/images/how_we_come_to_feel_loved_-_abcdef_-_0a21b39134b316e51cdc0dd96c5e6bca3c0093e9-fb_-_abcdef_-_94b15742ccdfc3b16fb1fe35872167fe8d42c35d.webp",
+     "topic": "relationships"
+    },
     {
      "title": "The kindness of strangers: After a tearful breakup dinner, another patron paid our bill",
      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/26/the-kindness-of-strangers-after-a-tearful-breakup-dinner-another-patron-paid-our-bill",
@@ -690,6 +708,15 @@
      "topic": "relationships"
     },
     {
+     "title": "What’s Important to Us When Making Political Decisions?",
+     "url": "https://greatergood.berkeley.edu/article/item/whats_important_to_us_when_making_political_decisions",
+     "summary": "A core assumption in any democracy is that citizens with access to information will make reasoned decisions on political candidates and policy issues. But a new study by UC Berkeley social scientists finds that Americans usually don’t consider the full scope of difficult issues, instead basing their opinions on mental shortcuts that sidestep complexity. The paper offers striking insight into the differences in…",
+     "source": "Greater Good",
+     "published": "2026-10-23T11:40:00+00:00",
+     "image": "https://ggsc.s3.us-west-2.amazonaws.com/assets/images/do_we_oversimplify_our_political_decisions__-_abcdef_-_0a21b39134b316e51cdc0dd96c5e6bca3c0093e9-fb_-_abcdef_-_94b15742ccdfc3b16fb1fe35872167fe8d42c35d.webp",
+     "topic": "relationships"
+    },
+    {
      "title": "How a Coffee-Shop Friendship Can Turn Into Emotional Cheating",
      "url": "https://www.gottman.com/blog/emotional-cheating/",
      "summary": "He told himself it was innocent. He didn't tell his wife.",
@@ -705,15 +732,6 @@
      "source": "Greater Good",
      "published": "2026-10-21T16:16:00+00:00",
      "image": "https://ggsc.s3.us-west-2.amazonaws.com/assets/images/how_to_stay_informed_but_not_overwhelmed_by_election_news_-_abcdef_-_0a21b39134b316e51cdc0dd96c5e6bca3c0093e9-fb_-_abcdef_-_94b15742ccdfc3b16fb1fe35872167fe8d42c35d.jpg",
-     "topic": "relationships"
-    },
-    {
-     "title": "Tell us: have you found new love after the age of 60?",
-     "url": "https://www.theguardian.com/lifeandstyle/2026/oct/21/tell-us-have-you-found-new-love-after-the-age-of-60",
-     "summary": "We’d like to hear from people who’ve found love in later life Getting older doesn’t need to mean the end of romance – and for some, it is just the beginning. Although relationships might look a little different after the age of 60, many people successfully find new love, companionship and connection in their later years. With this in mind, we want to hear from people whose love life has been renewed after the age of…",
-     "source": "The Guardian",
-     "published": "2026-10-21T12:25:31+00:00",
-     "image": "https://i.guim.co.uk/img/media/405064927c8f41d9f3475d0eec5f4b0812d99958/427_0_4267_3414/master/4267.jpg?width=700&quality=85&auto=format&fit=max&s=7f6b7b4080472876e411152dd65ef074",
      "topic": "relationships"
     },
     {
@@ -741,15 +759,6 @@
      "source": "The Gottman Institute",
      "published": "2026-10-20T17:00:00+00:00",
      "image": "https://www.gottman.com/wp-content/uploads/2026/10/GettyImages-1457729536.webp",
-     "topic": "relationships"
-    },
-    {
-     "title": "What a Fictional Robot Can Teach Us About Care",
-     "url": "https://greatergood.berkeley.edu/article/item/what_a_fictional_robot_can_teach_us_about_care",
-     "summary": "This essay contains mild spoilers for the novel Klara and the Sun. The baby, my baby, was to be named Josie. Josie Joy. But when she was born, she was decidedly not a Josie. The name was too soft, too ethereal for such a sentient, wide-awake, bird-like baby. I knew that I had to find a new name. Who are you? I whispered into the swirls of her astoundingly warm, circulated, and singularly perfect ear. I couldn’t wait…",
-     "source": "Greater Good",
-     "published": "2026-10-19T17:06:00+00:00",
-     "image": "https://ggsc.s3.us-west-2.amazonaws.com/assets/images/klara_and_the_sun_-_abcdef_-_0a21b39134b316e51cdc0dd96c5e6bca3c0093e9-fb_-_abcdef_-_94b15742ccdfc3b16fb1fe35872167fe8d42c35d.webp",
      "topic": "relationships"
     }
    ],
@@ -780,6 +789,42 @@
    "icon": "📈",
    "color": "#2e86de",
    "articles": [
+    {
+     "title": "Why Semi-Liquid Private Credit Funds Are in Fragile Territory",
+     "url": "https://knowledge.wharton.upenn.edu/article/why-semi-liquid-private-credit-funds-are-in-fragile-territory/",
+     "summary": "High redemption requests, insufficient new issuances, illiquid loans, and expensive bank borrowings create run-like conditions, according to a new paper. …",
+     "source": "Knowledge at Wharton",
+     "published": "2026-10-26T20:15:49+00:00",
+     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/10.28.26-goldstein-zeng-fragility-of-semi-liquid-private-credit-funds-GettyImages-2279537733-600x500.jpg",
+     "topic": "career"
+    },
+    {
+     "title": "Why Narcissistic Leaders Don’t Like Remote Work",
+     "url": "https://knowledge.wharton.upenn.edu/article/why-narcissistic-leaders-dont-like-remote-work/",
+     "summary": "A new study from Wharton’s Adam Grant finds narcissism is the common denominator among CEOs who are most resistant to remote and hybrid work. …",
+     "source": "Knowledge at Wharton",
+     "published": "2026-10-26T19:46:27+00:00",
+     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/10.28.26-grant-shandell-elliott-narcissistic-leader-remote-work-v2-GettyImages-2262239813-600x500.jpg",
+     "topic": "career"
+    },
+    {
+     "title": "Is HR Tech Undermining Your Strategy?",
+     "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
+     "summary": "Getty Images HR technology is no longer peripheral to how organizations operate. A fast-growing assortment of platforms is touching the employee life cycle and capturing workforce data. At the October 2025 HR Technology Conference, more than 400 vendors showcased their wares, including new AI-enabled offerings. But despite this wealth of options, industry and consulting reports […]",
+     "source": "MIT Sloan Management Review",
+     "published": "2026-10-26T11:00:29+00:00",
+     "image": "https://sloanreview.mit.edu/wp-content/uploads/2026/10/Wiblen-1290x860-1.jpg",
+     "topic": "career"
+    },
+    {
+     "title": "Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say",
+     "url": "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet",
+     "summary": "Exclusive: Ministers planning overhaul of apprenticeship funding to increase cost of over-25s training, Guardian understands Britain’s largest employers have told the government that forcing businesses to pay more to train older workers risks damaging its goal to tackle the youth jobs crisis. The Guardian understands ministers plan to overhaul Labour’s apprenticeship funding scheme to increase the cost of training a…",
+     "source": "The Guardian",
+     "published": "2026-10-26T06:00:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/04adfdcaf4f2415a8d8459af43fa003f737984d9/529_0_5303_4243/master/5303.jpg?width=700&quality=85&auto=format&fit=max&s=d15dff97438993dde4e049ec4576fd99",
+     "topic": "career"
+    },
     {
      "title": "Your boss might be an idiot - and 12 other things you need to know about work | Emma Beddington",
      "url": "https://www.theguardian.com/commentisfree/2026/oct/25/12-things-you-need-to-know-about-work",
@@ -853,15 +898,6 @@
      "topic": "career"
     },
     {
-     "title": "Wharton Accenture Agentic Cost Framework",
-     "url": "https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/",
-     "summary": "There is no excerpt because this is a protected post.",
-     "source": "Knowledge at Wharton",
-     "published": "2026-10-21T01:04:40+00:00",
-     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/01/WAIAI-Accenture_CoBrandArtboard@2x.png",
-     "topic": "career"
-    },
-    {
      "title": "NatWest cracks down on 13,000 staff attending office two days a month",
      "url": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
      "summary": "Union furious as bank scraps remote-first policy from February 2027, forcing all UK employees to come in at least twice a week NatWest has ordered 13,000 staff to increase their in-office days from two days a month to two days a week, angering its staff union. The banking group, which serves customers under the Royal Bank of Scotland, NatWest, Ulster Bank and Coutts brands, will require all of its nearly 40,000 UK…",
@@ -871,30 +907,12 @@
      "topic": "career"
     },
     {
-     "title": "The Next Phase of AI",
-     "url": "https://knowledge.wharton.upenn.edu/article/the-next-phase-of-ai/",
-     "summary": "In an excerpt from his new book, 'Co-Existence,' Wharton’s Ethan Mollick explores AI’s rapid advances and their inevitable impact on how we work and live. …",
-     "source": "Knowledge at Wharton",
-     "published": "2026-10-20T14:08:46+00:00",
-     "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/10.21.26-mollick-co-existence-book-excerpt-GettyImages-1461110089-600x500.jpg",
-     "topic": "career"
-    },
-    {
      "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
      "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
      "summary": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’ Healey to reject calls to raise CGT in budget Unemployment in the UK has fallen unexpectedly in the final snapshot of the jobs market before John Healey’s first budget next week. The jobless rate fell to 4.7% in the three months to August, from 4.9%, according to the Office for National…",
      "source": "The Guardian",
      "published": "2026-10-20T08:39:27+00:00",
      "image": "https://i.guim.co.uk/img/media/620a3507183ab101881df40acb747d5e30fe4448/451_0_4774_3819/master/4774.jpg?width=700&quality=85&auto=format&fit=max&s=394af4c20c16554700c33d9773dbf8fb",
-     "topic": "career"
-    },
-    {
-     "title": "Why Data Modeling Is Not Enough",
-     "url": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/",
-     "summary": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data science. Your data science team has built sophisticated models that produce demand predictions for the company’s products with impressive accuracy. Yet, when the CEO, seeking to increase profit, asks you how much inventory should be held […]",
-     "source": "MIT Sloan Management Review",
-     "published": "2026-10-19T11:00:59+00:00",
-     "image": "https://sloanreview.mit.edu/wp-content/uploads/2026/08/Camm_Decision-1290x860-1.jpg",
      "topic": "career"
     }
    ],
