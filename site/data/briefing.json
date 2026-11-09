@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-08T11:54:52.829004+00:00",
+ "generated_at": "2026-11-09T13:51:56.868404+00:00",
  "highlights": [
-  "https://www.psypost.org/when-a-partner-wont-apologize-anxiously-attached-people-may-hold-bigger-grudges/",
-  "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
-  "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-  "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story",
-  "https://www.theguardian.com/lifeandstyle/2026/nov/08/this-is-how-we-do-it-leaving-our-cult-has-made-sex-more-intimate",
-  "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/the-hidden-consequences-of-losing/",
-  "https://www.sciencedaily.com/releases/2026/11/261104012303.htm"
+  "https://www.psypost.org/traditional-masculinity-beliefs-linked-to-sharper-testosterone-drops-in-dads-caring-for-preschoolers/",
+  "https://medicalxpress.com/news/2026-11-magnetic-fields-revive-intracellular-als.html",
+  "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
+  "https://dailynous.com/2026/11/09/david-lyons-1935-2026/",
+  "https://www.theguardian.com/society/2026/nov/08/what-are-you-yearning-for-we-took-to-the-streets-to-find-out",
+  "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/",
+  "https://www.sciencedaily.com/releases/2026/11/261108233057.htm"
  ],
  "topics": [
   {
@@ -17,12 +17,57 @@
    "color": "#7c5cff",
    "articles": [
     {
-     "title": "When a partner won’t apologize, anxiously attached people may hold bigger grudges",
-     "url": "https://www.psypost.org/when-a-partner-wont-apologize-anxiously-attached-people-may-hold-bigger-grudges/",
-     "summary": "Why do some people hold grudges after a fight? A new study suggests that for people who fear rejection, a partner’s refusal to apologize is linked to more grudge-holding, avoidance, and difficulty forgiving.",
+     "title": "Traditional masculinity beliefs linked to sharper testosterone drops in dads caring for preschoolers",
+     "url": "https://www.psypost.org/traditional-masculinity-beliefs-linked-to-sharper-testosterone-drops-in-dads-caring-for-preschoolers/",
+     "summary": "Fathers who hold more traditional beliefs about manhood showed steeper drops in testosterone while spending an hour alone with their preschoolers, a finding that ran opposite to what the researchers expected.",
      "source": "PsyPost",
-     "published": "2026-11-08T11:00:48+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/03/upset-couple.jpg",
+     "published": "2026-11-09T13:00:29+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/11/father-with-children.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Shouting, hitting, and taking away privileges are linked to toddlers’ behavior problems across 14 countries",
+     "url": "https://www.psypost.org/shouting-hitting-and-taking-away-privileges-are-linked-to-toddlers-behavior-problems-across-14-countries/",
+     "summary": "In a study of 865 toddlers across 14 countries, mothers who shouted, hit, or took away privileges more often reported more behavioral and emotional problems in their children. Time-outs and asking children to reflect showed no such link.",
+     "source": "PsyPost",
+     "published": "2026-11-09T12:00:26+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/11/sad-toddler-boy-child.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Human brains track who did what to whom in ways AI language models don’t, fMRI study suggests",
+     "url": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+     "summary": "Large language models can sound remarkably human, but a brain imaging study suggests they organize sentence meaning differently from people when word order changes the meaning, as in “the dog bit the man” versus “the man bit the dog.”",
+     "source": "PsyPost",
+     "published": "2026-11-09T11:00:24+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/05/brain-connections.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Waiting to have sex linked to lower depression risk later in life",
+     "url": "https://www.psypost.org/delaying-first-sexual-experience-linked-to-lower-depression-risk-through-economi/",
+     "summary": "Waiting until older ages to have sex for the first time is associated with a lower risk of adult depression. A new study indicates this reduced risk is largely driven by higher educational achievement and increased household income.",
+     "source": "PsyPost",
+     "published": "2026-11-09T01:00:00+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2024/08/asian-woman.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "AI chatbots can flip-flop on false claims when users keep repeating them",
+     "url": "https://www.psypost.org/ai-chatbots-can-flip-flop-on-false-claims-when-users-keep-repeating-them/",
+     "summary": "What happens when a user keeps insisting that a square has five sides? A study of seven large language models found that sustained conversational pressure exposed weaknesses that single-question tests can miss.",
+     "source": "PsyPost",
+     "published": "2026-11-08T23:00:01+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2025/10/artificial-intelligence.jpg",
+     "topic": "psychology"
+    },
+    {
+     "title": "Toddler temperament is linked to common DNA variations, large genetic study finds",
+     "url": "https://www.psypost.org/toddler-temperament-is-linked-to-common-dna-variations-large-genetic-study-finds/",
+     "summary": "Why do some toddlers charge into a room of strangers while others hang back? A study of tens of thousands of children links early temperament to common DNA variations that overlap with those tied to ADHD and autism.",
+     "source": "PsyPost",
+     "published": "2026-11-08T21:00:55+00:00",
+     "image": "https://www.psypost.org/wp-content/uploads/2026/01/DNA.jpg",
      "topic": "psychology"
     },
     {
@@ -41,51 +86,6 @@
      "source": "ScienceDaily",
      "published": "2026-11-08T04:47:52+00:00",
      "image": "https://www.sciencedaily.com/images/1920/brain-scan-disease-glitch.webp",
-     "topic": "psychology"
-    },
-    {
-     "title": "People prefer slightly protruding jaws over perfectly straight facial profiles",
-     "url": "https://www.psypost.org/public-prefers-slightly-protruding-jaws-over-perfectly-straight-facial-profiles/",
-     "summary": "A recent survey reveals that everyday people prefer facial profiles with slightly protruding upper jaws over perfectly neutral alignments, highlighting a gap between clinical geometric ideals and actual public aesthetic tastes.",
-     "source": "PsyPost",
-     "published": "2026-11-07T23:00:48+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/09/happy-woman.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "Subtle mood changes in late life may follow early Alzheimer’s brain changes, study suggests",
-     "url": "https://www.psypost.org/subtle-mood-changes-in-late-life-may-follow-early-alzheimers-brain-changes-study-suggests/",
-     "summary": "Does brain pathology spark low mood, or the other way around? In older adults without memory problems, buildup of the Alzheimer’s-related protein tau tended to come first, followed by small increases in depressive symptoms.",
-     "source": "PsyPost",
-     "published": "2026-11-07T21:00:31+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/11/brain-1.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "New study identifies daily communication and personal mindset as key predictors of marital sexual activity",
-     "url": "https://www.psypost.org/sexual-inactivity-rates-differ-between-married-couples-in-the-united-states-and/",
-     "summary": "Married couples in South Korea report higher rates of sexual inactivity than their American counterparts, according to a large survey. The research highlights how work hours, income, and communication styles relate to intimacy in different cultural environments.",
-     "source": "PsyPost",
-     "published": "2026-11-07T19:00:29+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2024/09/older-couple-in-bed.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "What 25,000 conversations with a psychedelic helpline show about who seeks help",
-     "url": "https://www.psypost.org/what-25000-conversations-with-a-psychedelic-helpline-show-about-who-seeks-help/",
-     "summary": "Who calls a psychedelic helpline? An analysis of nearly five years of calls and texts found that psilocybin dominated, cannabis showed up often, and most callers whose setting was recorded were going through it alone.",
-     "source": "PsyPost",
-     "published": "2026-11-07T17:00:26+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2026/11/psychedelic-hotline-caller.jpg",
-     "topic": "psychology"
-    },
-    {
-     "title": "Brain connectivity pattern predicts treatment response in cocaine use disorder",
-     "url": "https://www.psypost.org/brain-connectivity-pattern-predicts-treatment-response-in-cocaine-use-disorder/",
-     "summary": "Researchers have identified a unique brain connectivity pattern linked to cocaine use disorder. This biological marker can distinguish patients from healthy individuals and predict whether they will respond to magnetic brain stimulation therapies to reduce cravings.",
-     "source": "PsyPost",
-     "published": "2026-11-07T15:00:24+00:00",
-     "image": "https://www.psypost.org/wp-content/uploads/2025/05/neurons-4.jpg",
      "topic": "psychology"
     },
     {
@@ -171,129 +171,129 @@
    "color": "#0fa3b1",
    "articles": [
     {
-     "title": "A 24-hour fast triggers a surprising repair response in the gut",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
-     "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.",
-     "source": "ScienceDaily",
-     "published": "2026-11-08T11:06:30+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/rnascope-image-of-small-intestinal-crypts.webp",
+     "title": "Magnetic fields can revive intracellular transport in ALS",
+     "url": "https://medicalxpress.com/news/2026-11-magnetic-fields-revive-intracellular-als.html",
+     "summary": "A study led by cell biologist Dr. Arun Pal at the HZDR, in collaboration with research partners in Dresden and Rostock, has found that electromagnetic alternating fields can partially reverse key pathological changes in human nerve cells. The finding has been published in the journal Cells.",
+     "source": "Medical Xpress",
+     "published": "2026-11-09T13:40:02+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-fields-can-re.jpg",
      "topic": "medicine"
     },
     {
-     "title": "MIT scientists turn immune cells into cancer killers inside the body",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
-     "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make powerful immune therapies dramatically simpler and less expensive while opening new possibilities for treating cancer and autoimmune diseases.",
-     "source": "ScienceDaily",
-     "published": "2026-11-08T10:52:31+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/targeted-lipid-nanoparticles-deliver-mrna-to-nk-cells.webp",
+     "title": "Cleaner bedroom air may help manage blood sugar in prediabetes",
+     "url": "https://medicalxpress.com/news/2026-11-cleaner-bedroom-air-blood-sugar.html",
+     "summary": "Using portable filters to reduce exposure to air pollution during sleep may stabilize the large spikes in blood sugar experienced by people with prediabetes, a condition in which sugar (glucose) levels are higher than normal, a new study shows.",
+     "source": "Medical Xpress",
+     "published": "2026-11-09T13:20:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/bedroom.jpg",
      "topic": "medicine"
     },
     {
-     "title": "Low testosterone linked to 18% higher risk of dying from cancer",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261104012301.htm",
-     "summary": "A major international study tracking more than 26,000 men found that very low testosterone levels were associated with an 18% higher risk of dying from cancer later in life. Surprisingly, testosterone itself showed no clear link to prostate cancer, although two other sex hormones did. Researchers believe low testosterone could be an important early warning sign of future health risks, particularly when levels fall…",
-     "source": "ScienceDaily",
-     "published": "2026-11-08T10:10:50+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/dangerous-glowing-cancer-cell.webp",
-     "topic": "medicine"
-    },
-    {
-     "title": "‘What is this emotion telling me?’ How anger, fear and jealousy can point the way to a better life",
-     "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/what-is-this-emotion-telling-me-how-anger-fear-and-jealousy-can-point-the-way-to-a-better-life",
-     "summary": "It’s tempting to ignore uncomfortable feelings – but maybe they’re the key to a happier, more successful future. Time to increase your psychological flexibility … Something infuriating happened to me recently. My local gym closed down, and overnight what I laughingly call my fitness regime was toast. Quite literally, because now instead of plodding, spinning and lifting tiny dumbbells, I was spending my early…",
+     "title": "1 in 2 review – compassionate film about dealing with bowel cancer is a personal plea on behalf of the young",
+     "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson",
+     "summary": "David Wilkinson made this warm, generous documentary of his own treatment, and asks why so many much younger people are getting the same diagnosis ‘I am lucky, as I have become old.” That is the pithy, personal summary offered by English film-maker David Wilkinson, whose previous movie was his thoughtful, eloquent film The Marbles , which reopened the case for the restitution of the Parthenon marbles to Greece. Now…",
      "source": "The Guardian",
-     "published": "2026-11-08T10:00:37+00:00",
-     "image": "https://i.guim.co.uk/img/media/4bc3317eee37ffeab6cf85046c6c38af9d4dbe36/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=5b5b3078a1ad592ddd5ae0678b5bdfd0",
+     "published": "2026-11-09T13:00:10+00:00",
+     "image": "https://i.guim.co.uk/img/media/6a6c084e58c86744bf49cc6952f1b8d982d9625f/509_0_2353_1882/master/2353.jpg?width=700&quality=85&auto=format&fit=max&s=328e2e41e097e4a2243082c42180cdfe",
      "topic": "medicine"
     },
     {
-     "title": "'Cancer treatment plummeted me into menopause'",
-     "url": "https://www.bbc.co.uk/news/articles/ckr5y8ze8me7o?at_medium=RSS&at_campaign=rss",
-     "summary": "Women are calling for more support to deal with menopause caused by their cancer treatment.",
-     "source": "BBC Health",
-     "published": "2026-11-08T09:17:32+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/61ca/live/769d2ea0-d9fa-11f1-a701-fddedf244c16.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
-     "url": "https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&at_campaign=rss",
-     "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
-     "source": "BBC Health",
-     "published": "2026-11-08T07:04:36+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Scientists discover hidden brain changes linked to common sleep disorders",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
-     "summary": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior. The findings, drawn from 57 brain imaging studies, reveal both shared and disorder-specific patterns that could lead to more targeted treatments.",
-     "source": "ScienceDaily",
-     "published": "2026-11-08T04:47:52+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/brain-scan-disease-glitch.webp",
-     "topic": "medicine"
-    },
-    {
-     "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
-     "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who received a high-dose influenza vaccine had a nearly 55% lower risk of developing Alzheimer's, compared with a 40% reduction previously associated with the standard-dose…",
-     "source": "ScienceDaily",
-     "published": "2026-11-08T02:52:28+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/elderly-patient-doctor-vaccine-injection.webp",
-     "topic": "medicine"
-    },
-    {
-     "title": "Scientists discover a hidden warning sign of cannabis addiction",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261106174520.htm",
-     "summary": "A study of more than 17,700 US adults found that people who use cannabis in multiple forms have dramatically higher rates of daily consumption and addiction symptoms than those who stick primarily to one method. Nearly 67% of those who used almost every form met criteria for cannabis use disorder, compared with just 15% of people who mainly consumed edibles.",
-     "source": "ScienceDaily",
-     "published": "2026-11-08T01:27:46+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/cannabis-effects-brain-mental-health.webp",
-     "topic": "medicine"
-    },
-    {
-     "title": "Financial incentives nearly double quit rates among underserved people who smoke in national study",
-     "url": "https://medicalxpress.com/news/2026-11-financial-incentives-underserved-people-national.html",
-     "summary": "Offering financial incentives to people trying to quit smoking nearly doubled cessation rates among medically underserved adults undergoing lung cancer screening, according to a large national clinical trial involving Henry Ford Health.",
-     "source": "Medical Xpress",
-     "published": "2026-11-07T22:00:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/quit-smoking.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Potential driver of severe early-onset preeclampsia identified",
-     "url": "https://medicalxpress.com/news/2026-11-potential-driver-severe-early-onset.html",
-     "summary": "Severe early-onset preeclampsia has confounded doctors for more than 2,000 years. It can strike as early as 20 weeks into pregnancy, sending blood pressure soaring and putting both the mother and baby at risk.",
-     "source": "Medical Xpress",
-     "published": "2026-11-07T19:00:06+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-working-wi.jpg",
-     "topic": "medicine"
-    },
-    {
-     "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
-     "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
-     "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s right to have a midwife rather than a doctor oversee their baby’s birth, say campaigners. Twelve birth centres – midwife-led maternity units – have closed in England since 2019. Birth centres play a key…",
+     "title": "It’s not too late to get it: what to know about getting the flu vaccine this year",
+     "url": "https://www.theguardian.com/wellness/2026/nov/09/flu-vaccine-what-to-know",
+     "summary": "Influenza arrived early this year and though the CDC considers activity to be low, infections are expected to rise in the coming weeks Influenza arrived early this year, popping up on the west coast “about two and a half months earlier than normal”, says Dr Michael Osterholm, director of the Center for Infectious Disease Research and Policy at the University of Minnesota – a timeline not seen since the 2010 season.…",
      "source": "The Guardian",
-     "published": "2026-11-07T17:00:16+00:00",
-     "image": "https://i.guim.co.uk/img/media/c3c6b99f0a024d3deb184dea44054eed0944f26e/149_0_4233_3386/master/4233.jpg?width=700&quality=85&auto=format&fit=max&s=10629f00782edfa2ef9205c563f8a6bc",
+     "published": "2026-11-09T13:00:09+00:00",
+     "image": "https://i.guim.co.uk/img/media/1c4a8db03fc9dd4fd3a703a3f27a1bd6264266c9/623_0_5840_4672/master/5840.jpg?width=700&quality=85&auto=format&fit=max&s=731be76bbc3f77a132ff28e47c048e33",
      "topic": "medicine"
     },
     {
-     "title": "Normal-looking sleep can mask memory problems, study suggests",
-     "url": "https://medicalxpress.com/news/2026-11-mask-memory-problems.html",
-     "summary": "A new mouse study that set out to test how sleep helps stabilize new memories has identified cells that may offer a genetic target for accessing circuits implicated in cognitive disorders. Researchers led by Min Xu and Wanling Peng from the Institute of Neuroscience at the Chinese Academy of Sciences focused on interneurons that gate the generation of ripples, which are brief bursts of electrical activity that are…",
+     "title": "Concussion study upends understanding of what makes head impacts dangerous",
+     "url": "https://medicalxpress.com/news/2026-11-concussion-upends-impacts-dangerous.html",
+     "summary": "Concussions—essentially mild traumatic brain injuries—are among the most common injuries sustained on athletic fields. In the U.S., an estimated 3.8 million sports-related concussions occur every year. But new research by Stanford Medicine scientists and collaborators suggests that the prevailing understanding of the forces that lead to concussion may be missing the mark.",
      "source": "Medical Xpress",
-     "published": "2026-11-07T15:40:01+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/older-person-sleeping.jpg",
+     "published": "2026-11-09T13:00:09+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/football-helmet-1.jpg",
      "topic": "medicine"
     },
     {
-     "title": "New treatment may cure common hormonal cause of high blood pressure",
-     "url": "https://medicalxpress.com/news/2026-11-treatment-common-hormonal-high-blood.html",
-     "summary": "A study led by Queen Mary University of London has found that a new treatment could offer a lasting cure for some people with a common hormonal cause of high blood pressure, even after they stop taking medication.",
+     "title": "Senior doctors at Glasgow hospital in care delay warning",
+     "url": "https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o?at_medium=RSS&at_campaign=rss",
+     "summary": "Consultants at the Queen Elizabeth University Hospital say conditions for emergency patients there are deteriorating.",
+     "source": "BBC Health",
+     "published": "2026-11-09T12:53:36+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e4af/live/b8745950-dc3b-11f1-a701-fddedf244c16.png",
+     "topic": "medicine"
+    },
+    {
+     "title": "‘A complete repudiation’: public health won big in US midterm elections",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/public-health-midterm-elections-changes",
+     "summary": "Election wins of Annie Andrews, Abdul El-Sayed and more who ran on healthcare issues are viewed as sign of home as Trump administration unravels US health policy Public health leaders and politicians who made healthcare a central part of their platforms swept into office in the US midterm elections last week, setting the stage for national, state and local changes. Voters, faced with an unprecedented rise in…",
+     "source": "The Guardian",
+     "published": "2026-11-09T12:00:08+00:00",
+     "image": "https://i.guim.co.uk/img/media/e6e4a2f7a40c737a07c694f382875dbeb3b587ed/66_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=73099d628336267b61d46e498dad9db5",
+     "topic": "medicine"
+    },
+    {
+     "title": "Psychiatric intensive care unit for women to open",
+     "url": "https://www.bbc.co.uk/news/articles/cmly0dk420rgo?at_medium=RSS&at_campaign=rss",
+     "summary": "The unit will care for women with serious mental health needs in Kent and Medway.",
+     "source": "BBC Health",
+     "published": "2026-11-09T11:45:04+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2513/live/8e9c0f60-dc2c-11f1-958b-3f65a8ba2dc3.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "Common supplement could help fight psoriasis, scientists discover",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+     "summary": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol and autoimmune inflammation.",
+     "source": "ScienceDaily",
+     "published": "2026-11-09T11:44:20+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/woman-pouring-vitamin-d-omega-3-vitamin-supplements-into-hand.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+     "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift gut bacteria toward producing beneficial substances, revealing a surprising new reason plant-based diets may be good for you.",
+     "source": "ScienceDaily",
+     "published": "2026-11-09T11:32:00+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "Scientists discover a surprising link between acorns and lyme disease",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+     "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year. Even acorn production can predict tick population surges two years in advance, while extreme temperatures may be far less deadly to ticks…",
+     "source": "ScienceDaily",
+     "published": "2026-11-09T10:59:35+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/acorn-in-forest.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "A simple supplement may help clear brain fog after cancer",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+     "summary": "A surprising new study from UCLA suggests that a naturally occurring molecule could help breast cancer survivors overcome the frustrating brain fog and exhaustion that can linger long after treatment ends. Researchers found that women taking an oxaloacetate supplement for eight weeks experienced substantial improvements in memory, concentration, mental clarity, and fatigue.",
+     "source": "ScienceDaily",
+     "published": "2026-11-09T10:33:23+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/brain-fog-woman-head-in-clouds.webp",
+     "topic": "medicine"
+    },
+    {
+     "title": "Experimental mRNA therapy promotes repair after heart attack damage",
+     "url": "https://medicalxpress.com/news/2026-11-experimental-mrna-therapy-heart.html",
+     "summary": "Scientists have developed a treatment that 'reawakens' heart muscle cells so they start to divide and help repair damaged muscle.",
      "source": "Medical Xpress",
-     "published": "2026-11-07T14:40:06+00:00",
-     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-blood-pressure-2.jpg",
+     "published": "2026-11-09T10:00:10+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/experimental-treatment-3.jpg",
+     "topic": "medicine"
+    },
+    {
+     "title": "AI predicts PTSD risk based on stories about what brought patients to the emergency room",
+     "url": "https://medicalxpress.com/news/2026-11-ai-ptsd-based-stories-brought.html",
+     "summary": "An AI tool can analyze patients' narratives about injuries that sent them to the emergency room to predict who will later develop posttraumatic stress disorder (PTSD), a new study found.",
+     "source": "Medical Xpress",
+     "published": "2026-11-09T10:00:01+00:00",
+     "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/therapy-ptsd.jpg",
      "topic": "medicine"
     }
    ],
@@ -331,129 +331,129 @@
    "color": "#e4572e",
    "articles": [
     {
-     "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-     "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-     "summary": "Israel's former military chief has been given the opportunity to form a government after an inconclusive election.",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T11:34:58+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae72d243514-1793535268.jpg?resize=1920%2C1440",
+     "title": "‘Obvious risk of further tragedy’ at rail crossing type at which Amazon driver died, inquiry finds",
+     "url": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
+     "summary": "Call for overhaul of manually operated level crossings after delivery worker was killed by passenger train in Kent An Amazon delivery driver was killed by a train after he drove his van on to railway tracks at a manually operated level crossing, apparently without realising he needed to open the exit gate first, an official investigation has reported. Safety inspectors said there was “an obvious risk of further…",
+     "source": "The Guardian",
+     "published": "2026-11-09T13:43:57+00:00",
+     "image": "https://i.guim.co.uk/img/media/2c9380b8b1020412df6921ea4a4e0e4d68512f5c/511_0_7678_6144/master/7678.jpg?width=700&quality=85&auto=format&fit=max&s=634c375617d3ae986b287a3bd996bad2",
      "topic": "world"
     },
     {
-     "title": "What we know so far after Krakow gun attack",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+     "title": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault – latest updates",
+     "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+     "summary": "Prosecuting barrister asks for a ‘category one’ sentencing length which ranges from 10 to 15 years Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports.",
+     "source": "The Guardian",
+     "published": "2026-11-09T13:38:48+00:00",
+     "image": "https://i.guim.co.uk/img/media/db2ce7f0c0ff0af5e5eb6902720b89424f4bce10/62_0_5355_4284/master/5355.jpg?width=700&quality=85&auto=format&fit=max&s=2c6255bd89c60807dafbd90191b3f725",
+     "topic": "world"
+    },
+    {
+     "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
+     "summary": "Terrorism investigation was opened after attacker opened fire in a market square AFP has a quick snap that Ukraine is to hold “separate” meetings with Europeans and Nato in Abu Dhabi. The Kremlin earlier insisted no other European nations would be involved. The US-mediated talks are expected to start tomorrow. Canada is expanding ⁠its ⁠Russia-related sanctions ​to target ⁠another 38 ⁠entities ​and ‌24 ‌individuals…",
+     "source": "The Guardian",
+     "published": "2026-11-09T13:34:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=df99f6c7699e53172e0148a9b9a7f1af",
+     "topic": "world"
+    },
+    {
+     "title": "Burnham says bravery of Brand’s victims will change the justice system to better support survivors – UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+     "summary": "The prime minister said he wants police forces to have dedicated rape and serious sexual offence teams by the end of 2027 Downing Street has insisted that the government remains committed to the principle of the zero emission vehicle (ZEV) mandate – while not denying today’s Guardian report saying interim targets to achieve it are set to be watered down. (See 9.26am .) Asked about the story at the daily lobby…",
+     "source": "The Guardian",
+     "published": "2026-11-09T13:24:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=700&quality=85&auto=format&fit=max&s=99a75b60f798f164b9e2d204cbf273ea",
+     "topic": "world"
+    },
+    {
+     "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+     "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+     "summary": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T13:15:27+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af1c70b873f-1794230027_167d12-1794230096.jpg?resize=1200%2C630&quality=80",
+     "topic": "world"
+    },
+    {
+     "title": "Which Republicans are running for minority leadership roles in Congress?",
+     "url": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
+     "summary": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities.",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T13:14:57+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26310847170365-1794176472.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+     "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
      "source": "BBC World",
-     "published": "2026-11-08T11:22:17+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+     "published": "2026-11-09T13:10:32+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
      "topic": "world"
     },
     {
-     "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
-     "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
-     "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent As the planet faces unprecedented human-caused global heating, heads of government are meeting for the next fortnight for the latest round of climate talks. We ask why it matters and what is likely to be achieved.",
-     "source": "The Guardian",
-     "published": "2026-11-08T11:00:38+00:00",
-     "image": "https://i.guim.co.uk/img/media/d6b690af57abc6ab43cbd2a94e2f483c2480349a/18_0_4233_3386/master/4233.jpg?width=700&quality=85&auto=format&fit=max&s=3158c6f0dbe7df573f5719e026d1d18d",
-     "topic": "world"
-    },
-    {
-     "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
-     "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
-     "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949 For almost eight decades the artists’ model Louise Cansot, the subject of the novel winning France’s most prestigious literary prize this year, was one of Paris’s forgotten murder victims. After her body was found near the Seine in September 1949, city police wrote off the young…",
-     "source": "The Guardian",
-     "published": "2026-11-08T11:00:38+00:00",
-     "image": "https://i.guim.co.uk/img/media/64568384f0ba20fb1fa5662cf34b808631acc22a/0_205_1343_1074/master/1343.jpg?width=700&quality=85&auto=format&fit=max&s=6044400744e47594b697ccf08480b26a",
-     "topic": "world"
-    },
-    {
-     "title": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer",
-     "summary": "Margaret Parkes and her husband, in their 80s, want Allan Grimson to reveal location of their son Simon’s remains The mother of a teenage Royal Navy sailor who vanished 40 years ago has called for a “serial killer” suspected of murdering him to finally reveal where her son’s body is hidden. Speaking as Simon Parkes’ suspected murderer, the former navy petty officer Allan Grimson, was sentenced for sexual offences…",
-     "source": "The Guardian",
-     "published": "2026-11-08T11:00:37+00:00",
-     "image": "https://i.guim.co.uk/img/media/841be306ef3aa3c277d9e059ce076c22b6268a97/1268_160_4885_3908/master/4885.jpg?width=700&quality=85&auto=format&fit=max&s=7476b2739162dce30fb378d10239dd32",
-     "topic": "world"
-    },
-    {
-     "title": "Who’s who at Cop31: key players at the climate talks",
-     "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-     "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021 , while in opposition, before his successful election campaign. But arcane rules meant the country had to wait its turn to bid and was then embroiled in an angry row with Turkey over the hosting . The final…",
-     "source": "The Guardian",
-     "published": "2026-11-08T11:00:16+00:00",
-     "image": "https://i.guim.co.uk/img/media/72678bea25c1a92a183def8f6052f58a39fa3e5a/790_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=23270e0eaccd405ef9d446499ed7f437",
-     "topic": "world"
-    },
-    {
-     "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
-     "url": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss",
-     "summary": "The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs.",
+     "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
+     "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
+     "summary": "Teachers across the country say their pay no longer covers basic living costs.",
      "source": "Al Jazeera",
-     "published": "2026-11-08T10:50:12+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261108__D6TB63J__v1__HighRes__MlsRegularSeasonFootballMatchBetweenInterMiamiC-1794133062.jpg?resize=1920%2C1440",
+     "published": "2026-11-09T13:08:35+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261106-1794223089.jpg?resize=1200%2C630",
      "topic": "world"
     },
     {
-     "title": "After rebel offensive, efforts to push them back appear to have stalled",
-     "url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-     "summary": "Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle",
+     "title": "China rejects ‘baseless’ claims it spied on Nvidia boss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss",
+     "summary": "China denies spying on Nvidia boss Jensen Huang as the company probes his affair with an alleged intelligence agent.",
      "source": "Al Jazeera",
-     "published": "2026-11-08T10:28:08+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ThumbnailProject-Force-Wide-1794133620.jpg?resize=1920%2C1080&quality=80",
+     "published": "2026-11-09T13:02:46+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794229194.jpg?resize=1920%2C1080&quality=80",
      "topic": "world"
     },
     {
-     "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-     "url": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
-     "summary": "Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine's Marta Kostyuk replacing the top seed.",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T10:03:21+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261030__D4VX663__v1__HighRes__TennisWtaJpn-1794126882.jpg?resize=1800%2C1200&quality=80",
-     "topic": "world"
-    },
-    {
-     "title": "Briton among six dead after gunman opens fire in Kraków market square",
-     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-     "summary": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ views Six people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city. The suspect, a 25-year-old Polish citizen, opened fire with an automatic weapon in the city’s main square at about…",
-     "source": "The Guardian",
-     "published": "2026-11-08T09:30:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/3d8244fe8422d5c0105861b7f544fc699f6bec58/1148_0_5909_4727/master/5909.jpg?width=700&quality=85&auto=format&fit=max&s=82c41f9da2bd275feb7f13bf191a5c45",
-     "topic": "world"
-    },
-    {
-     "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-     "url": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-     "summary": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T09:30:17+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af03ff8b36f-1794129912.jpg?resize=1920%2C1440",
-     "topic": "world"
-    },
-    {
-     "title": "How the deadly shooting in Krakow unfolded",
-     "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-     "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+     "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+     "summary": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
      "source": "BBC World",
-     "published": "2026-11-08T09:29:24+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg",
+     "published": "2026-11-09T12:33:24+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg",
      "topic": "world"
     },
     {
-     "title": "Floods in Gaza leave tens of thousands without shelter",
-     "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
-     "summary": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.",
+     "title": "Partial collapse of Pakistan’s Tarbela dam causes flood water surge",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss",
+     "summary": "A protective barrier collapsed at the partially-constructed Tarbela Dam T-5 hydropower project in Pakistan.",
      "source": "Al Jazeera",
-     "published": "2026-11-08T09:28:52+00:00",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2303444743-1794134060.jpg?resize=1920%2C1440",
+     "published": "2026-11-09T12:16:20+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-clean-1794226555.jpg?resize=1920%2C1080&quality=80",
      "topic": "world"
     },
     {
-     "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
-     "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
-     "summary": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden. The brightly coloured buildings are getting another coat of paint. The choir rehearses. Hundreds of other residents, several of them using wheelchairs, practise their positions outside the sanctuary. Excitement is in the air, because on Monday 9 November, the…",
-     "source": "The Guardian",
-     "published": "2026-11-08T09:00:35+00:00",
-     "image": "https://i.guim.co.uk/img/media/69382c7253bd848478bf7c1f031a9d97c2de58fb/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=99323030904fc85b3a2e09201b96bfa7",
+     "title": "At least 21 migrants and refugees die trying to reach Greece’s Crete",
+     "url": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss",
+     "summary": "Greece's coastguard said more than 100 people rescued in several operations off the southern coast of Crete.",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T12:06:19+00:00",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T152314Z_1713350158_RC2OFOANZHXJ_RTRMADP_3_EUROPE-MIGRANTS-GREECE-1794211382.jpg?resize=1920%2C1440",
+     "topic": "world"
+    },
+    {
+     "title": "Krakow shooting suspect has died in hospital, police say",
+     "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+     "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+     "source": "BBC World",
+     "published": "2026-11-09T11:56:25+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/707b/live/625f7400-dc3b-11f1-b441-2b33b063138f.jpg",
+     "topic": "world"
+    },
+    {
+     "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+     "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+     "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+     "source": "BBC World",
+     "published": "2026-11-09T10:59:26+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png",
      "topic": "world"
     }
    ],
@@ -484,6 +484,51 @@
    "icon": "🏛️",
    "color": "#b8860b",
    "articles": [
+    {
+     "title": "David Lyons (1935-2026)",
+     "url": "https://dailynous.com/2026/11/09/david-lyons-1935-2026/",
+     "summary": "David Lyons, emeritus professor of philosophy and law at Boston University, has died. The following memorial notice is by Aaron Garret (Boston University). David Lyons […]",
+     "source": "Daily Nous",
+     "published": "2026-11-09T13:49:29+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/11/Lyons-David.jpg",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Online Philosophy Resources Weekly Update",
+     "url": "https://dailynous.com/2026/11/09/online-philosophy-resources-weekly-update-447/",
+     "summary": "New and revised entries at online philosophy resources, new reviews of philosophy books, new podcast episodes, recently published open access philosophy books, and more… . […]",
+     "source": "Daily Nous",
+     "published": "2026-11-09T13:37:50+00:00",
+     "image": "https://dailynous.com/wp-content/uploads/2026/09/weekly-update-logo-2023.png",
+     "topic": "philosophy"
+    },
+    {
+     "title": "A trip to upside-down world",
+     "url": "https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world",
+     "summary": "Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece - by Aeon Video Watch on Aeon",
+     "source": "Aeon",
+     "published": "2026-11-09T11:01:00+00:00",
+     "image": "https://images.aeonmedia.co/images/9bf1c0dd-504c-49d4-8e80-196350a549a4/a-trip-to-upside-down-world-landscape-1.jpg?width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "Equality talk",
+     "url": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
+     "summary": "In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon",
+     "source": "Aeon",
+     "published": "2026-11-09T11:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/f220e1d9-d115-41d2-8d6b-19080731b06a/essay-par161210.jpg?width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
+     "title": "The ethics of having a good time at Disney World, Florida",
+     "url": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
+     "summary": "Is the value of the universalist experience undermined by the profit-hungry global corporation behind the theme parks? - by Adam Kadlac Read on Psyche",
+     "source": "Psyche",
+     "published": "2026-11-09T11:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/ff18a74b-939d-4635-bdde-6e865b0ee1ad/sz-final-gettyimages-2254333607.jpg?top=138&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
     {
      "title": "How to break a bad habit",
      "url": "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story",
@@ -539,15 +584,6 @@
      "topic": "philosophy"
     },
     {
-     "title": "How to take notes that actually help you learn",
-     "url": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
-     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche",
-     "source": "Psyche",
-     "published": "2026-11-05T11:00:00+00:00",
-     "image": "https://images.aeonmedia.co/images/0639d30e-055d-4f29-afdb-1375f1ddbe12/sz-adrianna-geo-rjdxjv3vxe4-unsplash.jpg?top=127&left=0&cropWidth=2416&cropHeight=1359&width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
      "title": "Who am I if I don’t run?",
      "url": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
      "summary": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche",
@@ -557,57 +593,21 @@
      "topic": "philosophy"
     },
     {
+     "title": "How to take notes that actually help you learn",
+     "url": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
+     "summary": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche",
+     "source": "Psyche",
+     "published": "2026-11-05T11:00:00+00:00",
+     "image": "https://images.aeonmedia.co/images/0639d30e-055d-4f29-afdb-1375f1ddbe12/sz-adrianna-geo-rjdxjv3vxe4-unsplash.jpg?top=127&left=0&cropWidth=2416&cropHeight=1359&width=1200&quality=75&format=auto",
+     "topic": "philosophy"
+    },
+    {
      "title": "Philosopher-led Team Nets $2.91 Million in Grants for Project on Safeguards of Liberalism",
      "url": "https://dailynous.com/2026/11/04/philosopher-led-team-nets-2-91-million-in-grants-for-project-on-safeguards-of-liberalism/",
      "summary": "A team of researchers led by Purdue University associate professor of philosophy J.P. Messina has been awarded a nearly $2.91 million in funding for its […]",
      "source": "Daily Nous",
      "published": "2026-11-04T13:47:56+00:00",
      "image": "https://dailynous.com/wp-content/uploads/2026/11/jp-messina-jesse-crosson-brian-kogelmann-and-logan-strother-1024x577.jpg",
-     "topic": "philosophy"
-    },
-    {
-     "title": "Like aliens",
-     "url": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
-     "summary": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere - by Aeon Video Watch on Aeon",
-     "source": "Aeon",
-     "published": "2026-11-04T11:01:00+00:00",
-     "image": "https://images.aeonmedia.co/images/6f812564-7b90-4b1d-8500-f9d94bcdab28/like-aliens-landscape-2.jpg?width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
-     "title": "Baby heaven",
-     "url": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
-     "summary": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche",
-     "source": "Psyche",
-     "published": "2026-11-04T11:00:00+00:00",
-     "image": "https://images.aeonmedia.co/images/ea039553-9e26-4e71-b26b-7d0465518731/sz-tommy-bond-5qhbv6pxyy0-unsplash.jpg?top=158&left=0&cropWidth=3024&cropHeight=1701&width=1200&quality=75&format=auto",
-     "topic": "philosophy"
-    },
-    {
-     "title": "Mini-Heap",
-     "url": "https://dailynous.com/2026/11/04/mini-heap-736/",
-     "summary": "New links to interesting stuff elsewhere… Mini-Heap posts usually appear when several new items accumulate in the Heap of Links, a collection of items from around […]",
-     "source": "Daily Nous",
-     "published": "2026-11-04T10:00:00+00:00",
-     "image": "https://dailynous.com/wp-content/uploads/2022/01/miniheap-7-darkmode-compatible-1024x622.png",
-     "topic": "philosophy"
-    },
-    {
-     "title": "New Philosophy Journal Rankings by Citations in SEP in IEP",
-     "url": "https://dailynous.com/2026/11/03/new-philosophy-journal-rankings-by-citations-in-sep-in-iep/",
-     "summary": "A philosopher who has “long been skeptical of journal rankings” based on polls or Scopus data has developed a new way of assessing philosophy journals: […]",
-     "source": "Daily Nous",
-     "published": "2026-11-03T13:17:30+00:00",
-     "image": "https://dailynous.com/wp-content/uploads/2026/11/Ciecierski-Journal-Rankings-SEP-IEP-1900-2026-344x1024.png",
-     "topic": "philosophy"
-    },
-    {
-     "title": "Orbites",
-     "url": "https://psyche.co/videos/in-my-dreams-i-can-see-a-blind-womans-rich-sensory-world",
-     "summary": "‘Imagining is another kind of seeing’: immerse in the exquisite sensory world of a woman with impaired vision - Directed by Sarah Seené Watch on Psyche",
-     "source": "Psyche",
-     "published": "2026-11-03T11:01:00+00:00",
-     "image": "https://images.aeonmedia.co/images/ffc6c43c-7573-4dc8-aa21-6444b8d6cd9e/orbites-landscape-3-v1.jpg?top=355&left=316&cropWidth=1920&cropHeight=1080&width=1200&quality=75&format=auto",
      "topic": "philosophy"
     }
    ],
@@ -644,6 +644,15 @@
    "icon": "💞",
    "color": "#e0457b",
    "articles": [
+    {
+     "title": "What are you yearning for? We took to the streets to find out",
+     "url": "https://www.theguardian.com/society/2026/nov/08/what-are-you-yearning-for-we-took-to-the-streets-to-find-out",
+     "summary": "Longing for someone – or something – can be even more thrilling than getting what you want. That knowledge has inspired endless movies, but what do real people yearn for? We asked the question in Glasgow In a world of instant gratification, is it any surprise that many of us have fallen back in love with the idea of “yearning”? Running counter to much of today’s on-demand culture, yearning melds desire and distance…",
+     "source": "The Guardian",
+     "published": "2026-11-08T16:00:44+00:00",
+     "image": "https://i.guim.co.uk/img/media/04a6461cd9f62e972329190d1b537517d1182003/316_0_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=900065f3267b596e9e32052bae3f5793",
+     "topic": "relationships"
+    },
     {
      "title": "This is how we do it: ‘Leaving our cult has made sex more intimate’",
      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/this-is-how-we-do-it-leaving-our-cult-has-made-sex-more-intimate",
@@ -753,15 +762,6 @@
      "topic": "relationships"
     },
     {
-     "title": "They fell in love on The Simpsons and married in real life. Meet the French Homer and Marge",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/the-simpsons-french-homer-marge-married-real-life-peythieu-augereau",
-     "summary": "They have brought TV’s most famous cartoon couple to life in France for the last 38 years. Philippe Peythieu and Véronique Augereau tell all about working and living together for so long, still being lovebirds – and rarely arguing The Simpsons is the biggest cartoon comedy in the world, with suburban couple Homer and Marge at its heart. From their beginnings as high-school sweethearts to the travails of married…",
-     "source": "The Guardian",
-     "published": "2026-11-03T14:33:12+00:00",
-     "image": "https://i.guim.co.uk/img/media/20709bcd03503923b4a2825cd5739061a9889974/817_192_1447_1158/master/1447.jpg?width=700&quality=85&auto=format&fit=max&s=89b9bf8661760417fd76b0c5eac25d13",
-     "topic": "relationships"
-    },
-    {
      "title": "Why Sending Reels Is More Meaningful Than You Think",
      "url": "https://greatergood.berkeley.edu/article/item/why_sending_reels_is_more_meaningful_than_you_think",
      "summary": "Humans are constantly reinventing ways to maintain intimacy with the people we care about most. Today, one of our most ubiquitous connection rituals is reel sharing—that is, sending short social media videos to each other. At a time when much of the conversation about technology centers on how it is eroding human connection, reel sharing and the unspoken social norms that surround it suggest another possibility: a…",
@@ -798,6 +798,24 @@
    "icon": "📈",
    "color": "#2e86de",
    "articles": [
+    {
+     "title": "Do More With Sustainability Data",
+     "url": "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/",
+     "summary": "Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the European Union’s ambitious sustainability reporting framework, the Corporate Sustainability Reporting Directive, was projected to generate approximately €1.7 billion (about $1.8 billion) in one-off costs and €1.9 billion in recurring costs. Even in less regulated markets […]",
+     "source": "MIT Sloan Management Review",
+     "published": "2026-11-09T12:00:41+00:00",
+     "image": "https://sloanreview.mit.edu/wp-content/uploads/2026/10/Teracino_Sustainability-1290x860-1.jpg",
+     "topic": "career"
+    },
+    {
+     "title": "A new start after 60: I was burnt out and facing redundancy. So I set up a bee farm – and learned the joys of a simple life",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/nov/09/new-start-after-60-burnt-out-redundancy-bee-farm-simple-life",
+     "summary": "Jeff Lee had spent decades as an investigative journalist. But when he upped sticks with his wife to buy a farm in rural British Columbia, he didn’t just change jobs – he found a different way to live Jeff Lee became interested in beekeeping in his late 50s after his wife, Amanda, took part in a “beard of bees” event at Science World’s “science of fear” exhibition in Vancouver, Canada, where they lived. She stepped…",
+     "source": "The Guardian",
+     "published": "2026-11-09T06:30:01+00:00",
+     "image": "https://i.guim.co.uk/img/media/5ea622343ea614816aaadd2f9b7217dcd6f33d46/0_348_2400_1920/master/2400.jpg?width=700&quality=85&auto=format&fit=max&s=804697a963cf0720f3d9088bdfae182d",
+     "topic": "career"
+    },
     {
      "title": "The Hidden Consequences of Losing",
      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/the-hidden-consequences-of-losing/",
@@ -905,24 +923,6 @@
      "published": "2026-11-03T15:22:35+00:00",
      "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/11.4.26-musto-big-three-index-fund-corporate-america-GettyImages-1149958175-600x500.jpg",
      "topic": "career"
-    },
-    {
-     "title": "Widening inequality, stagnant pay – Britain urgently needs Labour’s hard-won workers’ rights | Polly Toynbee",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/03/inequality-stagnant-pay-britain-labour-workers-rights-british-social-attitudes-survey-kemi-badenoch",
-     "summary": "The British Social Attitudes survey reveals record levels of dissatisfaction. But still Kemi Badenoch and the business lobby want to take us backwards Britain is unhappier at work than since records began. The British Social Attitudes survey , the nation’s long-running annual pulse-taker, finds growing job dissatisfaction in its report, published today. People complain of a lack of flexibility in working hours, a…",
-     "source": "The Guardian",
-     "published": "2026-11-03T06:00:40+00:00",
-     "image": "https://i.guim.co.uk/img/media/25e6b3a950e21074c3cb2af221b46e5b4edfd8a0/0_284_6211_4972/master/6211.jpg?width=700&quality=85&auto=format&fit=max&s=e915df5a6766869611405507159f2590",
-     "topic": "career"
-    },
-    {
-     "title": "The AI Governance Paradox",
-     "url": "https://sloanreview.mit.edu/article/the-ai-governance-paradox/",
-     "summary": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers — have long understood that safety depends not just on good technology but on how people exercise judgment under uncertainty. The scholarly field of high-reliability organizing (HRO) has identified a clear normative framework to […]",
-     "source": "MIT Sloan Management Review",
-     "published": "2026-11-02T12:00:13+00:00",
-     "image": "https://sloanreview.mit.edu/wp-content/uploads/2026/10/Patil_Governance-1290x860-1.jpg",
-     "topic": "career"
     }
    ],
    "sources": [
@@ -953,6 +953,33 @@
    "color": "#3aa655",
    "articles": [
     {
+     "title": "Common supplement could help fight psoriasis, scientists discover",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+     "summary": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol and autoimmune inflammation.",
+     "source": "ScienceDaily",
+     "published": "2026-11-09T11:44:20+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/woman-pouring-vitamin-d-omega-3-vitamin-supplements-into-hand.webp",
+     "topic": "nutrition"
+    },
+    {
+     "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+     "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift gut bacteria toward producing beneficial substances, revealing a surprising new reason plant-based diets may be good for you.",
+     "source": "ScienceDaily",
+     "published": "2026-11-09T11:32:00+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
+     "topic": "nutrition"
+    },
+    {
+     "title": "Common osteoporosis drugs linked to 24% lower dementia risk in major study",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
+     "summary": "A massive study of more than 120,000 older adults suggests that common osteoporosis drugs may reduce the risk of Alzheimer’s disease and other dementias by up to 24%. The surprising findings raise the possibility that medications already used to strengthen bones could also help protect the aging brain.",
+     "source": "ScienceDaily",
+     "published": "2026-11-09T07:36:14+00:00",
+     "image": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
+     "topic": "nutrition"
+    },
+    {
      "title": "Scientists discover hidden brain changes linked to common sleep disorders",
      "url": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
      "summary": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior. The findings, drawn from 57 brain imaging studies, reveal both shared and disorder-specific patterns that could lead to more targeted treatments.",
@@ -977,33 +1004,6 @@
      "source": "ScienceDaily",
      "published": "2026-11-08T01:27:46+00:00",
      "image": "https://www.sciencedaily.com/images/1920/cannabis-effects-brain-mental-health.webp",
-     "topic": "nutrition"
-    },
-    {
-     "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-     "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same association.",
-     "source": "ScienceDaily",
-     "published": "2026-11-07T10:16:19+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/happy-elderly-man-coffee.webp",
-     "topic": "nutrition"
-    },
-    {
-     "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
-     "summary": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed improvements in blood pressure and nutrient intake, raising questions about longstanding recommendations to choose low-fat dairy.",
-     "source": "ScienceDaily",
-     "published": "2026-11-06T05:51:36+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/milk-eggs-butter-cheese-dairy.webp",
-     "topic": "nutrition"
-    },
-    {
-     "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-     "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the…",
-     "source": "ScienceDaily",
-     "published": "2026-11-06T01:11:19+00:00",
-     "image": "https://www.sciencedaily.com/images/1920/cerebral-angiogram-brain-blood-vessels.webp",
      "topic": "nutrition"
     }
    ],
